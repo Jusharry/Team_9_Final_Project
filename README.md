@@ -5,15 +5,11 @@ The reason the Team chose this topic is the relativity of the dataset in the cur
 
 Results:
 
-unsupervised
+below shows a png of the machine learning and unsupervised
 ![plot](Resources/Images/Ml.png)
 
 Below shows a PNG of the Preprocessing Data
-
-
-
-below shows a png of the machine learning data 
-
-
+![plot](Resources/Images/Preprocessing Data.png)
 
 below shows a png of the prediective value 
+![plot](Resources/Images/prediected value.png)
