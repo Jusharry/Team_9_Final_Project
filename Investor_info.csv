@@ -1,0 +1,995 @@
+ID,Investors Count,Select Inverstors,Total Raised($)
+UC_0,28,"Sequoia Capital China, SIG Asia Investments, Sina Weibo, Softbank Group",7440000000.0
+UC_1,29,"Founders Fund, Draper Fisher Jurvetson, Rothenberg Ventures",6874000000.0
+UC_2,39,"Khosla Ventures, LowercaseCapital, capitalG",2901000000.0
+UC_3,56,"Institutional Venture Partners, Sequoia Capital, General Atlantic",3472000000.0
+UC_4,25,"Tencent Holdings, KKR, Smash Ventures",4377000000.0
+UC_5,26,"Sequoia Capital China, Blackbird Ventures, Matrix Partners",571260000.0
+UC_6,15,"Tiger Global Management, Insight Partners, DST Global",1830000000.0
+UC_7,29,"Khosla Ventures, Kleiner Perkins Caufield & Byers, Collaborative Fund",2686000000.0
+UC_8,29,"Andreessen Horowitz, New Enterprise Associates, Battery Ventures",3497000000.0
+UC_9,31,"index Ventures, DST Global, Ribbit Capital",1716000000.0
+UC_10,40,None,1829000000.0
+UC_11,21,"SoftBank Group, Andreessen Horowitz, Temasek Holdings",4190000000.0000005
+UC_12,24,"Forerunner Ventures, Crosslink Capital, Homebrew",2599000000.0
+UC_13,45,"Tencent Holdings, Lightspeed India Partners, Sequoia Capital India",5183000000.0
+UC_14,9,"GGV Capital, ZhenFund, Tencent",917500000.0
+UC_15,9,"Hillhouse Capital Management, Boyu Capital, Sequoia Capital China",4653000000.0
+UC_16,18,"Accel, AltaIR Capital, Technology Crossover Ventures",4750000000.0
+UC_17,18,"Tencent Holdings, Warbug Pincus, IDG Capital",4043999999.9999995
+UC_18,7,"Accel Partners, Sequoia Capital",1135000000.0
+UC_19,8,"Tiger Global Management, Sequoia Capital China, Shunwei Capital Partners",553360000.0
+UC_20,16,"Accel, Softbank Group, Anthos Capital",3397000000.0
+UC_21,13,"Sequoia Capital China, Longfor Capitalm, Gaorong Capital",721310000.0
+UC_22,34,"IDG Capital, Venture51, Lightspeed Venture Partners",293900000.0
+UC_23,24,"New Enterprise Associates, Spar Capital, Index Ventures",734800000.0
+UC_24,26,"Andreessen Horowitz, Thirty Five Ventures, Sound Ventures",425120000.0
+UC_25,8,"General Catalyst, Institutional Venture Partners, Breyer Capital",4000000000.0
+UC_26,16,"Andreessen Horowitz, F-Prime Capital, Venrock",1969000000.0
+UC_27,14,"Khosla Ventures, Forerunner Ventures, Sequoia Capital",1096000000.0
+UC_28,28,"DST Global, Ribbit Capital, Greenoaks Capital Management",1490000000.0
+UC_29,28,Tiger Global Management,1490000000.0
+UC_30,28,"Coatue Management, Sequoia Capital China, IDG Capital",1490000000.0
+UC_31,10,"Vickers Venture Partners, IKEA GreenTech",561500000.0
+UC_32,8,"New Enterprise Associates, BDT Capital Partners, Davidson Kempner Capital Management",1800000000.0
+UC_33,41,"Caffeinated Capital, CRV, Founder Collective",1353000000.0
+UC_34,19,"LTW Capital, Legend Capital, Qualcomm Ventures",210830000.0
+UC_35,6,"Aviation Industry Corporation of China, Essence Financial, Jiangsu Sha Steel Group",6255000000.0
+UC_36,13,"Accel, 83North",1368000000.0
+UC_37,37,"Activant Capital, Tribe Capital, General Atlantic",9630000000.0
+UC_38,27,"DFJ Growth Fund, Coatue Management, Addition",5450000000.0
+UC_40,36,"Accel India, SAIF Partners, Norwest Venture Partners",3571000000.0
+UC_41,15,"MindWorks Ventures, Shunwei Capital Partners, Xiang He Capital",2475000000.0
+UC_42,20,"Index Ventures, Greylock Partners, Kleiner Perkins Caufield & Byers",333500000.0
+UC_43,70,"General Catalyst Partners, Google Ventures, Kleiner Perkins Caufield & Byers",691120000.0
+UC_44,33,"Y Combinator, Sequoia Capital, Coatue Management",1326000000.0
+UC_45,19,"DJF, Salesforce Ventures, Storm Ventures",504770000.0
+UC_46,17,"Index Ventures, Draft Ventures, Felicis Ventures",3420000000.0
+UC_47,22,"Upper90, RiverPark Ventures, Advent International",3396000000.0
+UC_48,22,"Ribbit Capital, capitalG, Softbank Group",3396000000.0
+UC_49,13,"KKR, ES Ventures, North Bridge Growth Equity",572010000.0
+UC_50,16,"Bessemer Venture Partners, ICONIQ Capital, Battery Ventures",1099000000.0
+UC_51,13,"Sequoia Capital China, Tencent Investment, BA Capital",579230000.0
+UC_52,21,"Redalpine Venture Partners, Earlybird Venture Capital, Valar Ventures",1722000000.0
+UC_53,15,"Summit Partners, Accel, Astral Capital",678500000.0
+UC_54,54,"Vattenfall, Volkswagen Group, Goldman Sachs",6162000000.0
+UC_55,15,"Andreessen Horowitz, Nor-Cal Invest, TPG Growth",1170000000.0
+UC_56,35,"Sequoia Capital China, GX Capital",4304000000.0
+UC_57,22,"Nintendo, Google, Pokemon Company International, Spark Capital",7700000000.0
+UC_58,20,"SoftBank Group, Sequoia Capital India,Lightspeed India Partners",3114000000.0
+UC_59,21,"Target Global, General Catalyst, Durable Capital Partners",7750000000.0
+UC_60,16,"DST Global, SoftBank Group, Mountain Nazca",1188000000.0
+UC_61,26,"BOLDstart Ventures, Google Ventures, Accel",1026000000.0
+UC_62,11,"SoftBank Group, Greylock Partners, Gaorong Capital",2132000000.0
+UC_63,28,"Didi Chuxing, Diamler, TMT Investments",1971000000.0
+UC_64,19,"Sutter Hill Ventures, Liberty Global Ventures, Coatue Management",1907000000.0
+UC_65,10,"01 Advisors, Zeev Ventures, Group 11",5560000000.0
+UC_66,10,"New Enterprise Associates, T. Rowe Associates, Lightbank",1070000000.0000001
+UC_67,14,"KKR, Tencent Holdings, Sequoia Capital China",5040000000.0
+UC_68,15,"Kaalari Capital, Tencent Holdings, Steadview Capital",1165000000.0
+UC_69,27,"Tenaya Capital, Coatue Management, Stripes Group",1038999999.9999999
+UC_70,18,"D1 Capital Partners, Stripe, Coatue Management",8270000000.0
+UC_71,28,"Bloomberg Beta, Founders Fund, First Round Capital",2237000000.0
+UC_72,17,"Sixth Street Partners, OrbiMed Advisors, Highland Capital Management",1314000000.0
+UC_73,85,"Union Square Ventures, Venrock, Andreessen Horowitz",671900000.0
+UC_75,15,"Tiger Global Management, Sequoia Capital, Revo Capital",1172000000.0
+UC_76,13,"Lightspeed Venture Partners, Social Capital, Accel",1040000000.0
+UC_77,24,"Sequoia Capital India, Tiger Global Management, Matrix Partners India",741620000.0
+UC_78,17,"Bessemer Venture Partners, Qualcomm Ventures, Kleiner Perkins Caufield & Byers",844200000.0
+UC_79,32,"Menlo Ventures, Spark Capital, Union Square Ventures",1158000000.0
+UC_80,1,"Accel, Y Combinator, Index Ventures",0.0
+UC_82,13,"Norwest Venture Partners, Next World Capital, Wing Venture Capital",5830000000.0
+UC_83,13,"Andreessen Horowitz, Lightspeed Venture Partners, Zeev Ventures",1040000000.0
+UC_84,15,"Morgan Creek Digital, Marcy Venture Partners, 10T Fund",4000000000.0
+UC_85,16,"Tencent, Morningside Group",1786000000.0
+UC_86,28,"Benchmark, Greylock Partners, Tencent Holdings",979300000.0
+UC_87,27,"Initialized Capital, General Catalyst, SignalFire",1026999999.9999999
+UC_88,8,"General Atlantic, Goldman Sachs, New Enterprise Associates",8400000000.0
+UC_89,30,"Slack Fund, Accel, Skip Capital",920140000.0
+UC_90,12,"Sequoia Capital China, Warburg Pincus, General Catalyst",2121000000.0
+UC_91,7,"TA Associates, SoftBank Group, GS Growth",149500000.0
+UC_92,12,Technology Crossover Ventures,934320000.0
+UC_93,15,"Initialized Capital, Y Combinator, Kleiner Perkins Caufield & Byers",447120000.0
+UC_95,36,"New Enterprise Associates, Accomplice, IA Ventures",1089000000.0
+UC_96,17,"Global Founders Capital, Nortzone Ventures, Picus Capital",524830000.00000006
+UC_97,23,"Union Square Ventures, Ribbit Capital, VY Capital",562500000.0
+UC_98,13,"Atomico, Insight Partners, Coatue Management",853850000.0
+UC_99,1,Barter Ventures,6450000000.0
+UC_100,29,"Thrive Capital, Benchmark, MenloVentures",4120000000.0
+UC_101,32,"Warmsun Holding, IDG Capital Partners",1414000000.0
+UC_102,2,"Pine Brook, American Express Ventures, Kleiner Perkins Caufield & Byers",1420000.0
+UC_103,10,"Insight Partners, Sequoia Capital, Index Ventures",6000000000.0
+UC_104,28,"BlackRock, Blackstone, UBS",729220000.0
+UC_105,25,"Sequoia Capital India, Temasek, PayPal Ventures",1077000000.0
+UC_106,19,"Venrock, Battery Ventures, Insight Partners",4240000000.0
+UC_107,12,"NextView Ventures, Eniac Ventures, Sequoia Capital",864520000.0
+UC_108,12,"Alibaba Group, Boyu Capital, Borui Capital",2085000000.0
+UC_109,15,"Tencent, Baidu, Huasheng Capital",1701000000.0
+UC_110,14,"Technology Crossover Ventures, A&E Television Networks",1555000000.0
+UC_111,17,"Thrive Capital, Maverick Ventures, Redpoint Ventures",891300000.0
+UC_112,11,"Battery Ventures, Storm Ventures, Redpoint Ventures",4150000000.0
+UC_113,12,"Aglae Ventures, Eurazeo, Daphni",1020999999.9999999
+UC_114,4,"Blackstone, Technology Crossover Ventures, Summit Partners",792360000.0
+UC_115,8,"Nexus Venture Partners, CRV, Insight Partners",4330000000.0
+UC_116,8,"Matrix Partners, Andreessen Horowitz, General Catalyst",728020000.0
+UC_117,25,"Sequoia Capital China, IDG Capital, DCM Ventures",1093000000.0
+UC_118,7,"Founders Fund. Accel, Creandum",986880000.0
+UC_119,35,"DST Global, Andreessen Horowitz, Sequoia Capital, Redpoint e.ventures",2248000000.0
+UC_120,13,"Index Ventures, Battery Ventures, ICONIQ Capital",595900000.0
+UC_121,22,"Lightspeed Venture Partners, Google Ventures, Lakestar",490500000.0
+UC_122,5,Insight Partners,937290000.0
+UC_123,16,"Kaszek Ventures, General Atlantic, SoftBank Group",755740000.0
+UC_125,6,"China Life Insurance, China Development Bank Capital, CITIC Securities International",5000000000.0
+UC_126,13,"Ant Financial Services Group, GGV Capital",2701000000.0
+UC_127,19,"Andreessen Horowitz, Spark Capital, Y Combinator",625150000.0
+UC_128,23,"DST Global, Sequoia Capital China, Tencent Holdings",8020000000.0
+UC_129,10,"Runa Capital, Acton Capital Partners, Point Nine Capital",445510000.0
+UC_130,56,"Hillhouse Capital Management, Linear Venture, Morningside Venture Capital",2200000000.0
+UC_131,35,"Baidu Capital, Linear Venture, Tencent",5987000000.0
+UC_132,4,"General Atlantic, 3i Group, Huagai Capital",187260000.0
+UC_133,10,"Walden International, Google Ventures, Intel Capital",1132000000.0
+UC_134,9,"Accel, Technology Crossover Ventures, LeapFrog Investments",6920000000.0
+UC_135,10,"Clermont Group, Coltrane Asset Management, Toscafund Asset Management",990520000.0
+UC_136,10,"Insight Partners, Andalusian Capital Partners",990520000.0
+UC_137,14,"Matrix Partners India, Falcon Edge Capital, SoftBank Group",855550000.0
+UC_138,17,"Google Ventures, Benchmark, FirstMark Capital",632850000.0
+UC_139,17,"Alven Capital, Valar Ventures, Tencent Holdings",703390000.0
+UC_140,20,"SoftBank Group, Tiger Global Management, Matrix Partners India",822290000.0
+UC_141,12,"Eight Roads Ventures, Greycroft, Ignition Partners",371500000.0
+UC_142,18,"Capital One Growth Ventures, Citi Ventures, OMERS Ventures",614200000.0
+UC_143,26,"Venture Highway, Sequoia Capital India, Prosus Ventures",1061000000.0
+UC_144,1,"Oak HC/FT Partners, Artis Ventures, WestCap Group",0.0
+UC_145,25,"Kaszek Ventures, Amadeus Capital Partners, Quona Capital",867440000.0
+UC_147,16,"Creandum, Founders, Kinnevik",428800000.0
+UC_148,14,"Andreessen Horowitz, Founders Fund, Revolution Ventures",828500000.0
+UC_149,22,"Greylock Partners, Venrock, Providence Ventures",906130000.0
+UC_150,16,"Alven Capital, FirstMark Capital, capitalG",646600000.0
+UC_151,24,"Y Combinator, Accel, T. Rowe Price",5590000000.0
+UC_152,25,"General Catalyst, Viking Global Investors, T. Rowe Price",496040000.0
+UC_153,4,"Telling Telecommunication Holding Co., Alibaba Group",943100000.0
+UC_154,9,"Accel, Insight Partners, Burda Principal Investments",562230000.0
+UC_155,12,"Sequoia Capital China, Tencent Holdings, Sinovation Ventures",975490000.0
+UC_156,22,"Two Sigma Ventures, Flint Capital, Commerce Ventures",648250000.0
+UC_157,2,"Passion Capital, Thrive Capital, Orange Digital Ventures",0.0
+UC_158,22,"CDH Investments, Goldstone Investments, Qiming Venture Partners",645600000.0
+UC_159,27,"Mayfield Fund, M12, Trinity Ventures",489780000.0
+UC_160,30,"Atop Capital, IDInvest Partners, Qiming Venture Partners",7890000000.0
+UC_161,18,"Threshold Ventures, Lightspeed Venture Partners, Crosslink Capital",566900000.0
+UC_162,14,"Lightspeed Venture Partners, Redpoint Ventures, Viking Global Investors",498250000.0
+UC_163,24,"Benchmark, Accel, SoftBank Group",737080000.0
+UC_164,35,"Playground Global, Bond, Tribe Capital",1385000000.0
+UC_165,21,"Sequoia Capital China, Qiming Venture Partners, Tencent Holdings",971140000.0
+UC_166,25,"Addition, Benhcmark, Accel",366720000.0
+UC_167,20,"Lightspeed Venture Partners, Khosla Ventures, Geodesic Capital",673700000.0
+UC_168,5,"Vista Equity Partners, Wincove, TDR Capital",353500000.0
+UC_169,12,"Andreessen Horowitz, Amplify Partners, Sequoia Capital",415900000.0
+UC_171,35,"Venrock, Institutional Venture Partners, Goldman Sachs",1044000000.0
+UC_172,12,"Speedinvest, Valar Ventures, Uniqa Ventures",497430000.0
+UC_173,14,"Goodwater Capital, iFly, XVC Venture Capital",836300000.0
+UC_174,18,"New Enterprise Associates, Sequoia Capital, Comcast Ventures",613600000.0
+UC_176,8,Formation 8,216070000.0
+UC_177,18,"Ant Financial Services Group, Russia-China Investment Fund, Foxconn Technology Company",1358000000.0
+UC_178,2,"SoftBank Group, General Atlantic",1705000000.0
+UC_179,38,"Khosla Ventures, Horizons Ventures, Temasek Holdings",2005999999.9999998
+UC_180,4,"New Enterprise Associates, Starr Investment Holdings",1347000000.0
+UC_181,17,"Zeev Ventures, Ribbit Capital, TLV Partners",8810000000.0
+UC_182,28,"Index Ventures, Thrive Capital, CRV",412100000.0
+UC_183,3,"Dragoneer Investment Group, Hellman & Friedman, JMI Equity",86880000.0
+UC_186,3,"Accel, Insight Partners, Bond Capital",2500000000.0
+UC_187,16,"Drive Capital, General Catalyst, Ascension Ventures",858800000.0
+UC_188,10,"Greylock Partners, Lightspeed Venture Partners, Khosla Ventures",5530000000.0
+UC_189,13,"Accel, Aleph, American Express Ventures",5040000000.0
+UC_190,23,"SoftBank Group, Norwest Venture Partners",8020000000.0
+UC_191,6,"Georgian Partners, Craft Ventures",5350000000.0
+UC_192,14,"Benchmark, Foundation Capital, Sequoia Capital",7180000000.0
+UC_193,21,"Blackrock, Kleiner Perkins Caulfield & Byers, Google Ventures",739600000.0
+UC_194,15,"New Enterprise Associates, Pear, Cowboy Ventures",5420000000.0
+UC_195,9,"Fifth Wall Ventures, Energize Ventures, 	ICONIQ Capital",520400000.0
+UC_196,10,"China Health Industry Investment Fund, China Renaissance, and Sequoia Capital China",764740000.0
+UC_197,38,"New Enterprise Associates, New Leaf Venture Partners, Charter Venture Capital",1487000000.0
+UC_198,30,"Google Ventures, Battery Ventures, DST Global",5200000000.0
+UC_199,15,"Y Combinator, Atomico, Accel",1100000000.0
+UC_200,25,"General Atlantic, Blackstone, ICONIQ Growth",376500000.0
+UC_201,25,"Blackstone, ICONIQ Growth, General Atlantic",376500000.0
+UC_202,15,"Tiger Global Management, American Express Ventures, B Capital Group",2770000000.0
+UC_203,14,"Casa Verde Capital, Gron Ventures, Thrity Five Ventures",6030000000.0
+UC_204,22,"SoftBank Group, Sequoia Capital, Wing Venture Capital",6600000000.0
+UC_205,11,"Norwest Venture Partners, Goldman Sachs, Dell Technologies Capital",2630000000.0
+UC_206,28,"Upfront Ventures, Webb Investment Network, D1 Capital Partners",491620000.0
+UC_207,28,"Qualcomm Ventures, Samsung Ventures, Silver Lake",627800000.0
+UC_208,12,"Breakthrough Energy Ventures, Capricorn Investment Group, Valor Equity Partners",7920000000.0
+UC_209,16,"Bessemer Venture Partners, Insight Partners, New Era Ventures",4380000000.0
+UC_210,22,"India Quotient, Elevation Capital, Lightspeed Venture Partners",1277000000.0
+UC_211,2,"Silver Lake, ICONIQ Capital",1250000000.0
+UC_212,36,"NextView Ventures, Promus Ventures, Two Sigma Ventures",404380000.0
+UC_213,21,"Andreessen Horowitz, Lux Capital, General Catalyst",3400000000.0
+UC_214,17,"NewView Capital, Maveron, Ridge Ventures",475680000.0
+UC_215,2,EQT Partners,815490000.0
+UC_216,10,"Activant Capital Group, Alaska Permanent Fund, Baillie Gifford & Co.",1177000000.0
+UC_217,1,None,263120000.0
+UC_218,13,"First Round Capital, Sequoia Capital, Index Ventures",294820000.0
+UC_219,15,"Fairfax Financial Holdings, A91 Partners, TVS Capital",424160000.0
+UC_220,2,"General Catalyst, HCA Healthcare",743890000.0
+UC_221,6,"Elaia Partners, 83North, Felix Capital",9480000000.0
+UC_222,14,"Two Sigma Ventures, Flint Capital, Commerce Ventures",5200000000.0
+UC_223,14,"Airbus Ventures, Index Ventures, Advent International",4000000000.0
+UC_224,4,"WestCap Group, Caisse de depot et placement du Quebec",778800000.0
+UC_225,13,"DN Capital, Left Lane Capital, Coatue Management",684790000.0
+UC_226,13,"Madrona Venture Group, Shasta Ventures, Salesforce Ventures",652850000.0
+UC_227,16,"Kleiner Perkins Caufield & Byers, Lightspeed Venture Partners, True Ventures",430500000.0
+UC_228,6,"Insight Partners, Tiger Global Management, Accel",468650000.0
+UC_229,15,"Matrix Partners, Initialized Capital, Tiger Global Management",382140000.0
+UC_230,34,"Blume Ventures, Nexus Venture Partners, Sequoia Capital India",875730000.0
+UC_231,6,"New Enterprise Associates, Coatue Management, Tiger Global Management",5550000000.0
+UC_232,4,"Tiger Global Management, Kalaari Capital",540000000.0
+UC_233,7,"China Environmental Protection Industry, China Fortune Ocean",1326000000.0
+UC_234,12,"Insight Partners, Salesforce Ventures, Vertex Ventures",507250000.0
+UC_235,1,"Index Ventures, Coatue Management, Andreessen Horowitz",0.0
+UC_236,38,"Oriza Holdings, Guangdong Technology Financial Group",778820000.0
+UC_237,6,"Geely, SIG Asia Investments, China State Capital Venture Capital Fund",443670000.0
+UC_238,15,"Bessemer Venture Partners, Sutter Hill Ventures, Matrix Partners",930830000.0
+UC_239,53,"Greycroft, Sands Capital, Revolution Growth",998500000.0
+UC_240,10,"Andreessen Horowitz, IA Ventures, Felicis Ventures",3150000000.0
+UC_241,20,"Sequoia Capital China, DST Global, DST Global",769860000.0
+UC_242,30,"Moore Strategic Ventures, DST Global, Sequoia Capital India",1296000000.0
+UC_243,34,"BOLDstart Ventures, Lerer Hippeau, Kenetic Capital",401540000.0
+UC_244,1,Alibaba Pictures Group,1540000000.0
+UC_245,26,"Tiger Global, Sequoia Capital, Google Capital",698850000.0
+UC_246,16,"Thrive Capital, Founders Fund, Cocnord Health Partners",350810000.0
+UC_247,13,"Sequoia Capital India, Softbank, Bertelsmann India Investments",593460000.0
+UC_248,23,"AME Cloud Ventures, Future Perfect Ventures, Blockchain Capital",3110000000.0
+UC_249,24,"Third Point, Electric Capital, Coinbase Ventures",282500000.0
+UC_250,27,"M12, WestBridge Capital, Lightspeed Venture Partners",375680000.0
+UC_251,10,"Accel, Sequoia Capital, Y Combinator",331120000.0
+UC_252,5,"Thrive Capital, Alliance Consumer Growth, Imaginary Ventures",3940000000.0
+UC_253,10,"Playground Global, M12, BlackRock",728500000.0
+UC_254,13,"Dragoneer Investment Group, DST Global, Franklin Templeton",6000000000.0
+UC_255,21,"DST Global, Lightspeed Venture Partners, Microsoft ScaleUp",1447000000.0
+UC_256,11,"Susquehanna Growth Equity, Citi Ventures, ICONIQ Capital",4750000000.0
+UC_257,24,"Kaszek Ventures, Qualcomm Ventures, Accel",628300000.0
+UC_258,24,"Falcon Edge Capital, Omidyar Network, Sequoia Capital India",868670000.0
+UC_259,10,"Sequoia Capital China, Sina Weibo, Kleiner Perkins Caufield & Byers, Redpoint Ventures",7750000000.0
+UC_260,8,"Global Founders Capital, East Ventures, Expedia Inc.",1170000000.0
+UC_261,22,"Morningside Ventures, Warburg Pincus, CreditEase Fintech Investment Fund",1282000000.0
+UC_262,1,CPP Investment Board,9000000000.0
+UC_263,34,"General Catalyst, Digital Currency Group, Accel",712500000.0
+UC_264,17,"Sequoia Capital China, Xiang He Capital, GGV Capital",3435000000.0
+UC_265,16,"Times Internet, Nexus Venture Partners, SoftBank Group",1361000000.0
+UC_266,16,"Holtzbrinck Ventures, Unternehmertum Venture Capital, General Atlantic",1211000000.0
+UC_267,9,"Benchmark, Bessemer Venture Partners",1800000000.0
+UC_268,19,"Artiman Ventures, Plug and Play Ventures, Anthos Capital",479910000.0
+UC_269,17,"Sequoia Capital Israel, Scale Venture Partners, Commerce Ventures",5250000000.0
+UC_270,4,"ICONIQ Capital, OpenView Venture Partners",350550000.0
+UC_271,44,"ConsenSys Ventures, Valar Ventures, PUC",512750000.0
+UC_272,4,"Silversmith Capital Partners, Susquehanna Growth Equity, Tiger Global Management",3600000000.0
+UC_273,14,"Cambridge Innovation Capital, LGT Capital Partners, Escala Capital",986300000.0
+UC_274,14,"Spectrum Equity, ICONIQ Capital, Grayhawk Capital",1660000000.0
+UC_275,4,Iconiq Capital,481500000.0
+UC_276,36,"Brookfield Asset Management, Blackstone, Data Collective",523179999.99999994
+UC_277,13,"Balderton Capital, General Catalyst, Tiger Global Management",3310000000.0
+UC_278,13,"Uncork Capital, Threshold Ventures, Bloomberg Beta",330340000.0
+UC_279,8,"Jackson Square Ventures, General Atlantic, Lightspeed Venture Partners",426500000.0
+UC_280,5,"Lightspeed Venture Partners, Lead Edge Capital, Coatue Management",330230000.0
+UC_281,14,"Coatue Management, Atlantic Food Labs, DST Global",1335000000.0
+UC_282,18,"Fabric Ventures, 500 Global, Standard Crypto",1610000000.0
+UC_283,13,"Uniion Square Ventures, Tiger Global Management, Lightspeed Venture Capital",240020000.0
+UC_284,10,"Tiger Global Management, Insight Partners, Jump Capital",339370000.0
+UC_285,17,"Tiger Global Management, Sequoia Capital India, Ribbit Capital",399890000.0
+UC_286,12,"Accel, Summit Partners, Google Ventures",422220000.0
+UC_287,23,"83North, RiverPark Ventures, Pitango Venture Capital",697060000.0
+UC_288,28,"Andreessen Horowitz, Blockchain Capital, Lux Capital",4870000000.0
+UC_289,5,"Coatue Management, BMO Capital, Schonfeld Strategic Advisors",486500000.0
+UC_290,17,"Khosla Ventures, Thrive Capital, Y Combinator",329320000.0
+UC_291,41,"Green Visor Capital, CRE Venture Capital, Greycroft",474710000.0
+UC_292,18,None,3280000000.0
+UC_293,11,"Bnk To The Future, Trammell Ventures, SBI Investment",18570000.0
+UC_294,6,Khosla Ventures,1250000000.0
+UC_295,3,"Grab, Tokopedia, Tokyo Century Corporation",1160000000.0
+UC_296,16,"Founders Fund, Quantum Energy Partners, Bedrock Capital",752500000.0
+UC_297,34,"Monashees+, Andreessen Horowitz, QED Investors",7880000000.0
+UC_298,22,"Insight Partners, Sequoia Capital India, BEENEXT",702250000.0
+UC_299,13,"Point72 Ventures, Route 66 Ventures, Accel",537710000.0
+UC_300,10,"Mubadala Capital, Bond, Prosus Ventures",1042000000.0
+UC_301,9,"Tiger Global Management, Blue Lake Capital, ZhenFund",651600000.0
+UC_302,11,"Highland Europe, Eurazeo, Canaan Partners",8120000000.0
+UC_303,37,"Sequoia Capital, Baillie Gifford & Co., Google Ventures",487160000.0
+UC_304,29,"Dell Technologies Capital, Pitango Venture Capital, Amadeus Capital Partners",6820000000.0
+UC_305,18,"Data Collective, Formation 8, General Catalyst Partners",557150000.0
+UC_306,43,"Greylock Partners, capitalG, Y Combinator",675460000.0
+UC_307,31,"Institutional Venture Partners, New Enterprise Associates, Javelin Venture Partners",461400000.0
+UC_308,6,"Makers Fund, Index Ventures, Inova Ventures Participacees",467200000.0
+UC_309,11,"General Atlantic, Insight Partners, Vintage Investment Partners",5830000000.0
+UC_310,13,"HD Capital, Qihoo 360 Technology, China Fortune Land Development",3146000000.0
+UC_311,28,"Notion Capital, Scentan Ventures, Kite Ventures",1103000000.0
+UC_312,2,Goldman Sachs Asset Management,207500000.0
+UC_313,3,KKR,4200000000.0
+UC_314,12,"General Atlantic, Piton Capital, Partech Partners",708730000.0
+UC_315,8,"Redpoint Ventures, Goldcrest Capital, Insight Partners",2230000000.0
+UC_316,18,"Contour Venture Partners, Battery Ventures, Core Capital Partners",359170000.0
+UC_317,15,"Insight Partners, Jackson Square Ventures, Liberty Gloval Ventures",712930000.0
+UC_318,16,None,470710000.0
+UC_319,8,"JD.com, Baidu, Vision Plus Capital",1330000000.0
+UC_320,20,"Foundry Group, General Atlantic, BlackRock",418450000.0
+UC_321,20,Rhone Capital,418450000.0
+UC_322,11,"FAW Group, Tencent Holdings, Tus Holdings",1208000000.0
+UC_323,8,"Goldman Sachs, VebVentures, Insight Partners",427510000.0
+UC_324,10,"Coatue Managemeny, Trinity Ventures, Matrix Partners",262820000.0
+UC_325,18,"Chiratae Ventures, PremjiInvest, Softbank",675900000.0
+UC_326,26,"Accel, Tiger Global Management, Nexus Venture Partners",381400000.0
+UC_327,14,"Warburg Pincus, The Rise Fund, HarbourVest Partners",991330000.0
+UC_328,10,"Aspect Ventures, SingTel Innov8, Greylock Partners",5120000000.0
+UC_329,6,"Warburg Pincus, General Catalyst",561820000.0
+UC_330,16,"CRV, Accel, Google Ventures",3130000000.0
+UC_331,12,"Accel, Bain Capital Ventures, Insight Partners",728200000.0
+UC_332,24,"Sequoia Capital India, Kae Capital, Accel",656670000.0
+UC_333,25,"Chiratae Ventures, March Capital Partners, National Grid Partners",626630000.0
+UC_334,14,"The Blue Venture Fund, Flare Capital Partners, Longitude Capital",4650000000.0
+UC_335,21,"Soros Fund Management, Ribbit Capital, Monashees+",6080000000.0
+UC_336,30,"Sequoia Capital India, RTP Global, Go-Ventures",377700000.0
+UC_337,8,"SoftBank Group, CRV, Spark Capital",713620000.0
+UC_338,4,"Shunwei Capital Partners, China Media Group, Guangzhou Huiyin Aofeng Equity Investment Fund",535860000.0
+UC_339,9,"Shunwei Capital Partners, China Media Group, Guangzhou Huiyin Aofeng Equity Investment Fund",125580000.0
+UC_340,24,"Google Ventures, Sequoia Capital, Wakefield Group",6920000000.0
+UC_341,22,"Info Edge, Softbank Capital",633780000.0
+UC_343,9,"Norwest Venture Partners, Aspect Ventures, Lightspeed Venture Partners",3900000000.0
+UC_344,9,"Menlo Ventures, GGV Capital, Flybridge Capital Partners",3900000000.0
+UC_345,22,"T. Rowe Price, Dragoneer Investment Group, BlackRock",711730000.0
+UC_346,9,"T. Rowe Price, Lockheed Martin Ventures, Fidelity Investment",483500000.0
+UC_347,20,"Emergence Capital Partners, 8VC, Chicago Ventures",928800000.0
+UC_348,8,"Octopus Ventures, Munich Re Ventures, CommerzVentures",477270000.0
+UC_349,20,"Kibo Ventures, SoftBank Group, Atomico",1072000000.0000001
+UC_350,3,"IMM Investment, NXC",486650000.0
+UC_351,32,"V FUND, IDG Capital, Green Pine Capital Partners",288220000.0
+UC_352,3,"Tencent Holdings, Goldman Sachs",569950000.0
+UC_353,8,"Revolution, New Enterprise Associates, Caterpillar",3170000000.0
+UC_354,8,"Google Ventures, Index Ventures, Scale Venture Partners",417300000.0
+UC_355,4,"RedBird Capital Partners, CJ ENM, Tencent Holdings",2075000000.0000002
+UC_356,22,"Relay Ventures, TTV Capital, Canapi Ventures",556500000.0
+UC_357,31,"Temasek, Google Ventures, General Catalyst",630900000.0
+UC_358,6,"Summit Partners, Noshaq, Sofinnova Partners",3190000000.0
+UC_359,10,"Goodwater Capital, Warburg Pincus, GS Growth",433700000.0
+UC_360,9,"Global Founders Capital, Aglae Ventures, Alven Capital",420890000.0
+UC_361,6,"Softbank Group, AME Cloud Ventures, SignalFire",445690000.0
+UC_362,28,"Accel, Alven Capital, Storm Ventures",334340000.0
+UC_363,5,"Knox Lane, Ainge Advisory, Carlson Private Capital Partners,/td>",2770000000.0
+UC_364,1,General Atlantic,0.0
+UC_365,2,Sequoia Capital,286360000.0
+UC_366,18,"Expa, QED Investors, Foundation Capital",383410000.0
+UC_367,22,"Pantera Capital, QED Investors, Coinbase Ventures",314660000.0
+UC_368,10,"General Atlantic, SoftBank Group, Atomico",529159999.99999994
+UC_369,8,"Sierra Ventures, Battery Ventures, Asset Management Ventures",257640000.0
+UC_370,15,"Andreessen Horowitz, Google Ventures, Section 32",425960000.0
+UC_371,17,"Eastern Bell Capital 32, SDIC CMC Investment Management, Trustbridge Partners",7100000000.0
+UC_372,8,"Bain Capital Ventures, Sixth Street Growth, Lightspeed Venture Partners",4220000000.0
+UC_373,16,"Zhangjiang Haocheng Venture Capital, Walden International, Intel Capital",276350000.0
+UC_374,5,"Deer Park Road, Altamont Capital Partners, Eldridge",1900000000.0
+UC_375,20,"Lightspeed China Partners, Baidu Ventures, Qiming Venture Partners",717290000.0
+UC_376,11,"Sequoia Capital China, Banyan Capital",385120000.0
+UC_377,18,"8VC, D1 Capital Partners, Sway Ventures",513929999.99999994
+UC_378,18,"Eight Roads Ventures, One Peak Partners, Creandum",581100000.0
+UC_379,14,"Plug and Play Ventures, Valor Capital Group, DST Global",3450000000.0
+UC_380,15,"SoftBank Group, SAIF Partners India, Valiant Capital Partners",8310000000.0
+UC_381,6,"Foundation Capital, Institutional Venture Partners, General Catalyst",3970000000.0
+UC_382,9,"Accel, Silversmith Capital Partners, capitalG",214920000.0
+UC_383,17,"VY Capital, Accel, Elevation Capital",441240000.0
+UC_384,3,"ICONIQ Growth, Bain Capital Ventures, Summit Partners",0.0
+UC_385,11,"Lightspeed Venture Partners, Sapphire Ventures, Kleiner Perkins Caufield & Byers",3050000000.0
+UC_386,13,"GSR Ventures, Sapphire Ventures, Streamlined Ventures",533750000.0
+UC_387,24,"Tencent Holdings, Walden Venture Capital, Global Catalyst Partnera",214100000.0
+UC_388,16,"Accel, Passion Capital, Balderton Capital",529320000.00000006
+UC_389,1,L Capital Partners,2000000000.0
+UC_390,14,"RRE Ventures, Tiger Global, August Capital",1730000000.0
+UC_392,13,"Accel Partners, Index Ventures, Insight Venture Partners",564300000.0
+UC_393,13,"Zheshang Venture Capital, GP Capital, Western Capital Management",519630000.0
+UC_394,10,"Y Combinator, Matrix Partners, Benchmark",2860000000.0
+UC_395,7,"Andreessen Horowitz, SoftBank Group, Temasek Holdings",603930000.0
+UC_396,11,"Toyota Motor Corporation, Mizuho Financial Group, FANUC",152190000.0
+UC_397,24,"Pitango Venture Capital, DFJ Growth Fund, Foundry Group",261250000.0
+UC_398,39,"Sequoia Capital China, China Construction Bank, Bank of China",9300000000.0
+UC_399,28,"Insight Venture Partners, TPG Growth, Sound Ventures",217980000.0
+UC_400,3,"Insight Partners, TPG Alternative & Renewable Technologies, Ireland Strategic Investment Fund",617570000.0
+UC_401,13,"Qiming Venture Partners, Capital Today, General Atlantic",4880000000.0
+UC_402,16,"Nexus Venture Partners, Tenaya Capital, Sequoia Capital",4750000000.0
+UC_403,15,"GGV Capital, IDG Capital, Linear Venture",3120000000.0
+UC_404,8,"Magma Venture Partners, Pitango Venture Capital, Qumra Capital",303100000.0
+UC_405,11,"Bertelsmann Asia Investments, GGV Capital, Morningside Venture Capital",614490000.0
+UC_406,13,"Viola Ventures, Dell Technologies Capital, Bain Capital Ventures",3550000000.0
+UC_407,29,"Matrix Partners China, Eastern Bell Capital, Hongtai Capital Holdings",953500000.0
+UC_408,14,"Blackrock, capitalG, World Lab Innovation",367170000.0
+UC_409,15,"Caffeinated Capital, Obvious Ventures, Venrock",376500000.0
+UC_410,1,Blackstone,0.0
+UC_411,6,"Jerusalem Venture Partners, Israel Growth Partners, Insight Partners",98500000.0
+UC_412,9,"Tiantu Capital, CMB International Capital, Vision Knight Capital",423440000.0
+UC_413,15,"Qiming Venture Partners, Kleiner Perkins Caufield & Byers, OrbiMed Advisors",4490000000.0
+UC_414,23,"Highland Capital Partners, Oak HC/FT Partners, Emergence Capital Partners",935010000.0
+UC_415,5,"Tomales Bay Capital, Bain & Company, General Catalyst",850000000.0
+UC_416,10,"Index Ventures, Creandum, Accel",570990000.0
+UC_417,6,"Meritech Capital Partners, Tiger Global Management, Spectrum Equity",5500000000.0
+UC_418,1,"Sequoia Capital, Google Ventures, Accel",5200000.0
+UC_419,13,"Accel, frst, Kima Ventures",497240000.0
+UC_420,18,"Matrix Partners China, Sequoia Capital China, Genesis Capital",421180000.0
+UC_421,36,"next47, MaC Venture Capital, FinVC",3660000000.0
+UC_422,18,"CRV, Blue Cloud Ventures, Index Ventures",342400000.0
+UC_423,1,Undisclosed,2280000000.0
+UC_424,15,"Alta Ventures Mexico, General Atlantic, SoftBank Group",397360000.0
+UC_425,15,"Qualcomm Ventures, SoftBank Group. Monashees+",484320000.0
+UC_426,15,"Insight Partners, Tiger Global Management, Gradient Ventures",192270000.0
+UC_427,15,"Oak HC/FT Partners, GF Investments, Harvey Golub Family Office",417250000.0
+UC_428,3,"A&NN, Rusnano",50000000.0
+UC_429,30,"Tencent Holdings, 5Y Capital, Sequoia Capital China",783810000.0
+UC_430,16,"Andreessen Horowitz, Caffeinated Capital, SciFi VC",1127000000.0
+UC_431,25,"Upfront Ventures, Tao Capital Partners, Andreessen Horowitz",6400000000.0
+UC_432,13,"Sequoia Capital China, Source Code Capital, Redpoint Ventures China",5700000000.0
+UC_433,12,"Ignition Partners, Formation 8, CRV",3400000000.0
+UC_434,20,"Japan Post Capital, Globis Capital Partners, Atomico",409600000.0
+UC_435,9,"Accel, D1 Capita Partners, Greenoaks Capital Management",526500000.0
+UC_436,25,"Rethink Impact, Work-Bench, RRE Ventures",296200000.0
+UC_437,18,"Northern Light Venture Capital, Xiaomi, FutureX Capital",1150000000.0
+UC_438,13,None,5360000000.0
+UC_439,5,"Benchmark, Altimeter Capital, Quiet Capital",133120000.0
+UC_440,26,"Obvious Ventures, Qualcomm Ventures, Andreessen Horowitz",3484000000.0
+UC_441,20,"Northzone Ventures, White Star Capital, Novator Partners",667380000.0
+UC_442,14,"Institutional Venture Partners, Atomico, Earlybird Venture Capital",209930000.0
+UC_443,11,"Lightspeed Venture Partners, Almaz Capital Partners, Altimeter Capital",3000000000.0
+UC_444,7,"Insight Partners, Warburg Pincus, Ayala Corporation",4750000000.0
+UC_445,7,"K9 Ventures, Menlo Ventures, Andreessen Horowitz",314610000.0
+UC_446,6,"Gauss Ventures, Ventura Capital, dmg ventures",339200000.0
+UC_447,23,"ClalTech, Vertex Ventures, Oryzn Capital",5320000000.0
+UC_448,20,"Sequoia Capital, Paradigm, Pantera Capital",167700000.0
+UC_450,10,"8VC, Activant Capital, GLP Capital Partners",490100000.0
+UC_451,20,"Khosla Ventures, Green Innovations, Founders Fund",322160000.0
+UC_452,5,"SoftBank Group, Maverick Capital",3150000000.0
+UC_453,7,"Breega Capital, Iris Capital, 360 Capital Partners",446700000.0
+UC_454,9,"Lightspeed Venture Partners, Redpoint Ventures, Norwest Venture Partners",4050000000.0
+UC_455,15,"DCM Ventures, IDG Capital, Siam Commercial Bank",4550000000.0
+UC_456,2,"Blackstone, Bessemer Venture Partners",0.0
+UC_457,8,"Trustbridge Partners, Hony Capital, IDG Capital",3900000000.0
+UC_458,11,"JTC Group, Qatar Investment Authority, Fidelity Investment",905620000.0
+UC_459,12,"Square Peg Capital, TDM Growth Partners, Tiger Global Management",488500000.0
+UC_460,9,"FirstMark Capital, Tiger Global Management, ICONIQ Capital",350710000.0
+UC_462,31,"Point72 Ventures, Pelion Venture Partners, Commerce Ventures",454130000.0
+UC_463,13,"Venrock, CVF Capital Partners, ARCH Venture Partners",294650000.0
+UC_464,7,"Tiger Global Management, Sequoia Capital India, Ribbit Capital",3000000000.0
+UC_465,1,Automobile Industry Guidance Fund,1333000000.0
+UC_466,2,"The Carlyle Group, CVC Capital Partners",18580000.0
+UC_467,2,Sequoia Capital,18580000.0
+UC_468,22,"Insight Venture Partners, Lowercase Capital, Polaris Partners",861690000.0
+UC_469,15,"Founders Fund, Khosla Ventures, Goldman Sachs",383020000.0
+UC_470,16,"Fashion Tech Lab, Fidelity Investments, Vast Ventures",3000000000.0
+UC_471,9,"Google Ventures, Kleiner Perkins Caufield & Byers, Stripes Group",170200000.0
+UC_472,16,"Viola Ventures, Insight Partners, ClalTech, Goldman Sachs",3350000000.0
+UC_473,8,"SOSV, Khosla Ventures, Lerer Hippeau",250830000.0
+UC_474,10,"Jiangsu Sha Steel Group, Shanghai Puyin Industry, Funa Yuanchuang Technology",330930000.0
+UC_475,12,"Blumberg Capital, American Express Ventures, BDC Venture Capital",469740000.0
+UC_476,20,"General Catalyst, Eleation Capital, Avenir Growth Capital",515900000.0
+UC_477,15,"YL Ventures, Redpoint Ventures, GGV Capital",6320000000.0
+UC_478,6,"Redpoint Ventures, QiMing Venture Partners, Chengwei Capital",116300000.0
+UC_479,25,"Thrive Capital, Tiger Global Management, Temasek",659100000.0
+UC_480,10,"Tao Capital Partners, Global Asset Capital, Tiger Global Management",544930000.0
+UC_482,9,"Alta Partners, Questa Capital, Echo Health Venturesl",406960000.0
+UC_483,15,"Insight Partners, Sequoia Capital, Index Ventures",195300000.0
+UC_484,26,"Threshold Ventures, Baseline Ventures, Harrison Metal",312500000.0
+UC_486,17,"Eurazeo, IDInvest Partners, Balderton Capital",664450000.0
+UC_487,13,"DataTribe, Energy Impact Partners, AllegisCyber Capital",364200000.0
+UC_488,9,"Crosslink Capital, .406 Ventures, Sapphire Ventures",240500000.0
+UC_489,21,"Nexus Venture Partners, Transamerica Ventures, Crane Venture Partners",246120000.0
+UC_490,19,"Greycroft, Lerer Hippeau, Geekdom Fund",275750000.0
+UC_491,24,"Gobi Partners, 500 Startups, Ondine Capital",597350000.0
+UC_492,13,"Index Ventures, Kleiner Perkins Caufield & Byers, Bessemer Venture Partners",261300000.0
+UC_493,6,"SoftBank Group, Access Industries, Crossbeam Venture Partners",220650000.0
+UC_494,13,"Index Ventures, Temasek, Portag3 Ventures",363170000.0
+UC_495,36,"Salesforce Ventures, Seedcamp, OMERS Ventures",924310000.0
+UC_496,15,"Bessemer Venture Partners, Eight Roads Ventures, Battery Ventures",2650000000.0
+UC_497,15,Carsales,2650000000.0
+UC_498,27,"Boxin Capital, DT Capital Partners, IDG Capital",137130000.0
+UC_499,15,"Alta Partners, General Catalyst, Jove Equity Partners",2980000000.0
+UC_500,19,"Alpha Wave Global, Matrix Partners India, Tiger Global Management",391520000.0
+UC_502,20,"Yabeo Capital, SBI Investment, Vulcan Capital",402460000.0
+UC_503,6,"TPG Growth, Goldman Sachs",3250000000.0
+UC_504,10,GAM Holding,327200000.0
+UC_505,5,"People Electrical Appliance Group China, Zhongrong International Trust",968860000.0
+UC_506,7,"next47, First Round Capital, Sequoia Capital",139640000.0
+UC_507,15,"Sequoia Capital, Bain Capital Ventures, enaya Capital",4960000000.0
+UC_508,27,"Mayfield Fund, Shasta Ventures, L Catterton",431400000.0
+UC_509,10,"OMERS Private Equity, T. Rowe Price, Technology Crossover Ventures",415790000.0
+UC_510,12,"Blackbird Ventures, IndexVentures, Tiger Global Management",222810000.0
+UC_511,12,"GreatPoint Ventures, Meritech Capital Partners, PayPal Ventures",222810000.0
+UC_512,5,"Technology Crossover Ventures, Accel, Aker",346800000.0
+UC_513,13,"March Capital Partners, HOF Capital, Emergence Capital Partners",312570000.0
+UC_514,20,"BEENEXT, World Innovation Lab, Light Street Capital",222340000.0
+UC_515,39,"Andreessen Horowitz, Coatue Management, Clocktower Technology Ventures",150930000.0
+UC_516,19,"Zeev Ventures, Menlo Ventures,Crosslink Capital",539600000.0
+UC_517,12,"Initialized Capital, Sound Ventures, TI Platform Management",256060000.0
+UC_518,21,"Insight Venture Partners, ICONIQ Capital, Launchpad Venture Group",420160000.0
+UC_519,11,"QED Investors, DST Global, Left Lane Capital",336200000.0
+UC_520,2,"IFC, Ajinomoto",5560000000.0
+UC_521,8,"Guozhong Venture Capital Management, Shenzhen Capital Group, Oriental Fortune Capital",224350000.0
+UC_522,8,"Centurium Capital, Cedarlake Capital, Unicom Innovation Venture Capital",185520000.0
+UC_523,7,"Sequoia Capital China, Warburg Pincus, IDG Capital",92440000.0
+UC_524,15,"Kleiner Perkins Caufield & Byers, Sequoia Capital, General Catalyst",198480000.0
+UC_525,11,"China Creation Ventures, Sierra Ventures, Xingwang Investment Management",70590000.0
+UC_527,8,"Sequoia Capital, General Atlantic",2080000000.0
+UC_528,13,"GGV Capital, QiMing Venture Partnersl",763700000.0
+UC_529,4,"Warburg Pincus, Aviation Industry Corporation of China",7100000000.0
+UC_530,11,"Volkswagen, Access Industries, Vostok New Ventures",1056999999.9999999
+UC_531,5,"Alibaba Group, China Everbright Investment Management, Yinxinggu Capital",260350000.00000003
+UC_533,12,"Morningside Ventures, Capital Today, JOY Capital",5000000000.0
+UC_534,10,"Legend Capital, CDH Investments, Sequoia Capital China",100120000.0
+UC_535,13,"Source Code Capital, Meituan Dianping, Tencent Holdings",547270000.0
+UC_536,1,SoftBank Group,502500000.0
+UC_537,27,"New Enterprise Associates, Founders Fund, Google Ventures",7140000000.0
+UC_538,7,"Jackson Square Ventures, Madrone Capital Partners, Sequoia Capital",179850000.0
+UC_539,9,"Norwest Venture Partners, Accel, Tiger Global Management",341680000.0
+UC_540,19,"Max Ventures, Mangrove Capital Partners, 14W",2780000000.0
+UC_542,31,"Moonshots Capital, BoxGroup, Blu Venture Investors",273070000.0
+UC_543,13,"Sequoia Capital, Y Combinator, F-Prime Capital",2500000000.0
+UC_544,15,"Deciens Capital, Bezos Expeditions, 500 Startups",302600000.0
+UC_545,46,"Digital Currency Group, Draper Esprit, Korelya Capital",466380000.0
+UC_546,9,"Amiti Ventures, Playground Global, Aleph",226600000.0
+UC_547,10,"Source Code Capital, Coatue Management, DCM Ventures",342370000.0
+UC_548,6,"Redpoint Ventures, Providence Equity Partners, Silversmith Capital Partners",274150000.0
+UC_549,7,"Mayfield Fund, Insight Partners, Rembrandt Venture Partners",214550000.0
+UC_550,18,"Kaszek Ventures, SOSV, Tiger Global Management",395840000.0
+UC_551,12,"Felicis Ventures, Index Ventures, Blackbird Ventures",258300000.0
+UC_552,21,"Insight Partners, Coinbase Ventures, PayPal Ventures",235750000.0
+UC_553,16,"Global Founders Capital, Shea Ventures, Greycroft",1467000000.0
+UC_554,10,"VGames, Lakestar, Galaxy Interactive",126500000.0
+UC_555,8,"Scale Venture Partners, Sapphire Ventures, Battery Ventures",310320000.0
+UC_556,6,"Coatue Management, Index Ventures, Founders Fund",217500000.0
+UC_557,22,"Y Combinator, Andreessen Horowitz, Wonder Ventures",224150000.0
+UC_558,3,"Ant Group, Charoen Pokphand Group, Bow Wave Capital",1500000000.0
+UC_559,29,"Spark Capital, Google Ventures, CRE Venture Capital",374610000.0
+UC_560,22,"Nyca Partners, Index Ventures, Technology Crossover Ventures",268120000.0
+UC_561,9,"Insight Partners, Softbank Group, Connect Ventures",1000000000.0
+UC_562,10,"Insight Partners, Kibo Ventures, Bessemer Venture Partners",3810000000.0
+UC_563,21,"Accomplice, Polychain Capital, GoldenTree Asset Management",169200000.0
+UC_564,2,"PSG, ION Crossover Partners",2450000000.0
+UC_565,42,"Chiratae Ventures, Accel, Kalaari Capital",679400000.0
+UC_566,20,"Fifty Years Fund, Refactor Capital, Temasek",443070000.0
+UC_567,13,"Redpoint e.ventures, Valor Capital Group, SoftBank Latin America Fund",318750000.0
+UC_568,14,"Brighton Park Capital, Blue Cloud Ventures, Workday Ventures",253460000.0
+UC_569,14,"Accel, Benchmark, SV Angel",181350000.0
+UC_570,14,"Samsung Ventures, SingulariTeam, BP Ventures",2060000000.0
+UC_571,5,"L Catterton, Franklin Templeton, First Light Capital Group",290000000.0
+UC_572,14,"Index Ventures, Eight Roads Ventures, General Atlantic",300340000.0
+UC_573,15,"Accel, Institutional Venture Partners, Tiger Global Management",192320000.0
+UC_574,11,"Sequoia Capital, General Catalyst, 	Human Capital",136080000.0
+UC_575,9,"Kalaari Capital, Norwest Venture Partners, Prosus Ventures",432110000.0
+UC_576,12,"General Catalyst, Origin Ventures, Fontinalis Partners",299280000.0
+UC_577,5,"Amplify Partners, Addition, Madrona Venture Group",121750000.0
+UC_578,11,"Redpoint Ventures, Norwest Venture Partners, Sierra Ventures",292580000.0
+UC_579,4,"Eastern Bell Capital, Capital Today, Longzhu Capital",658490000.0
+UC_580,7,"China Grand Prosperity Investment, CSC Group",3610000000.0
+UC_581,4,"Baidu, Tencent Holdings",226600000.0
+UC_582,7,"Ding Xiang Capital, New Hope Fund, Sino-Ocean Capital",281380000.0
+UC_583,18,Taigang Venture Capital,433720000.0
+UC_584,1,General Atlantic,3000000000.0
+UC_585,5,"Sodexo Ventures, SoftBank Group",3030000000.0
+UC_586,7,"Left Lane Capital, Clocktower Technology Ventures, Jump Capital",328170000.0
+UC_587,18,"Slow Ventures, Andreessen Horowitz, SoftBank Group",2280000000.0
+UC_588,20,"Temasek,	BUILD Capital Partners, 	Northzone Ventures",150820000.0
+UC_589,9,"Index Ventures, Thrive Capital, Bain Capital Ventures",1430000000.0
+UC_590,18,"Kickstart Fund, General Catalyst, Drive Capital",276070000.0
+UC_591,14,"Initialized Capital, Canaan Partners, Sound Ventures",242050000.0
+UC_592,24,"Bonfire Ventures, Two Sigma Ventures, FJ Labs",163840000.0
+UC_593,15,"Andreessen Horowitz, Initialized Capital, TriplePoint Capital",203500000.0
+UC_594,8,"Newion Partners, SmartFin Capital, OMERS Ventures",235890000.0
+UC_595,34,"March Capital Partners, Temasek, Doha Venture Capital",290880000.0
+UC_596,9,"TLV Partners, Zeev Ventures, Bessemer Venture Partners",2640000000.0
+UC_597,11,"New Enterprise Associates, Tiger Global management, Tencent",3620000000.0
+UC_598,26,"BNP Paribas, Goldman Sachs, Google",4610000000.0
+UC_599,2,"Phoenix New Media, Tianjin Haihe Industry Fund",150000000.0
+UC_600,22,"Seaya Ventures, Otter Rock Capital, Rakuten",481470000.0
+UC_601,16,"Eastern Bell Capital, SF Holding Co, STO Express",1240000000.0
+UC_602,11,"Orange Digital Ventures, Access Industries",481800000.0
+UC_603,11,"Global Founders Capital, Comcast Ventures, Forerunner Ventures",181100000.0
+UC_604,17,"New Enterprise Associates, CRV, Index Ventures",170500000.0
+UC_605,9,"EQT Partners, Blackstone",476140000.0
+UC_606,20,"Bessemer Venture Partners, Vintage Investment Partners, Blumberg Capital",4360000000.0
+UC_607,18,"Sequoia Capital India, Lightbox Ventures, Coatue Management",495210000.0
+UC_609,7,"Sequoia Capital India, Tiger Global Management, Tencent",459780000.0
+UC_610,13,"Goodwater Capital, Entree Capital, Valar Ventures",439250000.0
+UC_611,13,"Sierra Ventures, AXA Venture Partners, Sigma Prime Ventures",163020000.0
+UC_612,13,"Helion Venture Partners, Tiger Global management, CRV",163020000.0
+UC_613,14,"Signal Peak Ventures, Owl Ventures, Jump Capital",385920000.0
+UC_614,26,"Refactor Capital, Andreessen Horowitz, Fifty Years Fund",358070000.0
+UC_615,10,"BlackRock, Tengelmann Ventures, Holtzbrinck Ventures",314280000.0
+UC_616,18,"Simon Equity Partners, Wavemaker Partners, Anthem Venture Partners",437100000.0
+UC_617,8,"Innovation Endeavors, s28 Capital, Lightspeed Venture Partners",140380000.0
+UC_618,14,"Y Combinator, S Capital, Tenaya Capital",270740000.0
+UC_619,5,"Lightspeed Venture Partners, Access Industries, Eldridge",2020000000.0
+UC_621,16,"Propel Venture Partners, Monashees+, BBVA",720420000.0
+UC_622,10,"DESUN Capital, Yunfeng Capital, Meridian Capital",79280000.0
+UC_623,14,"Sequoia Capital China, Goldman Sachs, Matrix Partners China",721190000.0
+UC_624,15,"Green Pine Capital Partners, Ivy Capital, DCM Ventures",497190000.0
+UC_625,11,"Lightspeed Venture Partners, Khosla Ventures, Munich Re Ventures",2920000000.0
+UC_626,12,"Bessemer Venture Partners, Eniac Ventures, Canapi Ventures",155920000.0
+UC_627,18,"8VC, Bedrock Capital, Broom Ventures",287390000.0
+UC_628,19,"Menlo Ventures, Resolute Ventures, IA Ventures",411200000.0
+UC_629,10,"Marchmont Ventures, BMW i Ventures, Index Ventures",274590000.0
+UC_630,14,"Atinum Investment, Company K Partners, GIC",331230000.0
+UC_631,19,"Kleiner Perkins Caufield & Byers, Comcast Ventures, Insight Partners",210500000.0
+UC_632,21,"MHS Capital, NextView Ventures, Mayfield Fund",453010000.0
+UC_633,1,Goldman Sachs,66160000.0
+UC_634,17,"Advantech Capital, Temasek Holdings Ltd., Tiantu Capital Co.",361440000.0
+UC_635,33,"SC.Holdings, Not Boring Capital, Bolt Ventures",1150000000.0
+UC_636,15,"Qiming Venture Partners, China Internet Investment Fund, Qualcomm Ventures",339110000.0
+UC_637,4,"ARCH Venture Partners, Ally Bridge Group",94400000.0
+UC_638,12,"BlueCross BlueShield Venture Partners, US Venture Partners",542410000.0
+UC_639,10,None,1012999999.9999999
+UC_641,11,"York Capital Management, GE Healthcare, Koch Disruptive Technologies",559050000.0
+UC_642,18,"Highland Capital Partners, Next Coast Ventures, SoGal Ventures",230550000.0
+UC_643,6,"Coatue Management, H Capital, Capital Today",11540000.0
+UC_644,7,"N5 Capital, CR Capital Mgmt, JD Digits",3100000000.0
+UC_645,3,"Insight Partners, Silversmith Capital Partners, Spotify",0.0
+UC_646,16,"Kaszek Ventures, QED Investors, International Finance Corporation",824590000.0
+UC_647,20,"Bessemer Venture Partners, Menlo Ventures, Anthermis",4350000000.0
+UC_648,9,"SignalFire, GLP Capital Partners, Google Ventures",399700000.0
+UC_649,10,"Lightspeed Venture Partners, Dell Technologies Capital, Wipro Ventures",2900000000.0
+UC_650,13,"Liberty City Ventures, Soros Fund Management, Summer Capital",207300000.0
+UC_651,15,"LocalGlobe, Kinnevik, Felix Capital",408580000.0
+UC_652,2,"Left Lane Capital, Walden Venture Capital",1250000000.0
+UC_653,2,"Zeev Ventures, GSV Ventures",2000000000.0
+UC_654,17,"Initialized Capital, General Catalyst, Kraken Ventures",101620000.0
+UC_655,10,"Chromo Invest, Maersk Growth, BlackRock",345200000.0
+UC_656,9,"UNITY VENTURES, Qiming Venture Partners, GGV Capital",171050000.0
+UC_657,7,"Social Capital, Bessemer Venture Partners",1630000000.0
+UC_658,20,"FirstMark Capital, Tiger Global Management",240250000.0
+UC_659,2,"Mitsubishi Corporation, Mayfair Equity Partners",2560000000.0
+UC_660,15,"IDG Capital, Gaocheng Capital, Chuanrong Capital",227340000.0
+UC_662,19,"BOLDstart Ventures, SAP.iO Fund, Scale Venture Partners",246100000.0
+UC_663,14,"Sequoia Capital China, CMC Capital Partners, Tencent Holdings",5950000000.0
+UC_664,6,"Passion Capital, Hedosophia, 	Outrun Ventures",116200000.0
+UC_665,53,"Andreessen Horowitz, Prosus Ventures, Thrive Capital",622120000.0
+UC_666,31,"Javelin Venture Partners, Struck Capital, Alumni Ventures Group",2600000000.0
+UC_667,12,"Dila Capital, Framework Ventures, 3L",2550000000.0
+UC_668,4,"Andreessen Horowitz, Bessemer Venture Partners, Coatue Management",155900000.0
+UC_669,6,"Tencent Holdings, Tiger Global Management, Global Founders Capital",156340000.0
+UC_670,11,"Madrona Venture Group, Banner Ventures, FJ Labs",2470000000.0
+UC_671,8,"Sequoia Capital, Y Combinator, Accel",159120000.0
+UC_672,4,"TSG Consumer Partners, Crowdcube",296770000.0
+UC_673,18,"Tencent Holdings, Delta Capital, Redpoint Ventures China",470520000.0
+UC_674,8,"Nextech Invest, Casdin Capital, Google Ventures",7000000000.0
+UC_675,4,"Trane Technologies, Honeywell",101970000.0
+UC_676,12,"Shunwei Capital Partners, 5Y Capital, Legend Capital",0.0
+UC_677,22,"Cool Japan Fund, JAFCO, The Carlyle Group",911620000.0
+UC_678,9,"Wamda Capital, Endeavor, Riverwood Capital",166200000.0
+UC_679,12,"Alibaba Group, KKR, Goldman Sachs",8000000000.0
+UC_681,16,"Forerunner Ventures, Institutional Venture Partners, Thrive Capital",267399999.99999997
+UC_682,3,ICG,11300000.0
+UC_683,12,"Madrona Venture Group, Kleiner Perkins Caufield & Byers, Highland Capital Partners",345500000.0
+UC_684,15,"Georgian Partners, Silver Lake, Presidio Ventures",263899999.99999997
+UC_685,15,"Accel, Greycroft, Advancit Capital",263899999.99999997
+UC_686,14,"Vertex Ventures Israel, Bessemer Venture Partners, Emerge",1950000000.0
+UC_687,9,"Speedinvest, Valar Ventures, Uniqa Ventures",3100000000.0
+UC_688,11,"Source Code Capital, XVC Venture Capital, Hillhouse Capital Management",267730000.00000003
+UC_690,22,"Sequoia Capital China, Lenovo Capital and Incubator, Group GSR Ventures",175310000.0
+UC_691,8,"SWaN & Legend Ventures, Revolution Growth, Invus Group",678350000.0
+UC_692,15,"IA Ventures, Khosla Ventures, AME Cloud Ventures",352480000.0
+UC_693,11,"Version One Ventures, Bessemer Venture Partners, FirstMark Capital",190730000.0
+UC_694,10,"Flagship Pioneering, Alexandria Venture Investments, Investment Corporation of Dubai",3970000000.0
+UC_695,16,"Costanoa Ventures, Data Collective, Salesforce Ventures",1920000000.0
+UC_696,20,"Cherry Ventures, Northzone Ventures, Global Founders Capital",615830000.0
+UC_697,10,"IDG Capital, ZhenFund, Sequoia Capital China",3000000000.0
+UC_698,10,"Partech Partners, Index Ventures, Quadrille Capital",3000000000.0
+UC_699,11,"Newpath Partners, Google Ventures, F-Prime Capital",3150000000.0
+UC_700,11,"Polaris Partners, Insight Partners, Norwest Venture Partners",181500000.0
+UC_701,9,"Qualcomm Ventures, Accel, Canaan Partners",281300000.0
+UC_702,5,"Qualcomm Ventures, Accel, Canaan Partners",361230000.0
+UC_703,8,"RPM Ventures, Inspiration Ventures, Carrick Capital Partners",517500000.0
+UC_704,10,"Kinnevik, Softbank Group, Prosus Ventures",201960000.0
+UC_705,12,"Pantera Capital, Polychain Capital, Lightspeed Venture Partners",123700000.0
+UC_706,10,"Insight Partners, Salesforce Ventures, Perpetual Investors",276050000.0
+UC_707,5,"Accel, Greylock Partners, Meritech Capital Partners",1460000000.0
+UC_708,22,"Sequoia Capital India, Hillhouse Capital Management, Sunley House Capital Management",536100000.0
+UC_709,18,"L'Occitane, Trifecta Capital, Bessemer Venture Partners",283880000.0
+UC_710,12,"Craft Ventures, Caffeinated Capital, Operator Collective",111100000.0
+UC_711,16,"Sequoia Capital India, Hummingbird Ventures, Epiq Capital",176670000.0
+UC_712,15,"GGV Capital, Tiger Global Management, Greycroft",4300000000.0
+UC_713,12,"SoftBank Latin America Fund, Advent International, Balderton Capital",4450000000.0
+UC_714,4,"Mayfield, Madrona Venture Group, Tiger Global Management",188200000.0
+UC_715,11,"Advent International, Battery Ventures, Sequoia Capital Israel",292500000.0
+UC_716,9,"Paradigm, Andreessen Horowitz, Jump Capital",118500000.0
+UC_717,21,"Jungle Ventures, Helion Venture Partners, INGKA Investments",371690000.0
+UC_718,13,"Norwest Venture Partners, Investcorp, Blackstone",472940000.0
+UC_719,16,"FirstMark Capital, Tiger Global Management, FTX Venture",2510000000.0
+UC_720,11,"Matrix Partners, Lightspeed Venture Partners, Verizon Ventures",368260000.0
+UC_721,4,CDIB Capital,118640000.0
+UC_722,19,"Russia-China Investment Fund, Tencent Holdings, Sequoia Capital China",1002999999.9999999
+UC_723,8,"Sequoia Capital China, Qiming Venture Partners, Tencent Holdings",188150000.0
+UC_724,14,"Source Code Capital, Global Logistic Properties, K2VC",553610000.0
+UC_725,16,"Kleiner Perkins Caufield & Byers, Afore Capital, Founders Fund",168060000.0
+UC_726,12,"Goodwater Capital, Floodgate, Founders Fund",1970000000.0
+UC_727,19,"Qiming Venture Partners, Yaxia Automobile, Far East Horizon",580450000.0
+UC_728,30,"IDG Capital, Bank Of China Group Investment,, SDIC CMC Investment Management",3207000000.0
+UC_729,1,Advent International,343700000.0
+UC_730,13,"Pelion Venture Partners, Foundation Capital, Thoma Bravo",1740000000.0
+UC_731,14,"Pelion Venture Partners, Foundation Capital, Thoma Bravo",3390000000.0
+UC_732,8,"Venrock, Innovation Endeavors, Insights Partners",1500000000.0
+UC_734,13,"FirstMark Capital, Anthemis, CMFG Ventures",444630000.0
+UC_735,12,"BPI France, Kerala Ventures, Accel",266980000.00000003
+UC_736,20,"Dynamo VC, Susa Ventures, Founders Fund",201040000.0
+UC_737,9,"China Reform Fund, Gaopeng Capital, Jinhui Xingye",193240000.0
+UC_738,15,"Draper Fisher Jurtson, Qualcomm Ventures, Alibaba Group",373440000.0
+UC_739,10,"Mithril, iNovia Capital, Foundry Group",558360000.0
+UC_740,7,"Tiantu Capital, SAIF Partners China, Newsion Venture Capital",136050000.0
+UC_741,10,"KKR, TowerBrook Capital Partners",1243000000.0
+UC_742,34,"Khosla Ventures, Horizons Ventures, Founders Fund",706600000.0
+UC_743,22,"Spark Capital, Highland Europe, Sunstone Capital",884790000.0
+UC_744,4,"Ardian, Tiger Global Management, KKR",1330000000.0
+UC_745,10,"Opus Capital, Genesis Partners, Battery Ventures",2780000000.0
+UC_746,10,The Carlyle Group,4760000000.0
+UC_747,14,"Accelm Scania Growth Capital, Lakestar",310020000.0
+UC_748,13,"Auriga, Galeo Ventures, Highland Europe",329900000.0
+UC_749,9,"LocalGlobe, Balderton Capital, Target Global",255500000.0
+UC_750,4,"Thrive Capital, Khosla Ventures, Tiger Global Management",1300000000.0
+UC_751,8,"Zeev Ventures, Group11, Chicago Ventures",197670000.0
+UC_753,20,"Pritzker Group Venture Capital, Accel, Hyde Park Venture Partners",265070000.0
+UC_754,18,"Glory Ventures, Maniv Mobility",2170000000.0
+UC_755,18,"GGV Capital, Lightspeed Venture Partners, ICONIQ Capital",2170000000.0
+UC_756,17,"Polychain Capital, Coinbase Ventures, Jump Capital",109400000.0
+UC_757,16,None,4430000000.0
+UC_758,9,"Sequoia Capital India, Rocketship.vc, Lightspeed India Partners",192500000.0
+UC_759,8,"8VC, Norwest Venture Partners, Tiger Global Management",151600000.0
+UC_760,19,"HV Capital, Softbank Group, BlackRock",750370000.0
+UC_761,22,"Intact Ventures, Munich Re Ventures, General Atlantic",4280000000.0
+UC_762,15,"M13, Lightspeed Venture Partners, Lone Pine Capital",120980000.0
+UC_763,3,"Mangrove Capital Partners,14W. ForgeLight",900000000.0
+UC_764,34,"Khosla Ventures, General Catalyst, Blumberg Capital",553500000.0
+UC_765,91,"Foundation Capital, 	Frontier Ventures, AltaIR Capital",136050000.0
+UC_766,8,"Chiratae Ventures, SoftBank Group, Trifecta Capital",291500000.0
+UC_767,6,"WestBridge Capital, GSV Ventures, Elevar Equity",1660000000.0
+UC_768,12,"Edison Partners, Georgian Partners, VentureLink",287880000.0
+UC_769,7,"New Enterprise Associates, Koch Disruptive Technologies, Evolution Equity Partners",2050000000.0
+UC_770,5,"Beijing Juneng Hesheng Industry Investment Fund, Beijing Shuju Xinrong Fund",53050000.0
+UC_771,15,"Shenzhen Capital Group, Robert Bosch Venture Capital, SeptWolves Ventures",154300000.0
+UC_773,17,"Goldman Sachs, Leonardo DiCaprio, Promecap",285710000.0
+UC_774,1,Inflexion Private Equity,200110000.0
+UC_775,7,"SAIF Partners India, Warburg Pincus, Trifecta Capital Advisors",319890000.0
+UC_776,11,"Fireside Ventures, Sequoia Capital India, Stellaris Venture Partners",153300000.0
+UC_777,8,"Sequoia Capital China, Rich Land Capital, Merrysunny Wealth",249210000.0
+UC_778,9,"New Enterprise Associates, Greylock Partners, Andreessen Horowitz",131940000.0
+UC_779,16,"FundersClub, Y Combinator, Tiger Global Management",219640000.0
+UC_780,22,"Founders Fund, Upfront Ventures, 	01 Advisors",217200000.0
+UC_781,10,"Bain Capital Tech Opportunities, Andreessen Horowitz, Sequoia Capital",284520000.0
+UC_782,2,"Lindeman Asia Investment, Nichi-Iko Pharmaceutical",62120000.0
+UC_783,5,"Intel Capital, Aviv Venture Capital",77400000.0
+UC_784,20,"Sequoia Capital China, Gopher Asset Management, Shanghai Electric Group",1761000000.0
+UC_785,26,"Accel Partners, Greylock Partners, Lowercase Capital",2810000000.0
+UC_786,25,"SoftBankGroup, Blackrock, Alibaba Group",1776000000.0
+UC_787,11,"Matrix Partners, Passport Capital, Rho Ventures",3000000000.0
+UC_788,8,"Kleiner Perkins Caufield & Byers, Softbank Corp., Sherpalo Ventures",510600000.0
+UC_789,2,None,520000000.0
+UC_790,2,"Silver Lake Partners, General Atlantic",1050000000.0
+UC_791,6,"Banyan Capital, New Horizon Capital, IDG Capital Partners",224400000.0
+UC_792,6,"5Y Capital, Matrix Partners China, K2VC",1200000000.0
+UC_794,7,Woodford Investment Management,345550000.0
+UC_795,14,"IDG Capital, Northern Light Venture Capital, DCM Ventures",2930000000.0
+UC_796,9,"Accel Partners, Comcast Ventures, General Atlantic",324650000.0
+UC_797,6,"Sequoia Capital China, ZhenFund, K2 Ventures",231600000.0
+UC_798,3,"KKR, Alibaba Group, Ping An Insurance",3000000000.0
+UC_799,5,"SAIF Partners China, Baidu, IDG Capital",3200000000.0
+UC_800,3,"China Minsheng Investment, Baidu, Wanxin Media",223290000.0
+UC_801,10,"QiMing Venture Partners, Temasek Holdings, Silverlink Capital",3150000000.0
+UC_802,5,Hinduja Group,348500000.0
+UC_803,3,"Tencent, Vcanbio",1990000000.0
+UC_804,3,"Goldman Sachs, Insights Venture Partners, Pritzker Group Venture Capital",2550000000.0
+UC_805,2,"Berkshire Partners, Norwest Venture Partners",0.0
+UC_806,7,"Sequoia Capital China, SIG Asia Investments, ZhenFund",259640000.0
+UC_807,7,"58.com, Tencent Holdings",9900000000.0
+UC_808,6,"Warburg Pincus, Summit Partners, Sands Capital",393790000.0
+UC_809,9,"K2 Ventures, Matrix Partners China, IDG Capital",361250000.0
+UC_810,16,"Standard Chartered, FinSight Ventures, Affirma Capital",6490000000.0
+UC_811,2,"Blue Label Telecoms, Net1 UEPS Technologies",546970000.0
+UC_812,8,"Co-Energy Finance, Grandland",182050000.0
+UC_813,2,"K2 Global, 500 Startups",15400000.0
+UC_814,13,None,8960000000.0
+UC_815,5,"Morningside Venture Capital, IDG Capital, DCM Ventures",3000000000.0
+UC_816,5,"Tencent Holdings, DCM Ventures",6720000000.0
+UC_817,8,"R-Z Capital, Green Pine Capital Partners, SAIF Partners China",2000000000.0
+UC_818,6,Ginko Ventures,3300000000.0
+UC_819,4,"Fosun RZ Capital, Oceanwide Holdings, Shenzhen Qianhe Capital Management Co.",630000000.0
+UC_820,31,"V Star Capital, GF Xinde Investment Management Co., Haitong Leading Capital Management",522799999.99999994
+UC_821,10,"China Investment Corporation, New Enterprise Associates",253020000.0
+UC_822,14,"Silicon Valley Bank, QED Investors, European Founders Fund",613160000.0
+UC_823,4,"Innova Capital - FIP, 3G Capital Management, Prosus Ventures",3940000000.0
+UC_825,2,"One Luxury Group, Eurazeo",820000000.0
+UC_826,12,"Qiming Venture Partners, China Broadband Capital, CDH Investments",368600000.0
+UC_827,22,"Prometheus Capital, Matrix Partners China, JD Capital Management",3390000000.0
+UC_828,5,"Yunfeng Capital, SDIC Innovation Investment Management, Shang Qi Capital",696760000.0
+UC_829,2,GCP Capital Partners,51930000.0
+UC_830,28,"Sinovation Ventures, Tencent Holdings, Sequoia Capital China",1283000000.0
+UC_831,7,"U.S.-China Green Fund, Founder H Fund, Richland Equities",138530000.0
+UC_832,22,"Lakestar, Battery Ventures, New Enterprise Associates",3960000000.0
+UC_833,8,"China Everbright Limited, IDG Capital, iFLYTEK",629580000.0
+UC_834,22,"Georgian Co-Investment Fund, iTech Capital, Galaxy Digital",1700000000.0
+UC_835,6,"Movile, Just Eat, Naspers",591860000.0
+UC_836,9,"Volcanics Ventures, Vertex Ventures China, Warburg Pincus",433610000.0
+UC_837,9,"Target Global, UBS Asset Management, Mubadala Capital",433610000.0
+UC_838,20,SoftBank Group,310300000.0
+UC_839,20,"Astanor Ventures, Upfront Ventures, IDInvest Partners",393400000.0
+UC_840,36,"BOC International, TopoScend Capital, Hongxiu VC",287850000.0
+UC_841,8,"JAFCO Co, Bitmain Technologies, IDG Capital",1580000000.0
+UC_842,5,"DST Global, Sequoia Capital China, Gaorong Capital",0.0
+UC_843,17,"Trinity Ventures, Fifth Wall Ventures, OpenView Venture Partners",327180000.0
+UC_844,4,China Prosperity Capital,0.0
+UC_845,13,"TAL Education Group, Legend Star, Alibaba Group",306160000.0
+UC_846,11,"SBI Investment Korea, Partners Investment, GIC",2036000000.0
+UC_847,10,"Aglae Ventures, Global Founders Capital, Alven Capital",297500000.0
+UC_848,18,"American Express Ventures, Goldman Sachs, Bain Capital Credit",1365000000.0
+UC_849,19,"Koch Disruptive Technologies, Teamworthy Ventures, GGV Capital",95910000.0
+UC_850,14,"Union Square Ventures, Summerhill Venture Partners, Mithril Capital Management",539680000.0
+UC_852,3,"FTV Capital, Endeavor",4600000000.0
+UC_853,15,"Matrix Partners China, Bright Venture Capita, Shenzhen Capital Group",614440000.0
+UC_854,11,"Jackson Square Ventures, Greenoaks Capital Management, Softbank Group",588070000.0
+UC_855,6,"Technology Crossover Ventures, Alkeon Capital Management, General Atlantic",130300000.00000001
+UC_856,3,"OLX Group, KCK Group, EXOR Seeds",2790000000.0
+UC_857,8,"Union Square Ventures, Altos Ventures, Costanoa Ventures",620000000.0
+UC_858,7,"Lightspeed Venture Partners, Data Collective, 8VC",1920000000.0
+UC_859,30,"JOY Capital, NIO Capital, Blueflame Capital",978400000.0
+UC_860,3,One Equity Partners,8000000000.0
+UC_861,13,"Novator Partners, True, Causeway Media Partners",5970000000.0
+UC_862,9,"Sozo Ventures, Caffeinated Capital, Sequoia Capital",1000000000.0
+UC_864,16,"MMC Ventures, BGF Ventures, Unilever Ventures",3610000000.0
+UC_865,22,"WRVI Capital, Caffeinated Capital, Y Combinator",247610000.0
+UC_866,7,"8VC, Menlo Ventures, Tiger Global Management",200180000.0
+UC_867,6,"Insight Partners, Bain Capital Ventures",2510000000.0
+UC_868,5,"IDG Capital, Francisco Partners, ZhenFund",140230000.0
+UC_869,10,"Flybridge Capital Partners, SoftBank Group, Monashees+",304580000.0
+UC_870,9,"Wellington Management, Eurazeo, Citi Ventures",3700000000.0
+UC_871,18,"Storm Ventures, DFJ DragonFund, New Enterprise Associates",111500000.0
+UC_872,10,"Bessemer Venture Partners, Pitango Venture Capital, D1 Capital Partners",3250000000.0
+UC_873,10,"SCB 10X, Krungsri Finnovate, eWTP Capital",3600000000.0
+UC_874,12,"C5 Capital, Hemisphere Ventures, The Venture Collective",2300000000.0
+UC_875,8,"Scale Venture Partners, Bond, Tiger Global Management",315820000.0
+UC_876,11,"CRV, Y Combinator, Initialized Capital",235620000.0
+UC_877,5,"New Enterprise Associates, Accel, Bond",126500000.0
+UC_878,7,"Bojiang Capital, Hongdao Capital, Mobai Capital",230310000.0
+UC_879,12,"Andreessen Horowitz, Andreessen Horowitz, Institutional Venture Partners, Accel",3440000000.0
+UC_880,32,"Owl Ventures, Technology Crossover Ventures, Tao Capital Partners",170720000.0
+UC_881,9,"TLV Partners, Lightspeed Venture Partners, M12",2650000000.0
+UC_882,10,None,352320000.0
+UC_883,15,"B Capital Group,, GE Ventures, McKesson Ventures",259180000.0
+UC_884,10,"GreatPoint Ventures, Tiger Global Management, Menlo Ventures",1630000000.0
+UC_885,10,"Global Founders Capital, Shea Ventures, Greycroft",277800000.0
+UC_886,9,"Matrix Partners China, Sequoia Capital China, Hundreds Capital",397280000.0
+UC_887,20,"Lightspeed Venture Partners, Kleiner Perkins Caufield & Byers, Origin Ventures",165710000.0
+UC_888,12,"Greycroft, Loeb.NYC, DST Global",341510000.0
+UC_890,11,"Silverton Partners, Accel, Ballast Point Ventures",255080000.0
+UC_891,10,"American Family Ventures, Cox Enterprises, OMERS Ventures",3070000000.0
+UC_892,14,"TDK Ventures, Social Capital, D1 Capital Partners",362550000.0
+UC_893,15,"Bertelsmann Asia Investments, Sequoia Capital China, NIO Capital",3910000000.0
+UC_894,12,"Pantera Capital, Cadenza Ventures, BlockTower Capital",13100000.0
+UC_895,20,"Union Square Ventures, Insight Partners, Spark Capital",156520000.0
+UC_897,11,"Thrive Capital, Durable Capital Partners, G Squared",5700000000.0
+UC_898,8,"Smilegate Investment, DSC Investments, KTB Ventures",187570000.0
+UC_899,20,"Accel, Cobalt Capital, Andreessen Horowitz",173920000.0
+UC_900,12,"Eastern Bell Capital, Danhua Capital, MSA Capital",2000000000.0
+UC_901,12,"XBTO Ventures, Raven One Ventures, SK Ventures",100250000.0
+UC_902,23,"Norwest Venture Partners, Hillsven Capital, Aleph",480340000.0
+UC_903,11,"Griffin Gaming Partners, Andreessen Horowitz, Battery Ventures",319720000.0
+UC_904,4,"Eclipse Ventures, Fidelity Investments, Moore Capital Management",221030000.0
+UC_905,5,"Xingwang Investment Management, China Capital Investment Group, Matrix Partners China",64080000.0
+UC_906,5,"Iris Capital, Accel, Elaia Partners",64080000.0
+UC_907,9,"Helion Venture Partners, Bain Capital Tech Opportunities, Sequoia Capital India",206320000.0
+UC_909,22,"Sequoia Capital, Founders Fund, Bling Capital",126550000.0
+UC_910,22,Bregal Sagemount,126550000.0
+UC_912,16,"Version One Ventures, Uncork Capital, Bessemer Venture Partners",154030000.0
+UC_913,2,"Northzone Ventures, Maveron, Johnson & Johnson Innovation",80000000.0
+UC_914,10,"Optum Ventures, Qiming Venture Partners, Transformation Capital",2630000000.0
+UC_915,13,"Delian Capital, China International Capital Corporation, Sequoia Capital China",110590000.0
+UC_916,31,None,684520000.0
+UC_917,10,"Insight Partners, Ignition Partners, Georgian Partners",119830000.0
+UC_918,14,"Salesforce Ventures, next47, Pereg Ventures",184500000.0
+UC_919,22,"Bessemer Venture Partners, MoreVC, Team8",6320000000.0
+UC_920,10,"Genesis Partners, Aleph, Insight Partners",91500000.0
+UC_921,15,"Balderton Capital, Next World Capital, Draper Esprit",225630000.0
+UC_922,17,"Javelin Venture Partners, TTV Capital, Peterson Ventures",157620000.0
+UC_923,3,"Advance Venture Partners, Susquehanna Growth Equity, Lupa Systems",910000000.0
+UC_924,5,"Foundation Capital, 	Summit Partners, Adams Street Partners",216500000.0
+UC_925,13,"Hyde Park Venture Partners,	FundersClub. Bain Capital Ventures",331100000.0
+UC_926,9,"Tiger Global Management, Sequoia Capital India, SoftBank Group",573820000.0
+UC_927,17,"CE-Ventures, BECO Capital, Nordstar",502200000.0
+UC_928,17,None,502200000.0
+UC_929,12,"General Catalyst, Future Ventures, AU21",108030000.0
+UC_930,18,"SEED Capital, Greyhound Capital, Socii Capital",371290000.0
+UC_931,15,"Madrona Venture Group, Tiger Global Management, Madera Technology Partners",217300000.0
+UC_932,15,"Index Ventures, Sequoia Capital, General Catalyst",217300000.0
+UC_933,1,"Foundry Group, Scale Venture Partners, SoftBank Group",1500000.0
+UC_934,9,"NetEase Capital, Northern Light Venture Capital, Microsoft",0.0
+UC_936,23,"Y Combinator, M12, SEEK",273250000.0
+UC_937,6,"Kleiner Perkins Caufield & Byers, NightDragon Security, Venrock",132350000.0
+UC_938,20,"Accel, Sands Capital, International Finance Corporation",330880000.0
+UC_939,22,None,259100000.00000003
+UC_940,5,"Big Bets, General Atlantic, SOFTBANK Latin America Ventures",235940000.0
+UC_941,26,"Wing Venture Capital, Slow Ventures, Uncork Capital",335020000.0
+UC_942,8,"FirstMark Capital, Georgian Partners, Norwest Venture Partners",238120000.0
+UC_943,9,"Accomplice, Oak Investment Partners, Georgian Partners",203750000.0
+UC_944,10,"Greylock Partners, Google Ventures, BlackRock",1350000000.0
+UC_945,9,"Greylock Partners, Google Ventures, BlackRock",293610000.0
+UC_946,26,"Female Founders Fund, Oak HC/FT Partners, Sequoia Capital",199470000.0
+UC_947,10,"Qualcomm Ventures, Woori Investment, Hanwha Investment & Securities",72440000.0
+UC_948,6,"Andreessen Horowitz, Homebrew, Point72 Ventures",345350000.0
+UC_950,8,"Goldman Sachs Asset Management, SDP Investment, Alibaba Group",98960000.0
+UC_951,8,None,131460000.00000001
+UC_952,2,"Ardian, Bain Capital",938710000.0
+UC_953,14,"Hillhouse Capital Management, Sequoia Capital China, Linear Venture",3500000000.0
+UC_954,55,"GGV Capital, BlackRock, ACE & Company",396060000.0
+UC_957,8,"Accel, Y Combinator, Amasia",215010000.0
+UC_958,17,"Anthemis, Connect Ventures, Northzone Ventures",271800000.0
+UC_959,3,"Advent International, PSG, Providence Equity Partners",0.0
+UC_960,17,"Rembrandt Venture Partners, M12, Altos Ventures",271800000.0
+UC_961,13,"Yunqi Partners, SoftBank Group, iVision Ventures",228790000.0
+UC_962,2,"Tencent Holdings, Hillhouse Capital Management",1000000000.0
+UC_963,15,None,976500000.0
+UC_964,13,"Accel, Tiger Global Management, Omidyar Network",308380000.0
+UC_965,14,"Sequoia Capital, Thrive Capital, Sound Ventures",238300000.0
+UC_966,12,"Softbank Ventures Asia, Alpha JWC Ventures, Insignia Ventures Partners",245220000.0
+UC_967,21,"3one4 Capital Partners, Bertelsmann India Investments, Vertex Ventures SE Asia",3380000000.0
+UC_968,3,"Left Lane Capital, Galaxy Interactive, Tru Arrow Partners",1100000000.0
+UC_969,6,"Greylock Partners, Lux Capital, General Atlantic",255340000.0
+UC_970,3,"True Ventures, Altimeter Capital, Redpoint Ventures",171850000.0
+UC_971,8,"Index Ventures, IDInvest Partners, Daphni",328430000.0
+UC_972,31,"Sequoia Capital India, The Times Group, GMO VenturePartners",248960000.0
+UC_973,17,"IAG Capital Partners, Augmentum Fintech, Northzone Ventures",671930000.0
+UC_974,3,"Vitruvian Partners, Merieux Equity Partners, Straumann",210080000.0
+UC_975,18,"Valor Capital Group, Lightrock, Softbank Group",377930000.0
+UC_976,1,"Innovation Endeavors, Aleph, Temasek",0.0
+UC_977,13,"Lerer Hippeau, Munich Re Ventures, Eclipse Ventures",2940000000.0
+UC_978,8,"GGV Capital, GSR Ventures, FreesFund",142270000.0
+UC_979,14,"Sequoia Capital China, Linear Venture, Hearst Ventures",1100000000.0
+UC_980,2,FTV Capital,64500000.0
+UC_981,9,"Cowboy Ventures, Leaders Fund, GGV Capital",128199999.99999999
+UC_982,13,"Global Founders Capital, 468 Capital, Redalpine Venture Partners",558710000.0
+UC_983,23,"Insight Partners, AltaIR Capital, Norma Investments",2130000000.0
+UC_984,11,"Acero Capital, General Catalyst, M12",2690000000.0
+UC_985,8,"Equal Ventures, Uncork Capital, Andreessen Horowitz",130600000.0
+UC_986,17,"BlueRun Ventures, Grand Flight Investment, Meituan Dianping",287830000.0
+UC_987,13,"Accel, Falcon Edge Capital, Norwest Venture Partners",228580000.0
+UC_988,10,"Khosla Ventures,General Catalyst, Victory Park Capital",6620000.0
+UC_989,2,"Goldman Sachs Asset Management, 3L",1000000000.0
+UC_991,12,"Google Ventures, Cathay Innovation, NJF Capital",254100000.0
+UC_992,11,"Paladin Capital Group, Greycroft, Scale Venture Partners",257800000.0
+UC_993,14,"General Atlantic, Elevation Capital, BEENEXT",371400000.0
+UC_994,30,"Gunosy Capital, Blume Ventures, Das Capital",303730000.0
+UC_995,15,"British Patient Capital, SEB Venture Capital, IQ Capital",402050000.0
+UC_996,4,"Khosla Ventures, General Catalyst, Navitas Capital",2050000000.0
+UC_997,14,"DST Global, General Catalyst, Monashees+",108500000.0
+UC_998,15,"RRE Ventures+, Highland Capital Partners, The Carlyle Group",492050000.0
+UC_999,10,"Andreessen Horowitz, Intel Capital, Foundation Capital",160600000.0
+UC_1000,3,"Advent International, Bain Capital Ventures, Silversmith Capital Partners",0.0
+UC_1001,4,"KKR, FTV Capital, Ten Eleven Ventures",3300000000.0
+UC_1002,6,"Prysm Capital, Baillie Gifford & Co., TDM Growth Partners",126350000.0
+UC_1003,20,"Danone Manifesto Ventures, 1955 Capital, Breakthrough Energy Ventures",508480000.0
+UC_1004,12,"NewAlpha, XAnge Private Equity, Tencent Holdings",260329999.99999997
+UC_1005,13,"Cherry Ventures, Felix Capital, 83North",766700000.0
+UC_1006,18,"Andreessen Horowitz, Triangle Peak Partners, Ignition Partners",397860000.0
+UC_1007,8,"Thrive Capital, General Catalyst, Coatue Management",1410000000.0
+UC_1008,7,"Insight Partners, Lightspeed Venture Partners, CyberStarts",2200000000.0
+UC_1009,6,"Alpargatas, GS Growth, Lightspeed Venture Partners",440000000.0
+UC_1010,33,"Vostok New Ventures, The Raine Group, Balderton Capital",517900000.0
+UC_1011,7,"Qualcomm Ventures, Nine Intelligence Capital, Hillhouse Capital Management",203910000.0
+UC_1012,13,"Horizons Ventures, Sequoia Capital India, Alpha JWC Ventures",2330000000.0
+UC_1013,22,"Atomico, Hanaco Venture Capital, TriplePoint Capital",601590000.0
+UC_1014,11,None,4860000000.0
+UC_1015,6,"TPG Capital, Apax Partners, TA Associates",6880000000.0
+UC_1016,8,"Vista Equity Partners, Warburg Pincus, First Ascent Ventures",501640000.0
+UC_1017,7,"Franklin Templeton, Motive Partners. Apollo Global Management",2830000000.0
+UC_1018,19,"Fifth Wall Ventures, JBV Capital, Array Ventures",166340000.0
+UC_1019,6,"AWZ Ventures, Blackstone, Insight Partners",1850000000.0
+UC_1020,10,"Lightspeed India Partners, Sequoia Capital India, Endiya Partners",106700000.0
+UC_1021,13,"General Catalyst, Nexus Venture Partners, Dell Technologies Capital",126300000.0
+UC_1022,26,"Accel, 14W, GS Growth",315430000.0
+UC_1023,25,"Next Play Ventures, Zeal Capital Partners, SoftBank Group",144430000.0
+UC_1024,13,"QED Investors, DST Global, Endeavor",202500000.0
+UC_1025,12,"Multicoin Capital, Coatue Management, Dragonfly Capital Partners",79420000.0
+UC_1026,12,"Atomico, NGP Capital, Google Ventures",2730000000.0
+UC_1027,15,"Earlybird Venture Capital, Eleven Ventures, QED Investors",236500000.0
+UC_1029,26,"Lemniscap VC, North Island Ventures, Polychain Capital",63750000.0
+UC_1030,6,"Battery Ventures, Tiger Global Management, Hanaco Ventures",1710000000.0
+UC_1031,11,"Nexus Venture Partners, Vertex Ventures, STRIVE",136510000.0
+UC_1032,7,"New Enterprise Associates, Benchmark, Two Sigma Ventures",181060000.0
+UC_1033,10,"Fasanara Capital, Tiger Global Management, Baleen Capital",7000000000.0
+UC_1034,30,"U.S. Venture Partners, dRx Capital, Andreessen Horowitz",449720000.0
+UC_1035,6,"8VC, Liberty Strategic Capital, Eden Global Partners",525500000.0
+UC_1036,11,"Zeev Ventures, Bond, Fifth Wall Ventures",604500000.0

@@ -1,0 +1,995 @@
+ID,Company,Founded Year,Year Joined,Transition Time,Country
+UC_0,Bytedance,2012,2017,5,China
+UC_1,SpaceX,2002,2012,10,United States
+UC_2,Stripe,2010,2014,4,United States
+UC_3,Klarna,2005,2011,6,Sweden
+UC_4,Epic Games,1991,2018,27,United States
+UC_5,Canva,2012,2018,6,Australia
+UC_6,Checkout.com,2012,2019,7,United Kingdom
+UC_7,Instacart,2012,2014,2,United States
+UC_8,Databricks,2013,2019,6,United States
+UC_9,Revolut,2015,2018,3,United Kingdom
+UC_10,FTX,2018,2021,3,Bahamas
+UC_11,Fanatics,1995,2012,17,United States
+UC_12,Chime,2013,2019,6,United States
+UC_13,BYJU's,2008,2017,9,India
+UC_14,Xiaohongshu,2013,2016,3,China
+UC_15,J&T Express,2015,2021,6,Indonesia
+UC_16,Miro,2011,2022,11,United States
+UC_17,Yuanfudao,2012,2017,5,China
+UC_18,DJI Innovations,2006,2015,9,China
+UC_19,SHEIN,2008,2018,10,China
+UC_20,goPuff,2013,2020,7,United States
+UC_21,Yuanqi Senlin,2016,2020,4,China
+UC_22,Ripple,2012,2019,7,United States
+UC_23,Plaid,2012,2018,6,United States
+UC_24,OpenSea,2017,2021,4,United States
+UC_25,Grammarly,2009,2019,10,United States
+UC_26,Devoted Health,2017,2018,1,United States
+UC_27,Faire,2017,2019,2,United States
+UC_28,Brex,2017,2018,1,United States
+UC_29,JUUL Labs,2015,2017,2,United States
+UC_30,Bitmain Technologies,2015,2018,3,China
+UC_31,Biosplice Therapeutics,2008,2018,10,United States
+UC_32,GoodLeap,2003,2021,18,United States
+UC_33,Airtable,2013,2018,5,United States
+UC_34,ZongMu Technology,2013,2021,8,China
+UC_35,Global Switch,1998,2016,18,United Kingdom
+UC_36,Celonis,2011,2018,7,Germany
+UC_37,Bolt,2014,2021,7,United States
+UC_38,Alchemy,2017,2021,4,United States
+UC_40,Swiggy,2014,2018,4,India
+UC_41,Lalamove,2013,2019,6,Hong Kong
+UC_42,Figma,2012,2020,8,United States
+UC_43,Gusto,2011,2015,4,United States
+UC_44,reddit,2005,2017,12,United States
+UC_45,Talkdesk,2011,2018,7,United States
+UC_46,Notion Labs,2016,2020,4,United States
+UC_47,Thrasio,2018,2020,2,United States
+UC_48,Digital Currency Group,2018,2021,3,United States
+UC_49,OutSystems,2001,2018,17,United States
+UC_50,ServiceTitan,2012,2018,6,United States
+UC_51,HEYTEA,2012,2019,7,China
+UC_52,N26,2013,2019,6,Germany
+UC_53,Klaviyo,2012,2020,8,United States
+UC_54,Northvolt,2016,2019,3,Sweden
+UC_55,Tanium,2007,2015,8,United States
+UC_56,Chehaoduo,2015,2016,1,China
+UC_57,Niantic,2015,2017,2,United States
+UC_58,OYO Rooms,2012,2018,6,India
+UC_59,Rapyd,2016,2019,3,United Kingdom
+UC_60,Kavak,2016,2020,4,Mexico
+UC_61,Snyk,2015,2020,5,United States
+UC_62,Nuro,2016,2019,3,United States
+UC_63,Bolt,2013,2018,5,Estonia
+UC_64,Lacework,2015,2021,6,United States
+UC_65,Tipalti,2010,2020,10,United States
+UC_66,Tempus,2015,2018,3,United States
+UC_67,Xingsheng Selected,2009,2020,11,China
+UC_68,Dream11,2007,2019,12,India
+UC_69,Fireblocks,2018,2021,3,United States
+UC_70,Ramp,2019,2021,2,United States
+UC_71,Flexport,2013,2018,5,United States
+UC_72,Caris Life Sciences,1996,2021,25,United States
+UC_73,Dapper Labs,2018,2021,3,Canada
+UC_75,Getir,2015,2021,6,Turkey
+UC_76,Netskope,2012,2018,6,United States
+UC_77,Razorpay,2013,2020,7,India
+UC_78,Toss,2013,2018,5,South Korea
+UC_79,Carta,2012,2019,7,United States
+UC_80,Scale AI,2018,2019,1,United States
+UC_82,Gong,2015,2020,5,United States
+UC_83,TripActions,2015,2018,3,United States
+UC_84,Gemini,2015,2021,6,United States
+UC_85,We Doctor,2010,2015,5,China
+UC_86,Discord,2012,2018,6,United States
+UC_87,Ro,2017,2020,3,United States
+UC_88,Automation Anywhere,2003,2018,15,United States
+UC_89,1Password,2005,2021,16,Canada
+UC_90,Ziroom,2011,2018,7,China
+UC_91,National Stock Exchange of India,1992,2020,28,India
+UC_92,Mollie,2004,2020,16,Netherlands
+UC_93,Rippling,2017,2020,3,United States
+UC_95,DataRobot,2012,2019,7,United States
+UC_96,Personio,2015,2021,6,Germany
+UC_97,Upgrade,2016,2018,2,United States
+UC_98,Hinge Health,2015,2021,6,United States
+UC_99,Black Unicorn Factory,2020,2021,1,United States
+UC_100,Benchling,2012,2021,9,United States
+UC_101,Royole Corporation,2012,2015,3,China
+UC_102,Better.com,2018,2020,2,United States
+UC_103,Wiz,2020,2021,1,Israel
+UC_104,iCapital Network,2013,2021,8,United States
+UC_105,Pine Labs,1998,2020,22,India
+UC_106,6Sense,2013,2021,8,United States
+UC_107,Attentive,2016,2020,4,United States
+UC_108,Easyhome,1999,2018,19,China
+UC_109,Lianjia,2001,2016,15,China
+UC_110,Vice Media,1994,2011,17,United States
+UC_111,Cityblock Health,2017,2020,3,United States
+UC_112,Workato,2013,2021,8,United States
+UC_113,Back Market,2014,2021,7,France
+UC_114,RELEX Solutions,2005,2022,17,Finland
+UC_115,Postman,2014,2020,6,United States
+UC_116,FiveTran,2012,2020,8,United States
+UC_117,Pony.ai,2016,2018,2,United States
+UC_118,Trade Republic,2015,2021,6,Germany
+UC_119,Rappi,2015,2018,3,Colombia
+UC_120,Collibra,2008,2019,11,Belgium
+UC_121,Blockchain.com,2011,2021,10,United Kingdom
+UC_122,OneTrust,2016,2019,3,United States
+UC_123,QuintoAndar,2012,2019,7,Brazil
+UC_125,United Imaging Healthcare,2011,2017,6,China
+UC_126,Hello TransTech,2016,2018,2,China
+UC_127,Deel,2018,2021,3,United States
+UC_128,Airwallex,2015,2019,4,Australia
+UC_129,Mambu,2011,2021,10,Netherlands
+UC_130,Horizon Robotics,2015,2019,4,China
+UC_131,WM Motor,2015,2019,4,China
+UC_132,Howden Group Holdings,1994,2020,26,United Kingdom
+UC_133,SambaNova Systems,2017,2021,4,United States
+UC_134,ZEPZ,2010,2021,11,United Kingdom
+UC_135,OakNorth Bank,2015,2017,2,United Kingdom
+UC_136,Moon Active,2015,2020,5,Israel
+UC_137,OfBusiness,2015,2021,6,India
+UC_138,Cockroach Labs,2015,2021,6,United States
+UC_139,Qonto,2016,2022,6,France
+UC_140,Ola Electric Mobility,2019,2019,0,India
+UC_141,Icertis,2009,2019,10,United States
+UC_142,Hopper,2007,2021,14,Canada
+UC_143,Meesho,2015,2021,6,India
+UC_144,Cerebral,2020,2021,1,United States
+UC_145,Creditas,2012,2020,8,Brazil
+UC_147,Pleo,2015,2021,6,Denmark
+UC_148,Anduril,2017,2019,2,United States
+UC_149,Lyra Health,2015,2020,5,United States
+UC_150,Dataiku,2013,2019,6,United States
+UC_151,Checkr,2014,2019,5,United States
+UC_152,Color,2013,2021,8,United States
+UC_153,Meizu Technology,2003,2014,11,China
+UC_154,Vinted,2008,2019,11,Lithuania
+UC_155,VIPKid,2013,2016,3,China
+UC_156,Socure,2012,2021,9,United States
+UC_157,Monzo,2000,2018,18,United Kingdom
+UC_158,UBTECH Robotics,2012,2016,4,China
+UC_159,Outreach,2011,2019,8,United States
+UC_160,WeRide,2017,2020,3,China
+UC_161,BetterUp,2013,2021,8,United States
+UC_162,Arctic Wolf Networks,2012,2020,8,United States
+UC_163,Sorare,2019,2021,2,France
+UC_164,Relativity Space,2016,2020,4,United States
+UC_165,Miaoshou Doctor,2015,2019,4,China
+UC_166,Chainalysis,2014,2020,6,United States
+UC_167,ThoughtSpot,2012,2018,6,United States
+UC_168,Globalization Partners,2012,2022,10,United States
+UC_169,dbt Labs,2016,2021,5,United States
+UC_171,Dataminr,2009,2018,9,United States
+UC_172,BitPanda,2014,2021,7,Austria
+UC_173,Weee!,2015,2021,6,United States
+UC_174,Houzz,2008,2014,6,United States
+UC_176,Yello Mobile,2012,2014,2,South Korea
+UC_177,MEGVII,2011,2017,6,China
+UC_178,Greensill,2011,2018,7,United Kingdom
+UC_179,Impossible Foods,2011,2019,8,United States
+UC_180,Radiology Partners,2012,2019,7,United States
+UC_181,Next Insurance,2016,2019,3,United States
+UC_182,Patreon,2013,2020,7,United States
+UC_183,PointClickCare,2000,2021,21,Canada
+UC_186,BrowserStack,2011,2021,10,Ireland
+UC_187,Olive,2012,2020,8,United States
+UC_188,Rubrik,2014,2017,3,United States
+UC_189,Melio,2018,2021,3,United States
+UC_190,Vuori,2015,2021,6,United States
+UC_191,ClickUp,2017,2020,3,United States
+UC_192,Cerebras Systems,2016,2018,2,United States
+UC_193,Farmers Business Network,2014,2020,6,United States
+UC_194,Branch,2014,2018,4,United States
+UC_195,Aurora Solar,2013,2021,8,United States
+UC_196,Medlinker,2014,2018,4,China
+UC_197,Intarcia Therapeutics,1995,2014,19,United States
+UC_198,StockX,2016,2019,3,United States
+UC_199,MessageBird,2011,2020,9,Netherlands
+UC_200,Guild Education,2015,2019,4,United States
+UC_201,Articulate,2015,2021,6,United States
+UC_202,FalconX,2018,2021,3,United States
+UC_203,Dutchie,2017,2021,4,United States
+UC_204,Cohesity,2013,2018,5,United States
+UC_205,VAST Data,2016,2020,4,United States
+UC_206,GOAT,2015,2020,5,United States
+UC_207,Noom,2006,2021,15,United States
+UC_208,Redwood Materials,2017,2021,4,United States
+UC_209,Papaya Global,2016,2021,5,United States
+UC_210,ShareChat,2015,2021,6,India
+UC_211,Relativity,2001,2021,20,United States
+UC_212,Whoop,2012,2020,8,United States
+UC_213,Applied Intuition,2017,2020,3,United States
+UC_214,Course Hero,2006,2020,14,United States
+UC_215,Otto Bock HealthCare,1919,2017,98,Germany
+UC_216,Indigo Ag,2014,2017,3,United States
+UC_217,HyalRoute,2015,2020,5,Singapore
+UC_218,Rec Room,2016,2021,5,United States
+UC_219,Digit Insurance,2016,2021,5,India
+UC_220,Commure,2017,2021,4,United States
+UC_221,Mirakl,2011,2020,9,France
+UC_222,Coalition,2017,2021,4,United States
+UC_223,Tekion,2016,2020,4,United States
+UC_224,Celsius Network,2017,2021,4,United States
+UC_225,GoStudent,2017,2021,4,Austria
+UC_226,Highspot,2013,2021,8,United States
+UC_227,Handshake,2014,2021,7,United States
+UC_228,ChargeBee Technologies,2011,2021,10,United States
+UC_229,Flock Safety,2017,2021,4,United States
+UC_230,Unacademy,2015,2020,5,India
+UC_231,MoonPay,2019,2021,2,United States
+UC_232,Upstox,2010,2021,11,India
+UC_233,Youxia Motors,2014,2018,4,China
+UC_234,OwnBackup,2015,2021,6,United States
+UC_235,Starburst,1999,2021,22,United States
+UC_236,Cloudwalk,2015,2018,3,China
+UC_237,ECARX,2016,2020,4,China
+UC_238,Sila Nanotechnologies,2011,2019,8,United States
+UC_239,Scopely,2011,2019,8,United States
+UC_240,Komodo Health,2014,2020,6,United States
+UC_241,Kurly,2014,2021,7,South Korea
+UC_242,Cars24,2015,2020,5,India
+UC_243,BlockDaemon,2016,2021,5,United States
+UC_244,Dadi Cinema,2006,2016,10,China
+UC_245,Thumbtack,2008,2015,7,United States
+UC_246,Cedar,2016,2021,5,United States
+UC_247,Eruditus Executive Education,2010,2021,11,India
+UC_248,Blockstream,2014,2021,7,Canada
+UC_249,ConsenSys,2014,2021,7,United States
+UC_250,Innovaccer,2014,2021,7,United States
+UC_251,Ironclad,2014,2022,8,United States
+UC_252,Skims,2019,2021,2,United States
+UC_253,PsiQuantum,2016,2021,5,United States
+UC_254,SpotOn,2017,2021,4,United States
+UC_255,Udaan,2016,2018,2,India
+UC_256,HighRadius,2006,2020,14,United States
+UC_257,Nuvemshop,2011,2021,10,Brazil
+UC_258,DailyHunt,2007,2020,13,India
+UC_259,Yixia,2011,2015,4,China
+UC_260,Traveloka,2012,2017,5,Indonesia
+UC_261,SouChe Holdings,2012,2017,5,China
+UC_262,BGL Group,1992,2017,25,United Kingdom
+UC_263,Circle,2013,2018,5,United States
+UC_264,Zuoyebang,2014,2018,4,China
+UC_265,Delhivery,2011,2019,8,India
+UC_266,FlixMobility,2013,2019,6,Germany
+UC_267,Wildlife Studios,2011,2019,8,Brazil
+UC_268,ApplyBoard,2015,2020,5,Canada
+UC_269,Forter,2013,2020,7,United States
+UC_270,Calendly,2013,2021,8,United States
+UC_271,BlockFi,2017,2021,4,United States
+UC_272,ActiveCampaign,2003,2021,18,United States
+UC_273,CMR Surgical,2014,2019,5,United Kingdom
+UC_274,Lucid Software,2010,2021,11,United States
+UC_275,Age of Learning,2007,2016,9,United States
+UC_276,Carbon Health,2015,2021,6,United States
+UC_277,Contentful,2013,2021,8,Germany
+UC_278,LaunchDarkly,2014,2021,7,United States
+UC_279,Seismic,2010,2018,8,United States
+UC_280,Grafana Labs,2014,2021,7,United States
+UC_281,Gorillas,2020,2021,1,Germany
+UC_282,Sky Mavis,2019,2021,2,Vietnam
+UC_283,Outschool,2015,2021,6,United States
+UC_284,TradingView,2011,2021,10,United States
+UC_285,Groww,2017,2021,4,India
+UC_286,Podium,2014,2020,6,United States
+UC_287,Via,2012,2020,8,United States
+UC_288,Anchorage Digital,2017,2021,4,United States
+UC_289,Inxeption,2017,2022,5,United States
+UC_290,Lattice,2015,2021,6,United States
+UC_291,Flutterwave,2016,2021,5,United States
+UC_292,Amber Group,2015,2021,6,Hong Kong
+UC_293,Kraken,2011,2019,8,United States
+UC_294,OpenAI,2015,2019,4,United States
+UC_295,Ovo,2017,2019,2,Indonesia
+UC_296,Workrise,2014,2019,5,United States
+UC_297,Loft,2018,2020,2,Brazil
+UC_298,BharatPe,2018,2021,3,India
+UC_299,DriveWealth,2012,2021,9,United States
+UC_300,Flink,2021,2021,0,Germany
+UC_301,Meicai,2014,2016,2,China
+UC_302,ContentSquare,2012,2021,9,France
+UC_303,Zipline,2014,2019,5,United States
+UC_304,Graphcore,2016,2018,2,United Kingdom
+UC_305,Illumio,2013,2015,2,United States
+UC_306,Convoy,2015,2018,3,United States
+UC_307,MasterClass,2015,2021,6,United States
+UC_308,Dream Games,2019,2021,2,Turkey
+UC_309,Transmit Security,2014,2021,7,Israel
+UC_310,Hozon Auto,2014,2021,7,China
+UC_311,Tradeshift,2009,2018,9,United States
+UC_312,Nextiva,2008,2021,13,United States
+UC_313,o9 Solutions,2009,2020,11,United States
+UC_314,ManoMano,2013,2021,8,France
+UC_315,Sourcegraph,2013,2021,8,United States
+UC_316,Pendo,2013,2019,6,United States
+UC_317,Plume,2015,2021,6,United States
+UC_318,Moglix,2015,2021,6,Singapore
+UC_319,Xinchao Media,2007,2018,11,China
+UC_320,JumpCloud,2012,2021,9,United States
+UC_321,Vista Global,2004,2017,13,United Arab Emirates
+UC_322,BYTON,2016,2018,2,China
+UC_323,Acronis,2003,2019,16,Switzerland
+UC_324,Side,2017,2021,4,United States
+UC_325,Lenskart,2008,2019,11,India
+UC_326,Infra.Market,2016,2021,5,India
+UC_327,Varo Bank,2015,2021,6,United States
+UC_328,Cato Networks,2015,2020,5,Israel
+UC_329,Aura,2019,2021,2,United States
+UC_330,Vercel,2015,2021,6,United States
+UC_331,Sysdig,2013,2021,8,United States
+UC_332,Zetwerk,2018,2021,3,India
+UC_333,Uniphore,2008,2022,14,United States
+UC_334,Somatus,2016,2022,6,United States
+UC_335,Uala,2017,2021,4,Argentina
+UC_336,Mobile Premier League,2018,2021,3,India
+UC_337,Cybereason,2012,2019,7,United States
+UC_338,Cgtz,2014,2017,3,China
+UC_339,Star Charge,2014,2021,7,China
+UC_340,Carbon,2013,2015,2,United States
+UC_341,PolicyBazaar,2008,2019,11,India
+UC_343,Exabeam,2013,2021,8,United States
+UC_344,BitSight Technologies,2013,2021,8,United States
+UC_345,Trumid,2014,2020,6,United States
+UC_346,ABL Space Systems,2017,2021,4,United States
+UC_347,Project44,2014,2021,7,United States
+UC_348,Bought By Many,2012,2021,9,United Kingdom
+UC_349,Jobandtalent,2009,2021,12,Spain
+UC_350,WEMAKEPRICE,2009,2015,6,South Korea
+UC_351,Biren Technology,2019,2020,1,China
+UC_352,Voodoo,2013,2020,7,France
+UC_353,Uptake,2014,2015,1,United States
+UC_354,KeepTruckin,2013,2019,6,United States
+UC_355,Skydance Media,2010,2020,10,United States
+UC_356,Greenlight,2014,2020,6,United States
+UC_357,Bowery Farming,2015,2021,6,United States
+UC_358,Odoo,2005,2021,16,Belgium
+UC_359,MoMo,2013,2021,8,Vietnam
+UC_360,Ankorstore,2019,2022,3,France
+UC_361,Zume,2015,2018,3,United States
+UC_362,Algolia,2012,2021,9,United States
+UC_363,Pattern,2013,2021,8,United States
+UC_364,NuCom Group,2016,2018,2,Germany
+UC_365,MUSINSA,2001,2019,18,South Korea
+UC_366,Current,2015,2021,6,United States
+UC_367,Bitso,2014,2021,7,Mexico
+UC_368,Gympass,2012,2019,7,United States
+UC_369,Reify Health,2012,2021,9,United States
+UC_370,Dialpad,2011,2020,9,United States
+UC_371,G7 Networks,2006,2022,16,China
+UC_372,BloomReach,2009,2022,13,United States
+UC_373,Huaqin Telecom Technology,2005,2019,14,China
+UC_374,Accelerant,2018,2022,4,United Kingdom
+UC_375,Hesai Tech,2013,2020,7,China
+UC_376,YITU Technology,2012,2018,6,China
+UC_377,Addepar,2009,2021,12,United States
+UC_378,Neo4j,2007,2021,14,United States
+UC_379,CloudWalk,2013,2021,8,Brazil
+UC_380,FirstCry,2010,2020,10,India
+UC_381,Eightfold.ai,2016,2020,4,United States
+UC_382,Webflow,2012,2021,9,United States
+UC_383,Urban Company,2014,2021,7,India
+UC_384,ReCharge,2017,2021,4,United States
+UC_385,Moveworks,2016,2021,5,United States
+UC_386,Medable,2013,2021,8,United States
+UC_387,SoundHound,2005,2018,13,United States
+UC_388,GoCardless,2011,2022,11,United Kingdom
+UC_389,Trendy Group International,1999,2012,13,Hong Kong
+UC_390,Avant,1973,2012,39,United States
+UC_392,BlaBlaCar,2006,2015,9,France
+UC_393,HuiMin,2013,2016,3,China
+UC_394,Quora,2009,2017,8,United States
+UC_395,Improbable,2012,2017,5,United Kingdom
+UC_396,Preferred Networks,2014,2018,4,Japan
+UC_397,Formlabs,2011,2018,7,United States
+UC_398,4Paradigm,2015,2018,3,China
+UC_399,Calm,2012,2019,7,United States
+UC_400,Kaseya,2000,2019,19,United States
+UC_401,Mafengwo,2010,2019,9,China
+UC_402,Druva,2007,2019,12,United States
+UC_403,Kujiale,2011,2019,8,China
+UC_404,AppsFlyer,2011,2020,9,United States
+UC_405,Keep,2014,2020,6,China
+UC_406,Redis Labs,2011,2020,9,United States
+UC_407,Xingyun Group,2015,2020,5,China
+UC_408,Unqork,2017,2020,3,United States
+UC_409,Virta Health,2015,2020,5,United States
+UC_410,ISN,2001,2020,19,United States
+UC_411,Earnix,2001,2021,20,Israel
+UC_412,Guoquan Shihui,2017,2021,4,China
+UC_413,Arrail Dental,1999,2021,22,China
+UC_414,Clearco,2015,2021,6,Canada
+UC_415,Hive,2013,2021,8,United States
+UC_416,KRY,2014,2021,7,Sweden
+UC_417,Kajabi,2010,2021,11,United States
+UC_418,Ethos,2019,2021,2,United States
+UC_419,PayFit,2016,2022,6,United Kingdom
+UC_420,Beisen,2002,2021,19,China
+UC_421,Pipe,2019,2021,2,United States
+UC_422,Iterable,2013,2021,8,United States
+UC_423,Bunq,2013,2021,8,Netherlands
+UC_424,Clip,2012,2021,9,Mexico
+UC_425,Loggi,2013,2019,6,Brazil
+UC_426,MURAL,2011,2021,10,United States
+UC_427,Pagaya,2015,2020,5,Israel
+UC_428,OCSiAl,2012,2019,7,Luxembourg
+UC_429,XtalPi,2014,2021,7,China
+UC_430,Divvy Homes,2017,2021,4,United States
+UC_431,Apeel Sciences,2012,2020,8,United States
+UC_432,Opay,2018,2021,3,Nigeria
+UC_433,Aviatrix,2014,2021,7,United States
+UC_434,SmartNews,2012,2019,7,Japan
+UC_435,Misfits Market,2018,2021,3,United States
+UC_436,Spring Health,2016,2021,5,United States
+UC_437,Black Sesame Technologies,2016,2021,5,China
+UC_438,Advance Intelligence Group,2016,2021,5,Singapore
+UC_439,Modern Treasury,2018,2021,3,United States
+UC_440,Magic Leap,2010,2014,4,United States
+UC_441,Tier,2018,2021,3,Germany
+UC_442,Aiven,2016,2021,5,Finland
+UC_443,ClickHouse,2021,2021,0,United States
+UC_444,Mynt,2015,2021,6,Philippines
+UC_445,Everlaw,2010,2021,11,United States
+UC_446,Zilch,2018,2021,3,United Kingdom
+UC_447,VerbIT,2016,2021,5,United States
+UC_448,StarkWare,2018,2021,3,Israel
+UC_450,Deliverr,2017,2021,4,United States
+UC_451,SWORD Health,2015,2021,6,United States
+UC_452,LTK,2011,2021,10,United States
+UC_453,Exotec,2015,2022,7,France
+UC_454,Dremio,2015,2021,6,United States
+UC_455,Akulaku,2014,2022,8,Indonesia
+UC_456,Cloudinary,2011,2022,11,United States
+UC_457,Fenbi Education,2015,2021,6,China
+UC_458,Starling Bank,2014,2021,7,United Kingdom
+UC_459,Rokt,2012,2021,9,United States
+UC_460,InVision,2011,2017,6,United States
+UC_462,MX Technologies,2010,2021,11,United States
+UC_463,Aledade,2014,2021,7,United States
+UC_464,CoinSwitch Kuber,2017,2021,4,India
+UC_465,ENOVATE,2015,2019,4,China
+UC_466,CFGI,2000,2021,21,United States
+UC_467,Retool,2000,2021,21,United States
+UC_468,Automattic,2005,2013,8,United States
+UC_469,ZocDoc,2007,2015,8,United States
+UC_470,Diamond Foundry,2012,2021,9,United States
+UC_471,FullStory,2014,2021,7,United States
+UC_472,Lightricks,2013,2019,6,Israel
+UC_473,Opentrons,2016,2021,5,United States
+UC_474,AIWAYS,2017,2018,1,China
+UC_475,Trulioo,2011,2021,10,Canada
+UC_476,Spinny,2015,2021,6,India
+UC_477,Orca Security,2019,2021,2,United States
+UC_478,Apus Group,2014,2015,1,China
+UC_479,Harry's,2013,2018,5,United States
+UC_480,PAX,2007,2018,11,United States
+UC_482,DispatchHealth,2013,2021,8,United States
+UC_483,Unite Us,2014,2021,7,United States
+UC_484,CircleCI,2011,2021,10,United States
+UC_486,Vestiaire Collective,2009,2021,12,France
+UC_487,Dragos,2016,2021,5,United States
+UC_488,Reltio,2011,2021,10,United States
+UC_489,H2O.ai,2011,2021,10,United States
+UC_490,ZenBusiness,2015,2021,6,United States
+UC_491,Carsome,2015,2021,6,Malaysia
+UC_492,Productboard,2014,2022,8,United States
+UC_493,Spotter,2019,2022,3,United States
+UC_494,Alan,2016,2021,5,France
+UC_495,wefox,2014,2019,5,Germany
+UC_496,Hibob,2015,2021,6,Israel
+UC_497,Trader Interactive,2015,2021,6,United States
+UC_498,Jusfoun Big Data,2010,2018,8,China
+UC_499,Transcarent,2020,2022,2,United States
+UC_500,DealShare,2018,2022,4,India
+UC_502,solarisBank,2016,2021,5,Germany
+UC_503,Infinidat,2011,2015,4,United States
+UC_504,Afiniti,2006,2017,11,Bermuda
+UC_505,Cao Cao Mobility,2015,2018,3,China
+UC_506,Verkada,2016,2020,4,United States
+UC_507,Clari,2012,2021,9,United States
+UC_508,Tonal,2015,2021,6,United States
+UC_509,Clio,2008,2021,13,Canada
+UC_510,SafetyCulture,2004,2021,17,Australia
+UC_511,Extend,2004,2021,17,United States
+UC_512,Cognite,2016,2021,5,Norway
+UC_513,ASAPP,2014,2021,7,United States
+UC_514,SmartHR,2013,2021,8,Japan
+UC_515,Mercury,2019,2021,2,United States
+UC_516,HomeLight,2012,2021,9,United States
+UC_517,Truepill,2016,2021,5,United States
+UC_518,ezCater,2007,2019,12,United States
+UC_519,Wayflyer,2019,2022,3,Ireland
+UC_520,Promasidor Holdings,1979,2016,37,South Africa
+UC_521,Baiwang,2015,2019,4,China
+UC_522,Iluvatar CoreX,2015,2021,6,China
+UC_523,Wenheyou,2013,2021,8,China
+UC_524,Loom,2016,2021,5,United States
+UC_525,Ximalaya FM,2012,2017,5,China
+UC_527,Mu Sigma,2004,2013,9,United States
+UC_528,TuJia,2011,2015,4,China
+UC_529,Mofang Living,2009,2016,7,China
+UC_530,Gett,2010,2016,6,United Kingdom
+UC_531,DT Dream,2015,2017,2,China
+UC_533,XiaoZhu,2012,2017,5,China
+UC_534,JOLLY Information Technology,2008,2018,10,China
+UC_535,Yijiupi,2014,2018,4,China
+UC_536,Cambridge Mobile Telematics,2010,2018,8,United States
+UC_537,Collective Health,2013,2019,6,United States
+UC_538,Strava,2009,2020,11,United States
+UC_539,Zenoti,2010,2020,10,United States
+UC_540,K Health,2016,2021,5,United States
+UC_542,ID.me,2010,2021,11,United States
+UC_543,Snapdocs,2012,2021,9,United States
+UC_544,Chipper Cash,2017,2021,4,United States
+UC_545,Ledger,2014,2021,7,France
+UC_546,Next Silicon,2018,2021,3,Israel
+UC_547,YunQuNa,2015,2021,6,China
+UC_548,Impact,2008,2021,13,United States
+UC_549,SmartRecruiters,2010,2021,11,United States
+UC_550,NotCo,2015,2021,6,Chile
+UC_551,Culture Amp,2011,2021,10,Australia
+UC_552,TaxBit,2018,2021,3,United States
+UC_553,Pacaso,2020,2021,1,United States
+UC_554,1047 Games,2017,2021,4,United States
+UC_555,Matillion,2011,2021,10,United Kingdom
+UC_556,Persona,2018,2021,3,United States
+UC_557,Whatnot,2019,2021,2,United States
+UC_558,Ascend Money,2013,2021,8,Thailand
+UC_559,Andela,2014,2021,7,United States
+UC_560,Built,2015,2021,6,United States
+UC_561,candy.com,2021,2021,0,United States
+UC_562,Devo,2011,2021,10,United States
+UC_563,CoinList,2017,2021,4,United States
+UC_564,Lusha,2016,2021,5,United States
+UC_565,CureFit,2016,2021,5,India
+UC_566,Solugen,2016,2021,5,United States
+UC_567,Olist,2015,2021,6,Brazil
+UC_568,Paradox,2016,2021,5,United States
+UC_569,Airbyte,2020,2021,1,United States
+UC_570,StoreDot,2012,2022,10,Israel
+UC_571,Il Makiage,2018,2022,4,United States
+UC_572,Spendesk,2015,2022,7,France
+UC_573,Veriff,2015,2022,7,Estonia
+UC_574,Athelas,2016,2022,6,United States
+UC_575,ElasticRun,2016,2022,6,India
+UC_576,Veho,2016,2021,5,United States
+UC_577,Temporal,2019,2022,3,United States
+UC_578,Fabric,2017,2022,5,United States
+UC_579,Yipin Shengxian,2017,2019,2,China
+UC_580,Bordrin Motors,2016,2019,3,China
+UC_581,Coocaa,2006,2018,12,China
+UC_582,Juma Peisong,2011,2018,7,China
+UC_583,Ouyeel,2015,2019,4,China
+UC_584,Gymshark,2012,2020,8,United Kingdom
+UC_585,Zeta,2015,2021,6,United States
+UC_586,M1 Finance,2015,2021,6,United States
+UC_587,Aleo,2019,2022,3,United States
+UC_588,Einride,2016,2021,5,Sweden
+UC_589,Justworks,2012,2020,8,United States
+UC_590,SonderMind,2014,2021,7,United States
+UC_591,Papa,2016,2021,5,United States
+UC_592,Figment,2018,2021,3,Canada
+UC_593,Envoy,2013,2022,9,United States
+UC_594,Deliverect,2018,2022,4,Belgium
+UC_595,SparkCognition,2013,2022,9,United States
+UC_596,Firebolt,2019,2022,3,Israel
+UC_597,Koudai,2010,2014,4,China
+UC_598,Symphony,2014,2017,3,United States
+UC_599,Yidian Zixun,2021,2017,-4,China
+UC_600,Cabify,2011,2018,7,Spain
+UC_601,Hive Box,2015,2018,3,China
+UC_602,Deezer,2007,2018,11,France
+UC_603,Away,2015,2019,4,United States
+UC_604,Kong,2007,2020,13,United States
+UC_605,Epidemic Sound,2009,2021,12,Sweden
+UC_606,Yotpo,2011,2021,10,United States
+UC_607,Rebel Foods,2011,2021,10,India
+UC_609,Five Star Business Finance,1984,2021,37,India
+UC_610,Stash,2015,2021,6,United States
+UC_611,Phenom People,2011,2021,10,United States
+UC_612,GupShup,2011,2021,10,United States
+UC_613,Degreed,2012,2021,9,United States
+UC_614,Astranis Space Technologies,2015,2021,6,United States
+UC_615,Scalable Capital,2014,2021,7,Germany
+UC_616,VideoAmp,2014,2021,7,United States
+UC_617,Panther Labs,2018,2021,3,United States
+UC_618,Salt Security,2016,2022,6,United States
+UC_619,Tripledot Studios,2017,2022,5,United Kingdom
+UC_621,Neon,2016,2022,6,Brazil
+UC_622,DeepBlue Technology,2014,2018,4,China
+UC_623,Klook,2014,2018,4,Hong Kong
+UC_624,Yaoshibang,2015,2021,6,China
+UC_625,At-Bay,2016,2021,5,United States
+UC_626,Alloy,2015,2021,6,United States
+UC_627,Epirus,2018,2022,4,United States
+UC_628,Signifyd,2011,2021,10,United States
+UC_629,Motorway,2017,2021,4,United Kingdom
+UC_630,RIDI,2008,2022,14,South Korea
+UC_631,Flipboard,2010,2015,5,United States
+UC_632,Grove Collaborative,2016,2019,3,United States
+UC_633,GPclub,2003,2018,15,South Korea
+UC_634,Tongdun Technology,2013,2019,6,China
+UC_635,Athletic Greens,2010,2022,12,United States
+UC_636,Unisound,2012,2018,6,China
+UC_637,Alzheon,2013,2020,7,United States
+UC_638,HeartFlow,2007,2017,10,United States
+UC_639,Trax,2010,2019,9,Singapore
+UC_641,InSightec,1999,2020,21,Israel
+UC_642,Everly Health,2015,2020,5,United States
+UC_643,Manner,2015,2020,5,China
+UC_644,TalkingData,2013,2021,8,China
+UC_645,DistroKid,2013,2021,8,United States
+UC_646,Konfio,2013,2021,8,Mexico
+UC_647,Betterment,2010,2021,11,United States
+UC_648,Flock Freight,2015,2021,6,United States
+UC_649,YugaByte,2016,2021,5,United States
+UC_650,Lukka,2014,2022,8,United States
+UC_651,TravelPerk,2015,2022,7,Spain
+UC_652,iTrustCapital,2018,2022,4,United States
+UC_653,Domestika,2012,2022,10,United States
+UC_654,CoinTracker,2017,2022,5,United States
+UC_655,Loadsmart,2014,2022,8,United States
+UC_656,TUNGEE,2016,2021,5,China
+UC_657,Starry,2014,2018,4,United States
+UC_658,Intercom,2011,2018,7,United States
+UC_659,OVO Energy,2009,2019,10,United Kingdom
+UC_660,Huisuanzhang,2015,2021,6,China
+UC_662,BigID,2015,2020,5,United States
+UC_663,Kuaikan Manhua,2014,2017,3,China
+UC_664,Marshmallow,2017,2021,4,United Kingdom
+UC_665,Honor Technology,2014,2021,7,United States
+UC_666,Mythical Games,2018,2021,3,United States
+UC_667,Incode Technologies,2015,2021,6,United States
+UC_668,Tackle.io,2016,2021,5,United States
+UC_669,Flipdish,2015,2022,7,Ireland
+UC_670,Route,2018,2022,4,United States
+UC_671,CaptivateIQ,2014,2022,8,United States
+UC_672,BrewDog,2007,2017,10,United Kingdom
+UC_673,Enflame,2018,2021,3,China
+UC_674,EQRx,2020,2021,1,United States
+UC_675,Nexii,2020,2021,1,Canada
+UC_676,GalaxySpace,2016,2020,4,China
+UC_677,Spiber,2007,2021,14,Japan
+UC_678,Insider,2012,2022,10,Turkey
+UC_679,Yiguo,2005,2016,11,China
+UC_681,Glossier,2014,2019,5,United States
+UC_682,Workhuman,1999,2020,21,Ireland
+UC_683,Qumulo,2012,2020,8,United States
+UC_684,Tealium,2008,2021,13,United States
+UC_685,Public,2008,2021,13,United States
+UC_686,Axonius,2017,2021,4,United States
+UC_687,Savage X Fenty,2018,2021,3,United States
+UC_688,Pipa Coding,2017,2021,4,China
+UC_690,Aibee,2017,2021,4,China
+UC_691,Cava Group,2010,2021,11,United States
+UC_692,Vectra Networks,2011,2021,10,United States
+UC_693,Ada Support,2016,2021,5,Canada
+UC_694,Inari,2016,2021,5,United States
+UC_695,Alation,2012,2021,9,United States
+UC_696,Forto,2016,2021,5,Germany
+UC_697,SmartMore,2019,2021,2,China
+UC_698,Rohlik,2019,2021,2,Czech Republic
+UC_699,Prime Medicine,2019,2021,2,United States
+UC_700,FloQast,2013,2021,8,United States
+UC_701,MindTickle,2012,2021,9,United States
+UC_702,UpGrad,2015,2021,6,India
+UC_703,DailyPay,2016,2021,5,United States
+UC_704,Oda,2013,2021,8,Norway
+UC_705,Offchain Labs,2018,2021,3,United States
+UC_706,Copado,2013,2021,8,United States
+UC_707,Gem,2017,2021,4,United States
+UC_708,CarDekho,2008,2021,13,India
+UC_709,MyGlamm,2015,2021,6,India
+UC_710,AgentSync,2018,2021,3,United States
+UC_711,Pristyn Care,2018,2021,3,India
+UC_712,Jokr,2021,2021,0,United States
+UC_713,Merama,2020,2021,1,Mexico
+UC_714,SeekOut,2017,2022,5,United States
+UC_715,BigPanda,2012,2022,10,United States
+UC_716,Phantom,2021,2022,1,United States
+UC_717,LivSpace,2015,2022,7,India
+UC_718,Xpressbees,2012,2022,10,India
+UC_719,Helium Systems,2013,2022,9,United States
+UC_720,CloudBees,2010,2021,11,United States
+UC_721,L&P Cosmetic,2009,2016,7,South Korea
+UC_722,Mininglamp Technology,2014,2019,5,China
+UC_723,Luoji Siwei,2012,2017,5,China
+UC_724,Yimidida,2015,2019,4,China
+UC_725,Modern Health,2017,2021,4,United States
+UC_726,IRL,2017,2021,4,United States
+UC_727,Tuhu,2011,2018,7,China
+UC_728,SVOLT,2018,2020,2,China
+UC_729,LifeMiles,2011,2015,4,Colombia
+UC_730,Venafi,2000,2020,20,United States
+UC_731,Guideline,2015,2021,6,United States
+UC_732,Rebellion Defense,2019,2021,2,United States
+UC_734,Happy Money,2009,2022,13,United States
+UC_735,Doctolib,2013,2019,6,France
+UC_736,STORD,2015,2021,6,United States
+UC_737,TELD,2014,2019,5,China
+UC_738,TangoMe,2009,2014,5,United States
+UC_739,AppDirect,2009,2015,6,United States
+UC_740,Juanpi,2012,2016,4,China
+UC_741,OVH,1999,2016,17,France
+UC_742,Eat Just,2011,2017,6,United States
+UC_743,GetYourGuide,2009,2019,10,Germany
+UC_744,Ivalua,2000,2019,19,United States
+UC_745,Sisense,2004,2020,16,United States
+UC_746,Pharmapacks,2010,2020,10,United States
+UC_747,Sennder,2015,2021,6,Germany
+UC_748,Nexthink,2004,2021,17,Switzerland
+UC_749,Zego,2016,2021,5,United Kingdom
+UC_750,Rightway,2017,2021,4,United States
+UC_751,Sunbit,2016,2021,5,United States
+UC_753,G2,2012,2021,9,United States
+UC_754,Hailo,2017,2021,4,Israel
+UC_755,People.ai,2017,2021,4,United States
+UC_756,CoinDCX,2017,2021,4,India
+UC_757,Carousell,2012,2021,9,Singapore
+UC_758,apna,2019,2021,2,India
+UC_759,Karat,2014,2021,7,United States
+UC_760,Enpal,2017,2021,4,Germany
+UC_761,Acko General Insurance,2016,2021,5,India
+UC_762,Daily Harvest,2014,2021,7,United States
+UC_763,The Bank of London,2018,2021,3,United Kingdom
+UC_764,Fundbox,2013,2021,8,United States
+UC_765,Turing,2018,2021,3,United States
+UC_766,GlobalBees,2021,2021,0,India
+UC_767,LEAD School,2012,2022,10,India
+UC_768,eSentire,2001,2022,21,Canada
+UC_769,Beyond Identity,2019,2022,3,United States
+UC_770,Nxin,2015,2018,3,China
+UC_771,UISEE Technology,2016,2021,5,China
+UC_773,Rubicon,2008,2017,9,United States
+UC_774,Radius Payment Solutions,1990,2017,27,United Kingdom
+UC_775,Rivigo,2014,2019,5,India
+UC_776,Mamaearth,2016,2021,5,India
+UC_777,Jiuxian,2009,2015,6,China
+UC_778,Instabase,2015,2019,4,United States
+UC_779,Sendbird,2013,2021,8,United States
+UC_780,Density,2014,2021,7,United States
+UC_781,Mixpanel,2009,2021,12,United States
+UC_782,Aprogen,2000,2019,19,South Korea
+UC_783,OrCam Technologies,2010,2018,8,Israel
+UC_784,Leap Motor,2015,2018,3,China
+UC_785,Lookout,2007,2013,6,United States
+UC_786,Snapdeal,2008,2014,6,India
+UC_787,TechStyle Fashion Group,2010,2014,4,United States
+UC_788,InMobi,2007,2014,7,India
+UC_789,LinkSure Network,2013,2015,2,China
+UC_790,Red Ventures,2000,2015,15,United States
+UC_791,BeiBei,2011,2015,4,China
+UC_792,Lamabang,2011,2015,4,China
+UC_794,BenevolentAI,2013,2015,2,United Kingdom
+UC_795,FXiaoKe,2011,2015,4,China
+UC_796,Vox Media,2011,2015,4,United States
+UC_797,Mia.com,2011,2015,4,China
+UC_798,58 Daojia,2014,2015,1,China
+UC_799,Womai,2009,2015,6,China
+UC_800,HuJiang,2001,2015,14,China
+UC_801,iTutorGroup,1998,2015,17,China
+UC_802,MindMaze,2012,2016,4,Switzerland
+UC_803,iCarbonX,2015,2016,1,China
+UC_804,SMS Assist,2003,2016,13,United States
+UC_805,Kendra Scott,2002,2016,14,United States
+UC_806,Mobvoi,2012,2017,5,China
+UC_807,Zhuan Zhuan,2015,2017,2,China
+UC_808,Modernizing Medicine,2010,2017,7,United States
+UC_809,Zhaogang,2012,2017,5,China
+UC_810,DianRong,2012,2017,5,China
+UC_811,Cell C,2000,2017,17,South Africa
+UC_812,YH Global,1997,2017,20,China
+UC_813,Revolution Precrafted,2015,2017,2,Philippines
+UC_814,WeLab,2013,2017,4,Hong Kong
+UC_815,Maimai,2013,2017,4,China
+UC_816,Dxy.cn,2000,2018,18,China
+UC_817,Orbbec Technology,2013,2018,5,China
+UC_818,HMD Global,2016,2018,2,Finland
+UC_819,Huike Group,2010,2018,8,China
+UC_820,China Cloud,2010,2018,8,China
+UC_821,LinkDoc Technology,2014,2018,4,China
+UC_822,MediaMath,2007,2018,11,United States
+UC_823,Movile,1998,2018,20,Brazil
+UC_825,Pat McGrath Labs,2016,2018,2,United States
+UC_826,Wacai,2009,2018,9,China
+UC_827,FlashEx,2014,2018,4,China
+UC_828,Banma Network Technologies,2015,2018,3,China
+UC_829,Tresata,2011,2018,7,United States
+UC_830,Momenta,2016,2018,2,China
+UC_831,Hosjoy,2009,2018,9,China
+UC_832,Omio,2013,2018,5,Germany
+UC_833,TERMINUS Technology,2015,2018,3,China
+UC_834,BitFury,2011,2018,7,Netherlands
+UC_835,iFood,2011,2018,7,Brazil
+UC_836,Geek+,2015,2018,3,China
+UC_837,REEF Technology,2015,2018,3,United States
+UC_838,Globality,2015,2019,4,United States
+UC_839,Ynsect,2011,2019,8,France
+UC_840,Intellifusion,2014,2019,5,China
+UC_841,Liquid,2014,2019,5,Japan
+UC_842,Poizon,2015,2019,4,China
+UC_843,VTS,2012,2019,7,United States
+UC_844,SITECH DEV,2017,2019,2,China
+UC_845,KnowBox,2014,2019,5,China
+UC_846,Yanolja,2005,2019,14,South Korea
+UC_847,Meero,2016,2019,3,France
+UC_848,SumUp,2011,2019,8,United Kingdom
+UC_849,Ibotta,2011,2019,8,United States
+UC_850,C2FO,2008,2019,11,United States
+UC_852,EBANX,2012,2019,7,Brazil
+UC_853,KK Group,2014,2019,5,China
+UC_854,Alto Pharmacy,2015,2020,5,United States
+UC_855,Hotmart,2011,2020,9,Netherlands
+UC_856,Emerging Markets Property Group,2015,2020,5,United Arab Emirates
+UC_857,Quizlet,2005,2020,15,United States
+UC_858,Orca Bio,2016,2020,4,United States
+UC_859,Newlink Group,2016,2020,4,China
+UC_860,Infobip,2006,2020,14,Croatia
+UC_861,Zwift,2014,2020,6,United States
+UC_862,Playco,2020,2020,0,Japan
+UC_864,Gousto,2012,2020,8,United Kingdom
+UC_865,Boom Supersonic,2014,2020,6,United States
+UC_866,Qualia,2015,2020,5,United States
+UC_867,Quantum Metric,2015,2021,6,United States
+UC_868,News Break,2015,2021,6,United States
+UC_869,MadeiraMadeira,2009,2021,12,Brazil
+UC_870,PPRO,2006,2021,15,United Kingdom
+UC_871,Splashtop,2006,2021,15,United States
+UC_872,DriveNets,2015,2021,6,Israel
+UC_873,Flash Express,2017,2021,4,Thailand
+UC_874,Axiom Space,2016,2021,5,United States
+UC_875,Locus Robotics,2014,2021,7,United States
+UC_876,Standard,2017,2021,4,United States
+UC_877,Sentry,2011,2021,10,United States
+UC_878,WeBull,2016,2021,5,China
+UC_879,Skydio,2014,2021,7,United States
+UC_880,Newsela,2013,2021,8,United States
+UC_881,Aqua Security,2015,2021,6,Israel
+UC_882,PatSnap,2007,2021,14,Singapore
+UC_883,Evidation,2012,2021,9,United States
+UC_884,Sidecar Health,2018,2021,3,United States
+UC_885,Feedzai,2009,2021,12,United States
+UC_886,Yunxuetang,2011,2021,10,China
+UC_887,Cameo,2016,2021,5,United States
+UC_888,Fetch Rewards,2014,2021,7,United States
+UC_890,The Zebra,2012,2021,9,United States
+UC_891,Clearcover,2016,2021,5,United States
+UC_892,Groq,2016,2021,5,United States
+UC_893,Fiture,2019,2021,2,China
+UC_894,Injective Protocol,2018,2021,3,United States
+UC_895,Sift,2011,2021,10,United States
+UC_897,Capsule,2016,2021,5,United States
+UC_898,MOLOCO,2013,2021,8,United States
+UC_899,Mux,2015,2021,6,United States
+UC_900,XForcePlus,2015,2021,6,China
+UC_901,Firefly Aerospace,2014,2021,7,United States
+UC_902,HoneyBook,2013,2021,8,United States
+UC_903,Shift Technology,2014,2021,7,France
+UC_904,TensTorrent,2016,2021,5,Canada
+UC_905,Zihaiguo,2018,2021,3,China
+UC_906,Forte Labs,2018,2021,3,United States
+UC_907,Axtria,2009,2021,12,United States
+UC_909,Vise,2016,2021,5,United States
+UC_910,Printful,2016,2021,5,United States
+UC_912,Shippo,2013,2021,8,United States
+UC_913,Thirty Madison,1993,2021,28,United States
+UC_914,LetsGetChecked,2015,2021,6,Ireland
+UC_915,EcoFlow,2017,2021,4,China
+UC_916,Carro,2015,2021,6,Singapore
+UC_917,Tractable,2014,2021,7,United Kingdom
+UC_918,Bringg,2013,2021,8,Israel
+UC_919,Claroty,2015,2021,6,United States
+UC_920,JoyTunes,2011,2021,10,Israel
+UC_921,Aircall,2014,2021,7,United States
+UC_922,SmartAsset,2012,2021,9,United States
+UC_923,Morning Consult,2014,2021,7,United States
+UC_924,Visier,2010,2021,11,Canada
+UC_925,ShipBob,2014,2021,7,United States
+UC_926,Blinkit,2013,2021,8,India
+UC_927,Kitopi,2018,2021,3,United Arab Emirates
+UC_928,bolttech,2018,2021,3,Singapore
+UC_929,MobileCoin,2018,2021,3,United States
+UC_930,Lunar,2015,2021,6,Denmark
+UC_931,Amperity,2016,2021,5,United States
+UC_932,Remote,2016,2021,5,United States
+UC_933,Pantheon Systems,2020,2021,1,United States
+UC_934,Xiaobing,2020,2021,1,China
+UC_936,GO1,2015,2021,6,Australia
+UC_937,Interos,2005,2021,16,United States
+UC_938,BlackBuck,2015,2021,6,India
+UC_939,NIUM,2014,2021,7,Singapore
+UC_940,Unico,2007,2021,14,Brazil
+UC_941,Human Interest,2015,2021,6,United States
+UC_942,Bluecore,2013,2021,8,United States
+UC_943,Freshbooks,2004,2021,17,Canada
+UC_944,Snorkel AI,2019,2021,2,United States
+UC_945,Gelato,2007,2021,14,Norway
+UC_946,Maven Clinic,2014,2021,7,United States
+UC_947,Dunamu,2012,2021,9,South Korea
+UC_948,Shield AI,2015,2021,6,United States
+UC_950,1KMXC,2014,2021,7,China
+UC_951,Cider,2020,2021,1,Hong Kong
+UC_952,Berlin Brands Group,2005,2021,16,Germany
+UC_953,Agile Robots,2018,2021,3,Germany
+UC_954,GrubMarket,2013,2021,8,United States
+UC_957,Xendit,2014,2021,7,Indonesia
+UC_958,TrueLayer,2016,2021,5,United Kingdom
+UC_959,Assembly,2019,2021,2,United States
+UC_960,PandaDoc,2016,2021,5,United States
+UC_961,Keenon Robotics,2010,2021,11,China
+UC_962,HAYDON,2020,2021,1,China
+UC_963,Ninja Van,2014,2021,7,Singapore
+UC_964,Vedantu,2014,2021,7,India
+UC_965,TrialSpark,2014,2021,7,United States
+UC_966,Ajaib,2018,2021,3,Indonesia
+UC_967,Licious,2015,2021,6,India
+UC_968,Masterworks,2017,2021,4,United States
+UC_969,Chronosphere,2019,2021,2,United States
+UC_970,Solo.io,2017,2021,4,United States
+UC_971,Swile,2016,2021,5,France
+UC_972,MobiKwik,2009,2021,12,India
+UC_973,Zopa,2005,2021,16,United Kingdom
+UC_974,Dental Monitoring,2014,2021,7,France
+UC_975,CargoX,2015,2021,6,Brazil
+UC_976,Fabric,1999,2021,22,United States
+UC_977,Augury,2011,2021,10,United States
+UC_978,Moka,2015,2021,6,China
+UC_979,Tezign,2015,2021,6,China
+UC_980,Vagaro,2009,2021,12,United States
+UC_981,Drata,2020,2021,1,United States
+UC_982,Razor,2020,2021,1,Germany
+UC_983,OpenWeb,2012,2021,9,United States
+UC_984,Contrast Security,2014,2021,7,United States
+UC_985,Wrapbook,2018,2021,3,United States
+UC_986,Gaussian Robotics,2013,2021,8,China
+UC_987,Mensa Brands,2021,2021,0,India
+UC_988,Heyday,2017,2021,4,United States
+UC_989,PLACE,2020,2021,1,United States
+UC_991,Owkin,2016,2021,5,United States
+UC_992,Expel,2016,2021,5,United States
+UC_993,NoBroker,2014,2021,7,India
+UC_994,Slice,2015,2021,6,India
+UC_995,Thought Machine,2014,2021,7,United Kingdom
+UC_996,Lessen,2019,2021,2,United States
+UC_997,Clara,2020,2021,1,Mexico
+UC_998,YipitData,2008,2021,13,United States
+UC_999,Anyscale,2019,2021,2,United States
+UC_1000,Iodine Software,2010,2021,11,United States
+UC_1001,ReliaQuest,2007,2021,14,United States
+UC_1002,Pet Circle,2011,2021,10,Australia
+UC_1003,Nature's Fynd,2012,2021,9,United States
+UC_1004,Lydia,2011,2021,10,France
+UC_1005,SellerX,2020,2021,1,Germany
+UC_1006,SnapLogic,2006,2021,15,United States
+UC_1007,Cadence,2020,2021,1,United States
+UC_1008,Noname Security,2020,2021,1,United States
+UC_1009,Rothy's,2016,2021,5,United States
+UC_1010,VOI,2018,2021,3,Sweden
+UC_1011,Haomao.AI,2019,2021,2,China
+UC_1012,Kopi Kenangan,2017,2021,4,Indonesia
+UC_1013,InFarm,2013,2021,8,Germany
+UC_1014,ONE,2011,2021,10,Singapore
+UC_1015,Fractal Analytics,2000,2022,22,India
+UC_1016,Assent Compliance,2005,2022,17,Canada
+UC_1017,CAIS,2009,2022,13,United States
+UC_1018,Placer.ai,2016,2022,6,United States
+UC_1019,Pentera,2015,2022,7,Israel
+UC_1020,Darwinbox,2015,2022,7,India
+UC_1021,Minio,2014,2022,8,United States
+UC_1022,Fever Labs,2012,2022,10,United States
+UC_1023,Esusu,2015,2022,7,United States
+UC_1024,Betterfly,2018,2022,4,Chile
+UC_1025,Dune Analytics,2018,2022,4,Norway
+UC_1026,Scandit,2009,2022,13,Switzerland
+UC_1027,Payhawk,2018,2022,4,United Kingdom
+UC_1029,Axelar,2020,2022,2,Canada
+UC_1030,CHEQ,2014,2022,8,United States
+UC_1031,Hasura,2017,2022,5,India
+UC_1032,Timescale,2015,2022,7,United States
+UC_1033,Scalapay,2019,2022,3,Italy
+UC_1034,Omada Health,2011,2022,11,United States
+UC_1035,BlueVoyant,2017,2022,5,United States
+UC_1036,Veev,2008,2022,14,United States
