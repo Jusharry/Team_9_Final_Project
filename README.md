@@ -1,3 +1,4 @@
+
 #Overview of the Project
 
 Selected Topic: Unicorn Companies (A startup company with a valuation of above $1 billion)
@@ -15,4 +16,3 @@ The team is currently exploring different questions the data can answer. Some of
 - Whether the investors count affects the valuation of the company.
 - If the total raised affects the valuation of the company.
 
-We hope that the machine learning model will extract ineresting relationships or questions that the dataset can answer.
