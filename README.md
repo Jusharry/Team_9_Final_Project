@@ -10,8 +10,8 @@ below shows a png of the machine learning and unsupervised
 
 Below shows a PNG of the Preprocessing Data
 
-![plot](Resources/Images/Preprocessing Data.png)
+![plot](Resources/Images/Preprocessing_Data.png)
 
 below shows a png of the prediective value 
 
-![plot](Resources/Images/prediected value.png)
+![plot](Resources/Images/prediected_value.png)
