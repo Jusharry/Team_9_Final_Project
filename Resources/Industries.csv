@@ -1,0 +1,995 @@
+ID,Industry
+UC_0,Artificial intelligence
+UC_1,Other
+UC_2,Fintech
+UC_3,Fintech
+UC_4,Other
+UC_5,Internet software & services
+UC_6,Fintech
+UC_7,"Supply chain, logistics, & delivery"
+UC_8,Data management & analytics
+UC_9,Fintech
+UC_10,"Sequoia Capital, Thoma Bravo, Softbank"
+UC_11,E-commerce & direct-to-consumer
+UC_12,Fintech
+UC_13,Edtech
+UC_14,E-commerce & direct-to-consumer
+UC_15,"Supply chain, logistics, & delivery"
+UC_16,Internet software & services
+UC_17,Edtech
+UC_18,Hardware
+UC_19,E-commerce & direct-to-consumer
+UC_20,E-commerce & direct-to-consumer
+UC_21,Consumer & retail
+UC_22,Fintech
+UC_23,Fintech
+UC_24,E-commerce & direct-to-consumer
+UC_25,Internet software & services
+UC_26,Health
+UC_27,Artificial intelligence
+UC_28,Fintech
+UC_29,Consumer & retail
+UC_30,Hardware
+UC_31,Health
+UC_32,Internet software & services
+UC_33,Internet software & services
+UC_34,Auto & transportation
+UC_35,Hardware
+UC_36,Data management & analytics
+UC_37,Fintech
+UC_38,Fintech
+UC_40,"Supply chain, logistics, & delivery"
+UC_41,"Supply chain, logistics, & delivery"
+UC_42,Internet software & services
+UC_43,Fintech
+UC_44,Internet software & services
+UC_45,Internet software & services
+UC_46,Internet software & services
+UC_47,Other
+UC_48,Finttech
+UC_49,Internet software & services
+UC_50,Internet software & services
+UC_51,Other
+UC_52,Fintech
+UC_53,Internet software & services
+UC_54,Other
+UC_55,Cybersecurity
+UC_56,E-commerce & direct-to-consumer
+UC_57,Mobile & telecommunications
+UC_58,Travel
+UC_59,Fintech
+UC_60,E-commerce & direct-to-consumer
+UC_61,Cybersecurity
+UC_62,Auto & transportation
+UC_63,Auto & transportation
+UC_64,Cybersecurity
+UC_65,Fintech
+UC_66,Health
+UC_67,E-commerce & direct-to-consumer
+UC_68,Internet software & services
+UC_69,Fintech
+UC_70,Fintech
+UC_71,"Supply chain, logistics, & delivery"
+UC_72,Health
+UC_73,Fintech
+UC_75,E-commerce & direct-to-consumer
+UC_76,Cybersecurity
+UC_77,Fintech
+UC_78,Fintech
+UC_79,Fintech
+UC_80,Artificial intelligence
+UC_82,Artificial intelligence
+UC_83,Travel
+UC_84,Fintech
+UC_85,Health
+UC_86,Internet software & services
+UC_87,Health
+UC_88,Artificial intelligence
+UC_89,Cybersecurity
+UC_90,E-commerce & direct-to-consumer
+UC_91,Fintech
+UC_92,Fintech
+UC_93,Internet software & services
+UC_95,Artificial intelligence
+UC_96,Internet software & services
+UC_97,Fintech
+UC_98,Health
+UC_99,Other
+UC_100,Internet software & services
+UC_101,Hardware
+UC_102,Fintech
+UC_103,Cybersecurity
+UC_104,Fintech
+UC_105,Fintech
+UC_106,Artificial intelligence
+UC_107,Mobile & telecommunications
+UC_108,Consumer & retail
+UC_109,E-commerce & direct-to-consumer
+UC_110,Internet software & services
+UC_111,Health
+UC_112,Internet software & services
+UC_113,E-commerce & direct-to-consumer
+UC_114,"Supply chain, logistics, & delivery"
+UC_115,Internet software & services
+UC_116,Data management & analytics
+UC_117,Artificial intelligence
+UC_118,Fintech
+UC_119,"Supply chain, logistics, & delivery"
+UC_120,Data management & analytics
+UC_121,Fintech
+UC_122,Internet software & services
+UC_123,E-commerce & direct-to-consumer
+UC_125,Health
+UC_126,Auto & transportation
+UC_127,Fintech
+UC_128,Fintech
+UC_129,Fintech
+UC_130,Artificial intelligence
+UC_131,Auto & transportation
+UC_132,Other
+UC_133,Data management & analytics
+UC_134,Fintech
+UC_135,Fintech
+UC_136,Mobile & telecommunications
+UC_137,E-commerce & direct-to-consumer
+UC_138,Data management & analytics
+UC_139,Fintech
+UC_140,Auto & transportation
+UC_141,Artificial intelligence
+UC_142,Travel
+UC_143,Internet software & services
+UC_144,Health
+UC_145,Fintech
+UC_147,Fintech
+UC_148,Artificial intelligence
+UC_149,Health
+UC_150,Internet software & services
+UC_151,Internet software & services
+UC_152,Health
+UC_153,Hardware
+UC_154,E-commerce & direct-to-consumer
+UC_155,Edtech
+UC_156,Cybersecurity
+UC_157,Fintech
+UC_158,Hardware
+UC_159,Internet software & services
+UC_160,Auto & transportation
+UC_161,Internet software & services
+UC_162,Cybersecurity
+UC_163,E-commerce & direct-to-consumer
+UC_164,Other
+UC_165,E-commerce & direct-to-consumer
+UC_166,Fintech
+UC_167,Internet software & services
+UC_168,Internet software & services
+UC_169,Data management & analytics
+UC_171,Artificial intelligence
+UC_172,Fintech
+UC_173,"Supply chain, logistics, & delivery"
+UC_174,E-commerce & direct-to-consumer
+UC_176,Mobile & telecommunications
+UC_177,Artificial intelligence
+UC_178,Fintech
+UC_179,Consumer & retail
+UC_180,Health
+UC_181,Fintech
+UC_182,Internet software & services
+UC_183,Internet software & services
+UC_186,Internet software & services
+UC_187,Internet software & services
+UC_188,Data management & analytics
+UC_189,Fintech
+UC_190,E-commerce & direct-to-consumer
+UC_191,Internet software & services
+UC_192,Hardware
+UC_193,Other
+UC_194,Mobile & telecommunications
+UC_195,Internet software & services
+UC_196,Health
+UC_197,Health
+UC_198,E-commerce & direct-to-consumer
+UC_199,Mobile & telecommunications
+UC_200,Internet software & services
+UC_201,Edtech
+UC_202,Fintech
+UC_203,E-commerce & direct-to-consumer
+UC_204,Data management & analytics
+UC_205,Data management & analytics
+UC_206,E-commerce & direct-to-consumer
+UC_207,Health
+UC_208,Other
+UC_209,Internet software & services
+UC_210,Internet software & services
+UC_211,Internet software & services
+UC_212,E-commerce & direct-to-consumer
+UC_213,Data management & analytics
+UC_214,Edtech
+UC_215,Health
+UC_216,Artificial intelligence
+UC_217,Kuang-Chi
+UC_218,Internet software & services
+UC_219,Fintech
+UC_220,Internet software & services
+UC_221,E-commerce & direct-to-consumer
+UC_222,Cybersecurity
+UC_223,Internet software & services
+UC_224,Fintech
+UC_225,Edtech
+UC_226,Internet software & services
+UC_227,Internet software & services
+UC_228,Fintech
+UC_229,Hardware
+UC_230,Edtech
+UC_231,Fintech
+UC_232,Fintech
+UC_233,Auto & transportation
+UC_234,Data management & analytics
+UC_235,Data management & analytics
+UC_236,Artificial intelligence
+UC_237,Auto & transportation
+UC_238,Other
+UC_239,Mobile & telecommunications
+UC_240,Health
+UC_241,"Supply chain, logistics, & delivery"
+UC_242,E-commerce & direct-to-consumer
+UC_243,Fintech
+UC_244,Other
+UC_245,E-commerce & direct-to-consumer
+UC_246,Fintech
+UC_247,Edtech
+UC_248,Fintech
+UC_249,Fintech
+UC_250,Health
+UC_251,Internet software & services
+UC_252,E-commerce & direct-to-consumer
+UC_253,Hardware
+UC_254,Fintech
+UC_255,"Supply chain, logistics, & delivery"
+UC_256,Fintech
+UC_257,E-commerce & direct-to-consumer
+UC_258,Internet software & services
+UC_259,Mobile & telecommunications
+UC_260,Travel
+UC_261,E-commerce & direct-to-consumer
+UC_262,Fintech
+UC_263,Fintech
+UC_264,Edtech
+UC_265,"Supply chain, logistics, & delivery"
+UC_266,Auto & transportation
+UC_267,Other
+UC_268,Edtech
+UC_269,Cybersecurity
+UC_270,Internet software & services
+UC_271,Fintech
+UC_272,Internet software & services
+UC_273,Health
+UC_274,Internet software & services
+UC_275,Edtech
+UC_276,Health
+UC_277,Internet software & services
+UC_278,Internet software & services
+UC_279,Internet software & services
+UC_280,Internet software & services
+UC_281,E-commerce & direct-to-consumer
+UC_282,Internet software & services
+UC_283,Edtech
+UC_284,Fintech
+UC_285,Fintech
+UC_286,Internet software & services
+UC_287,Auto & transportation
+UC_288,Fintech
+UC_289,Fintech
+UC_290,Internet software & services
+UC_291,Fintech
+UC_292,"Tiger Global Management, Tiger Brokers, DCM Ventures"
+UC_293,Fintech
+UC_294,Artificial intelligence
+UC_295,Fintech
+UC_296,Internet software & services
+UC_297,E-commerce & direct-to-consumer
+UC_298,Fintech
+UC_299,Fintech
+UC_300,E-commerce & direct-to-consumer
+UC_301,Mobile & telecommunications
+UC_302,Internet software & services
+UC_303,"Supply chain, logistics, & delivery"
+UC_304,Artificial intelligence
+UC_305,Cybersecurity
+UC_306,"Supply chain, logistics, & delivery"
+UC_307,Edtech
+UC_308,Mobile & telecommunications
+UC_309,Cybersecurity
+UC_310,Auto & transportation
+UC_311,Fintech
+UC_312,Internet software & services
+UC_313,Artificial intelligence
+UC_314,E-commerce & direct-to-consumer
+UC_315,Internet software & services
+UC_316,Internet software & services
+UC_317,Internet software & services
+UC_318,"Jungle Ventures, Accel, Venture Highway"
+UC_319,Internet software & services
+UC_320,Data management & analytics
+UC_321,Other
+UC_322,Auto & transportation
+UC_323,Cybersecurity
+UC_324,Internet software & services
+UC_325,E-commerce & direct-to-consumer
+UC_326,E-commerce & direct-to-consumer
+UC_327,Fintech
+UC_328,Cybersecurity
+UC_329,Cybersecurity
+UC_330,Internet software & services
+UC_331,Cybersecurity
+UC_332,Internet software & services
+UC_333,Artificial Intelligence
+UC_334,Health
+UC_335,Fintech
+UC_336,Internet software & services
+UC_337,Cybersecurity
+UC_338,Fintech
+UC_339,Auto & transportation
+UC_340,Hardware
+UC_341,Fintech
+UC_343,Cybersecurity
+UC_344,Cybersecurity
+UC_345,Fintech
+UC_346,Other
+UC_347,"Supply chain, logistics, & delivery"
+UC_348,Fintech
+UC_349,Internet software & services
+UC_350,E-commerce & direct-to-consumer
+UC_351,Hardware
+UC_352,Other
+UC_353,Artificial intelligence
+UC_354,"Supply chain, logistics, & delivery"
+UC_355,Other
+UC_356,Fintech
+UC_357,Other
+UC_358,Internet software & services
+UC_359,Fintech
+UC_360,E-commerce & direct-to-consumer
+UC_361,Consumer & retail
+UC_362,Internet software & services
+UC_363,Internet software & services
+UC_364,Other
+UC_365,E-commerce & direct-to-consumer
+UC_366,Fintech
+UC_367,Fintech
+UC_368,Internet software & services
+UC_369,Health
+UC_370,Internet software & services
+UC_371,"Supply chain, logistics, & delivery"
+UC_372,Artificial intelligence
+UC_373,Mobile & telecommunications
+UC_374,Other
+UC_375,Artificial intelligence
+UC_376,Artificial intelligence
+UC_377,Fintech
+UC_378,Data management & analytics
+UC_379,Fintech
+UC_380,E-commerce & direct-to-consumer
+UC_381,Internet software & services
+UC_382,Internet software & services
+UC_383,E-commerce & direct-to-consumer
+UC_384,Fintech
+UC_385,Artificial intelligence
+UC_386,Internet software & services
+UC_387,Artificial intelligence
+UC_388,Fintech
+UC_389,Consumer & retail
+UC_390,Artificial intelligence
+UC_392,Auto & transportation
+UC_393,E-commerce & direct-to-consumer
+UC_394,Internet software & services
+UC_395,Other
+UC_396,Artificial intelligence
+UC_397,Hardware
+UC_398,Artificial intelligence
+UC_399,Consumer & retail
+UC_400,Cybersecurity
+UC_401,Travel
+UC_402,Data management & analytics
+UC_403,Internet software & services
+UC_404,Mobile & telecommunications
+UC_405,Mobile & telecommunications
+UC_406,Data management & analytics
+UC_407,E-commerce & direct-to-consumer
+UC_408,Fintech
+UC_409,Health
+UC_410,"Supply chain, logistics, & delivery"
+UC_411,Fintech
+UC_412,Consumer & retail
+UC_413,Health
+UC_414,Fintech
+UC_415,Artificial intelligence
+UC_416,Health
+UC_417,Internet software & services
+UC_418,Fintech
+UC_419,Fintech
+UC_420,Internet software & services
+UC_421,Fintech
+UC_422,Internet software & services
+UC_423,Fintech
+UC_424,Fintech
+UC_425,"Supply chain, logistics, & delivery"
+UC_426,Internet software & services
+UC_427,Fintech
+UC_428,Other
+UC_429,Artificial intelligence
+UC_430,Fintech
+UC_431,Other
+UC_432,Fintech
+UC_433,Internet software & services
+UC_434,Mobile & telecommunications
+UC_435,E-commerce & direct-to-consumer
+UC_436,Health
+UC_437,Artificial intelligence
+UC_438,"Vision Plus Capital, GSR Ventures, ZhenFund"
+UC_439,Fintech
+UC_440,Hardware
+UC_441,Travel
+UC_442,Internet software & services
+UC_443,Data management & analytics
+UC_444,Fintech
+UC_445,Internet software & services
+UC_446,Fintech
+UC_447,Artificial intelligence
+UC_448,Cybersecurity
+UC_450,"Supply chain, logistics, & delivery"
+UC_451,Health
+UC_452,Internet software & services
+UC_453,Hardware
+UC_454,Data management & analytics
+UC_455,E-commerce & direct-to-consumer
+UC_456,Internet software & services
+UC_457,Edtech
+UC_458,Fintech
+UC_459,Internet software & services
+UC_460,Internet software & services
+UC_462,Fintech
+UC_463,Health
+UC_464,Fintech
+UC_465,Auto & transportation
+UC_466,Fintech
+UC_467,Internet software & services
+UC_468,Internet software & services
+UC_469,Health
+UC_470,Other
+UC_471,Internet software & services
+UC_472,Artificial intelligence
+UC_473,Hardware
+UC_474,Auto & transportation
+UC_475,Cybersecurity
+UC_476,E-commerce & direct-to-consumer
+UC_477,Cybersecurity
+UC_478,Mobile & telecommunications
+UC_479,Consumer & retail
+UC_480,Consumer & retail
+UC_482,Health
+UC_483,Health
+UC_484,Internet software & services
+UC_486,E-commerce & direct-to-consumer
+UC_487,Cybersecurity
+UC_488,Data management & analytics
+UC_489,Artificial intelligence
+UC_490,Fintech
+UC_491,E-commerce & direct-to-consumer
+UC_492,Internet software & services
+UC_493,Fintech
+UC_494,Fintech
+UC_495,Fintech
+UC_496,Internet software & services
+UC_497,Other
+UC_498,Data management & analytics
+UC_499,Health
+UC_500,E-commerce & direct-to-consumer
+UC_502,Fintech
+UC_503,Hardware
+UC_504,Artificial intelligence
+UC_505,Auto & transportation
+UC_506,Cybersecurity
+UC_507,Internet software & services
+UC_508,E-commerce & direct-to-consumer
+UC_509,Internet software & services
+UC_510,Internet software & services
+UC_511,Fintech
+UC_512,Data management & analytics
+UC_513,Artificial intelligence
+UC_514,Fintech
+UC_515,Fintech
+UC_516,Fintech
+UC_517,Health
+UC_518,"Supply chain, logistics, & delivery"
+UC_519,Fintech
+UC_520,Consumer & retail
+UC_521,Fintech
+UC_522,Hardware
+UC_523,Other
+UC_524,Internet software & services
+UC_525,Mobile & telecommunications
+UC_527,Data management & analytics
+UC_528,Travel
+UC_529,E-commerce & direct-to-consumer
+UC_530,Auto & transportation
+UC_531,Data management & analytics
+UC_533,Travel
+UC_534,E-commerce & direct-to-consumer
+UC_535,Consumer & retail
+UC_536,Mobile & telecommunications
+UC_537,Fintech
+UC_538,Internet software & services
+UC_539,Internet software & services
+UC_540,Health
+UC_542,Cybersecurity
+UC_543,Fintech
+UC_544,Fintech
+UC_545,Hardware
+UC_546,Hardware
+UC_547,"Supply chain, logistics, & delivery"
+UC_548,Internet software & services
+UC_549,Internet software & services
+UC_550,Artificial Intelligence
+UC_551,Internet software & services
+UC_552,Fintech
+UC_553,Fintech
+UC_554,Internet software & services
+UC_555,Data management & analytics
+UC_556,Cybersecurity
+UC_557,E-commerce & direct-to-consumer
+UC_558,Fintech
+UC_559,Internet software & services
+UC_560,Internet software & services
+UC_561,Fintech
+UC_562,Data management & analytics
+UC_563,Fintech
+UC_564,Internet software & services
+UC_565,Health
+UC_566,Other
+UC_567,E-commerce & direct-to-consumer
+UC_568,Internet software & services
+UC_569,Internet software & services
+UC_570,Other
+UC_571,E-commerce & direct-to-consumer
+UC_572,Fintech
+UC_573,Artificial intelligence
+UC_574,Health
+UC_575,"Supply chain, logistics, & delivery"
+UC_576,"Supply chain, logistics, & delivery"
+UC_577,Internet software & services
+UC_578,E-commerce & direct-to-consumer
+UC_579,E-commerce & direct-to-consumer
+UC_580,Auto & transportation
+UC_581,Hardware
+UC_582,"Supply chain, logistics, & delivery"
+UC_583,Internet software & services
+UC_584,E-commerce & direct-to-consumer
+UC_585,Fintech
+UC_586,Fintech
+UC_587,Cybersecurity
+UC_588,Auto & transportation
+UC_589,Internet software & services
+UC_590,Health
+UC_591,Health
+UC_592,Internet software & services
+UC_593,Internet software & services
+UC_594,Fintech
+UC_595,Artificial intelligence
+UC_596,Data management & analytics
+UC_597,E-commerce & direct-to-consumer
+UC_598,Fintech
+UC_599,Mobile & telecommunications
+UC_600,Auto & transportation
+UC_601,"Supply chain, logistics, & delivery"
+UC_602,Internet software & services
+UC_603,E-commerce & direct-to-consumer
+UC_604,Internet software & services
+UC_605,Internet software & services
+UC_606,Internet software & services
+UC_607,E-commerce & direct-to-consumer
+UC_609,Other
+UC_610,Fintech
+UC_611,Internet software & services
+UC_612,Internet software & services
+UC_613,Edtech
+UC_614,Mobile & telecommunications
+UC_615,Fintech
+UC_616,Internet software & services
+UC_617,Cybersecurity
+UC_618,Cybersecurity
+UC_619,Mobile & telecommunications
+UC_621,Fintech
+UC_622,Artificial intelligence
+UC_623,Travel
+UC_624,Health
+UC_625,Fintech
+UC_626,Fintech
+UC_627,Other
+UC_628,Fintech
+UC_629,E-commerce & direct-to-consumer
+UC_630,E-commerce & direct-to-consumer
+UC_631,Internet software & services
+UC_632,E-commerce & direct-to-consumer
+UC_633,Other
+UC_634,Cybersecurity
+UC_635,Health
+UC_636,Artificial intelligence
+UC_637,Health
+UC_638,Health
+UC_639,"Hopu Investment Management, Boyu Capital, DC Thomson Ventures"
+UC_641,Health
+UC_642,E-commerce & direct-to-consumer
+UC_643,Other
+UC_644,Mobile & telecommunications
+UC_645,Internet software & services
+UC_646,Fintech
+UC_647,Fintech
+UC_648,"Supply chain, logistics, & delivery"
+UC_649,Data management & analytics
+UC_650,Fintech
+UC_651,Travel
+UC_652,Fintech
+UC_653,Internet software & services
+UC_654,Fintech
+UC_655,"Supply chain, logistics, & delivery"
+UC_656,Artificial Intelligence
+UC_657,Mobile & telecommunications
+UC_658,Internet software & services
+UC_659,Other
+UC_660,Fintech
+UC_662,Cybersecurity
+UC_663,Internet software & services
+UC_664,Fintech
+UC_665,Internet software & services
+UC_666,Internet software & services
+UC_667,Cybersecurity
+UC_668,Internet software & services
+UC_669,Internet software & services
+UC_670,"Supply chain, logistics, & delivery"
+UC_671,Fintech
+UC_672,Consumer & retail
+UC_673,Hardware
+UC_674,Health
+UC_675,Other
+UC_676,Mobile & telecommunications
+UC_677,Other
+UC_678,Internet software & services
+UC_679,"Supply chain, logistics, & delivery"
+UC_681,Consumer & retail
+UC_682,Internet software & services
+UC_683,Data management & analytics
+UC_684,Internet software & services
+UC_685,Fintech
+UC_686,Cybersecurity
+UC_687,E-commerce & direct-to-consumer
+UC_688,Edtech
+UC_690,Artificial intelligence
+UC_691,Other
+UC_692,Artificial intelligence
+UC_693,Artificial intelligence
+UC_694,Other
+UC_695,Internet software & services
+UC_696,"Supply chain, logistics, & delivery"
+UC_697,Artificial Intelligence
+UC_698,"Supply chain, logistics, & delivery"
+UC_699,Health
+UC_700,Fintech
+UC_701,Internet software & services
+UC_702,Edtech
+UC_703,Fintech
+UC_704,E-commerce & direct-to-consumer
+UC_705,Internet software & services
+UC_706,Data management & analytics
+UC_707,Internet software & services
+UC_708,E-commerce & direct-to-consumer
+UC_709,E-commerce & direct-to-consumer
+UC_710,Fintech
+UC_711,Health
+UC_712,E-commerce & direct-to-consumer
+UC_713,E-commerce & direct-to-consumer
+UC_714,Internet software & services
+UC_715,Artificial intelligence
+UC_716,Fintech
+UC_717,E-commerce & direct-to-consumer
+UC_718,"Supply chain, logistics, & delivery"
+UC_719,Internet software & services
+UC_720,Data management & analytics
+UC_721,Consumer & retail
+UC_722,Artificial intelligence
+UC_723,Edtech
+UC_724,"Supply chain, logistics, & delivery"
+UC_725,Health
+UC_726,Internet software & services
+UC_727,Auto & transportation
+UC_728,Auto & transportation
+UC_729,Other
+UC_730,Cybersecurity
+UC_731,Fintech
+UC_732,Artificial intelligence
+UC_734,Fintech
+UC_735,Health
+UC_736,"Supply chain, logistics, & delivery"
+UC_737,Fintech
+UC_738,Mobile & telecommunications
+UC_739,E-commerce & direct-to-consumer
+UC_740,E-commerce & direct-to-consumer
+UC_741,Other
+UC_742,Consumer & retail
+UC_743,Travel
+UC_744,Fintech
+UC_745,Data management & analytics
+UC_746,E-commerce & direct-to-consumer
+UC_747,"Supply chain, logistics, & delivery"
+UC_748,Data management & analytics
+UC_749,Fintech
+UC_750,Health
+UC_751,Fintech
+UC_753,Internet software & services
+UC_754,Artificial intelligence
+UC_755,Internet software & services
+UC_756,Fintech
+UC_757,"500 Global, Rakuten Ventures, Golden Gate Ventures"
+UC_758,Internet software & services
+UC_759,Internet software & services
+UC_760,Internet software & services
+UC_761,Fintech
+UC_762,E-commerce & direct-to-consumer
+UC_763,Fintech
+UC_764,Fintech
+UC_765,Internet software & services
+UC_766,E-commerce & direct-to-consumer
+UC_767,Edtech
+UC_768,Cybersecurity
+UC_769,Cybersecurity
+UC_770,Internet software & services
+UC_771,"Supply chain, logistics, & delivery"
+UC_773,Other
+UC_774,Fintech
+UC_775,"Supply chain, logistics, & delivery"
+UC_776,E-commerce & direct-to-consumer
+UC_777,E-commerce & direct-to-consumer
+UC_778,Data management & analytics
+UC_779,Mobile & telecommunications
+UC_780,Hardware
+UC_781,Internet software & services
+UC_782,Health
+UC_783,Artificial intelligence
+UC_784,Auto & transportation
+UC_785,Cybersecurity
+UC_786,E-commerce & direct-to-consumer
+UC_787,E-commerce & direct-to-consumer
+UC_788,Mobile & telecommunications
+UC_789,Mobile & telecommunications
+UC_790,Other
+UC_791,E-commerce & direct-to-consumer
+UC_792,E-commerce & direct-to-consumer
+UC_794,Artificial intelligence
+UC_795,Mobile & telecommunications
+UC_796,Internet software & services
+UC_797,E-commerce & direct-to-consumer
+UC_798,Internet software & services
+UC_799,E-commerce & direct-to-consumer
+UC_800,Edtech
+UC_801,Edtech
+UC_802,Health
+UC_803,Artificial intelligence
+UC_804,Internet software & services
+UC_805,Consumer & retail
+UC_806,Consumer & retail
+UC_807,E-commerce & direct-to-consumer
+UC_808,Health
+UC_809,E-commerce & direct-to-consumer
+UC_810,E-commerce & direct-to-consumer
+UC_811,Mobile & telecommunications
+UC_812,"Supply chain, logistics, & delivery"
+UC_813,Other
+UC_814,"Sequoia Capital China, ING, Alibaba Entrepreneurs Fund"
+UC_815,Mobile & telecommunications
+UC_816,Health
+UC_817,Hardware
+UC_818,Mobile & telecommunications
+UC_819,Edtech
+UC_820,Hardware
+UC_821,Health
+UC_822,Internet software & services
+UC_823,Mobile & telecommunications
+UC_825,Consumer & retail
+UC_826,Mobile & telecommunications
+UC_827,"Supply chain, logistics, & delivery"
+UC_828,Auto & transportation
+UC_829,Fintech
+UC_830,Artificial intelligence
+UC_831,E-commerce & direct-to-consumer
+UC_832,Travel
+UC_833,Hardware
+UC_834,Hardware
+UC_835,"Supply chain, logistics, & delivery"
+UC_836,Hardware
+UC_837,"Supply chain, logistics, & delivery"
+UC_838,Artificial intelligence
+UC_839,Other
+UC_840,Artificial intelligence
+UC_841,Fintech
+UC_842,Mobile & telecommunications
+UC_843,Internet software & services
+UC_844,Other
+UC_845,Edtech
+UC_846,Travel
+UC_847,Artificial intelligence
+UC_848,Fintech
+UC_849,Fintech
+UC_850,Fintech
+UC_852,Fintech
+UC_853,E-commerce & direct-to-consumer
+UC_854,Health
+UC_855,E-commerce & direct-to-consumer
+UC_856,Other
+UC_857,Edtech
+UC_858,Health
+UC_859,E-commerce & direct-to-consumer
+UC_860,Mobile & telecommunications
+UC_861,E-commerce & direct-to-consumer
+UC_862,Other
+UC_864,"Supply chain, logistics, & delivery"
+UC_865,Other
+UC_866,Fintech
+UC_867,Data management & analytics
+UC_868,Internet software & services
+UC_869,E-commerce & direct-to-consumer
+UC_870,Fintech
+UC_871,Internet software & services
+UC_872,Internet software & services
+UC_873,"Supply chain, logistics, & delivery"
+UC_874,Other
+UC_875,Hardware
+UC_876,Artificial intelligence
+UC_877,Other
+UC_878,Fintech
+UC_879,"Supply chain, logistics, & delivery"
+UC_880,Internet software & services
+UC_881,Cybersecurity
+UC_882,"Sequoia Capital China, Shunwei Capital Partners, Qualgro"
+UC_883,Health
+UC_884,Fintech
+UC_885,Artificial intelligence
+UC_886,Edtech
+UC_887,Internet software & services
+UC_888,E-commerce & direct-to-consumer
+UC_890,E-commerce & direct-to-consumer
+UC_891,Fintech
+UC_892,Artificial intelligence
+UC_893,Health
+UC_894,Fintech
+UC_895,Artificial intelligence
+UC_897,Health
+UC_898,Artificial intelligence
+UC_899,Internet software & services
+UC_900,Internet software & services
+UC_901,Other
+UC_902,Internet software & services
+UC_903,Artificial intelligence
+UC_904,Artificial intelligence
+UC_905,Consumer & retail
+UC_906,Fintech
+UC_907,Data management & analytics
+UC_909,Fintech
+UC_910,Other
+UC_912,"Supply chain, logistics, & delivery"
+UC_913,Health
+UC_914,Health
+UC_915,Hardware
+UC_916,"SingTel Innov8, Alpha JWC Ventures, Golden Gate Ventures"
+UC_917,Artificial intelligence
+UC_918,"Supply chain, logistics, & delivery"
+UC_919,Cybersecurity
+UC_920,Edtech
+UC_921,Internet software & services
+UC_922,Fintech
+UC_923,Internet software & services
+UC_924,Internet software & services
+UC_925,"Supply chain, logistics, & delivery"
+UC_926,"Supply chain, logistics, & delivery"
+UC_927,"Supply chain, logistics, & delivery"
+UC_928,"Mundi Ventures, Doqling Capital Partners, Activant Capital"
+UC_929,Fintech
+UC_930,Fintech
+UC_931,Artificial intelligence
+UC_932,Fintech
+UC_933,Internet software & services
+UC_934,Fintech
+UC_936,Internet software & services
+UC_937,Fintech
+UC_938,"Supply chain, logistics, & delivery"
+UC_939,"Vertex Ventures SE Asia, Global Founders Capital, Visa Ventures"
+UC_940,Artificial intelligence
+UC_941,Fintech
+UC_942,Artificial intelligence
+UC_943,Fintech
+UC_944,Artificial intelligence
+UC_945,E-commerce & direct-to-consumer
+UC_946,Health
+UC_947,Fintech
+UC_948,Artificial intelligence
+UC_950,Hardware
+UC_951,"Andreessen Horowitz, DST Global, IDG Capital"
+UC_952,E-commerce & direct-to-consumer
+UC_953,Hardware
+UC_954,E-commerce & direct-to-consumer
+UC_957,Fintech
+UC_958,Fintech
+UC_959,Internet software & services
+UC_960,Internet software & services
+UC_961,"Supply chain, logistics, & delivery"
+UC_962,Consumer & retail
+UC_963,"B Capital Group, Monk's Hill Ventures, Dynamic Parcel Distribution"
+UC_964,Edtech
+UC_965,Health
+UC_966,Fintech
+UC_967,E-commerce & direct-to-consumer
+UC_968,Fintech
+UC_969,Data management & analytics
+UC_970,Internet software & services
+UC_971,Fintech
+UC_972,Fintech
+UC_973,Fintech
+UC_974,Health
+UC_975,"Supply chain, logistics, & delivery"
+UC_976,"Supply chain, logistics, & delivery"
+UC_977,Artificial intelligence
+UC_978,Internet software & services
+UC_979,Internet software & services
+UC_980,Internet software & services
+UC_981,Cybersecurity
+UC_982,Consumer & retail
+UC_983,Internet software & services
+UC_984,Cybersecurity
+UC_985,Fintech
+UC_986,Hardware
+UC_987,Other
+UC_988,E-commerce & direct-to-consumer
+UC_989,Internet software & services
+UC_991,Artificial Intelligence
+UC_992,Cybersecurity
+UC_993,Internet software & services
+UC_994,Fintech
+UC_995,Fintech
+UC_996,Internet software & services
+UC_997,Fintech
+UC_998,Internet software & services
+UC_999,Artificial Intelligence
+UC_1000,Data management & analytics
+UC_1001,Cybersecurity
+UC_1002,E-commerce & direct-to-consumer
+UC_1003,Other
+UC_1004,Fintech
+UC_1005,E-commerce & direct-to-consumer
+UC_1006,Internet software & services
+UC_1007,Health
+UC_1008,Cybersecurity
+UC_1009,Consumer & retail
+UC_1010,Travel
+UC_1011,Artificial Intelligence
+UC_1012,Consumer & retail
+UC_1013,Other
+UC_1014,"Temasek, Guggenheim Investments, Qatar Investment Authority"
+UC_1015,Data management & analytics
+UC_1016,"Supply chain, logistics, & delivery"
+UC_1017,Fintech
+UC_1018,Artificial intelligence
+UC_1019,Cybersecurity
+UC_1020,Internet software & services
+UC_1021,Data management & analytics
+UC_1022,Internet software & services
+UC_1023,Fintech
+UC_1024,Artificial intelligence
+UC_1025,Data management & analytics
+UC_1026,"Supply chain, logistics, & delivery"
+UC_1027,Fintech
+UC_1029,Internet software & services
+UC_1030,Cybersecurity
+UC_1031,Internet software & services
+UC_1032,Internet software & services
+UC_1033,Fintech
+UC_1034,Health
+UC_1035,Cybersecurity
+UC_1036,Internet software & services
