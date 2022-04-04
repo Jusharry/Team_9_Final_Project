@@ -19,9 +19,13 @@ Questions to answer :
 
 * Result of analysis - 
 Initially the objective of the project was to ue the dataset to determine the likelihood that a unicorn company would be acquired or have another transitionary development. It was soon discovered that a categorocal outcome of this nature would not be possible as only 2% of companies achieve any status. The analysis then shifted to use unsupervised ML where the relationships between the data could be represented. We used Kmeans for clustering and then visualized the results using scatter plots. 
-![screenshot]()
 
-![screenshot]()
+![screenshot](Resources/Screenshots/K_means_cluster_plot.png)
+
+
+![screenshot](Resources/Screenshots/3d_k_means.png)
+
+
 * Recommendation for future analysis - 
 
 * Anything the team would have done  - 
