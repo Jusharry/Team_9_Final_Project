@@ -3,15 +3,86 @@ Unicorn" is a term used in the venture capital industry to describe a privately 
 
 The reason the Team chose this topic is the relativity of the dataset in the current economic climate and the unique projected value of these companies makes this project interesting. The dataset also has good mix of continuous and categorical data. 
 
+
 Results:
 
-below shows a png of the machine learning and unsupervised
+Below shows a png of the machine learning and unsupervised
 ![plot](Resources/Images/Ml.png)
 
 Below shows a PNG of the Preprocessing Data
 
 ![plot](Resources/Images/Preprocessing_Data.png)
 
-below shows a png of the prediective value 
+Below shows a png of the prediective value 
 
 ![plot](Resources/Images/prediected_value.png)
+
+the ERD below shows the relationship between the induastries, company_ernings, status, company info and investors_info
+
+png
+
+# Describing The Data Exploration phase.
+
+Using Kaggle.com we were able to come up with some datasets saved in the Resources folder.
+
+Exploring the unsupervised dataset,we first read the csv file.
+
+PNG
+
+Data clearning is important for getting good and readable result, so we dropped some columns like "Financial Stage", "Total Raised Ranges($)", "Deal terms". Then renamed the "Transition Time" column to "Transition Time (Years)
+
+PNG
+
+Created a DataFrame with the ten principal components
+
+PNG
+
+Below show a png of the
+
+
+using the import india dataset we tried to establish a relationship between the country of origin,industry and the time it takes for a company to raise enough capital to be considered a Unicorn company. 
+
+Below is a png of the loaded data
+
+png
+
+below is a png showing Founded count
+
+png
+
+below is a png showing Sector count
+
+png
+
+below is a png showing null values
+
+Using 3D scatter plot with plotly express 
+plotting k-means determined optimal 3D cluster calling 
+x axis as Valuation ($B)
+y axis as Total Raised ($)
+z axis as Transition Time (Year)
+
+png
+
+ 
+tested cluster amount and call out x and y axis x= Valuation ($B) and y= Total Raised ($)
+
+png
+
+using Elbow curve
+
+png
+
+
+we valuated by country using the unsupervised dataframe call the x and y axis 
+x = Country
+Y = Total Raised ($)
+
+
+here is a Png of a scattered plot of trasition time and Valuation by country
+
+PNG
+
+Plot of total raised and valuation by industry
+
+PNG
