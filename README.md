@@ -38,7 +38,7 @@ Created a DataFrame with the ten principal components
 
 ![plot](Resources/Images/Principal component .png)
 
-using the import india dataset we tried to establish a relationship between the country of origin,industry and the time it takes for a company to raise enough capital to be considered a Unicorn company. 
+we import the india dataset and tried to establish a relationship between the country of origin,industry and the time it takes for a company to raise enough capital to be considered a Unicorn company. 
 
 Below is a png of the loaded data
 
@@ -46,7 +46,7 @@ Below is a png of the loaded data
 
 below is a png showing month count
 
-![plot](Resources/Images/value count .png)
+![plot](Resources/Images/value count.png)
 
 below is a png showing null values
 
