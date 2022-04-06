@@ -1,20 +1,17 @@
 # Overview of the analysis:
-Unicorn" is a term used in the venture capital industry to describe a privately owned startup company with a value of over $1 billion. The term was first popularized by venture capitalist Aileen Lee, founder of Cowboy Ventures, a seed-stage venture capital fund based in Palo Alto, California.In this project the Team wishing to establish the relationship between the country of origin,industry and the transition time it takes for a company to raise enough capital to be considered a Unicorn company using the supervised and unsupervised machine learning algorithms, and using tableau to display and tell the story. The Team reviewed multiple datasets and agreed on this one after checking the steps used to preprocess the data. As the project progresses the team plan is to incorporate other datasets with similar characteristics and compare the trajectory of nonUnicorns companies.
+Unicorn" is a term used in the venture capital industry to describe a privately owned startup company with a value of over $1 billion. The term was first popularized by venture capitalist Aileen Lee, founder of Cowboy Ventures, a seed-stage venture capital fund based in Palo Alto, California. In this project, the Team wishes to establish the relationship between the country of origin, industry, and the transition time it takes for a company to raise enough capital to be considered a Unicorn company using the supervised and unsupervised machine learning algorithms, Pandas, Jupyter Notebook, Postgres SQL and Tableau will be used. The Team reviewed multiple datasets and agreed on this one after checking the steps used to preprocess the data. As the project progresses the team plans are to incorporate other datasets with similar characteristics and compare the trajectory of nonUnicorns companies.
 
-The reason the Team chose this topic is the relativity of the dataset in the current economic climate and the unique projected value of these companies makes this project interesting. The dataset also has good mix of continuous and categorical data. 
+The reason the Team chose this topic is the relativity of the dataset in the current economic climate and the unique projected value of these companies makes this project interesting. The dataset also has a good mix of continuous and categorical data. 
 
+Description of the data source: The dataset was retrieved from Kaggle and was put together through web scraping
 
 Results:
 
-Below shows a png of the machine learning and unsupervised
-
-![plot](Resources/Images/Ml.png)
-
-Below shows a PNG of the Preprocessing Data
+Below shows a PNG of the Preprocessed Data
 
 ![plot](Resources/Images/Preprocessing_Data.png)
 
-Below shows a png of the prediective value 
+Data clearning is important for getting good and readable result, so we dropped some columns like "Financial Stage", "Total Raised Ranges($)", "Deal terms". Then renamed the "Transition Time" column to "Transition Time (Years)
 
 ![plot](Resources/Images/prediected_value.png)
 
@@ -24,13 +21,11 @@ the ERD below shows the relationship between the induastries, company_ernings, s
 
 # Describing The Data Exploration phase.
 
-Using Kaggle.com we were able to come up with some datasets saved in the Resources folder.
+
 
 Exploring the unsupervised dataset,we first read the csv file.
 
 ![plot](Resources/Images/Preprocessing_Data.png)
-
-Data clearning is important for getting good and readable result, so we dropped some columns like "Financial Stage", "Total Raised Ranges($)", "Deal terms". Then renamed the "Transition Time" column to "Transition Time (Years)
 
 ![plot](Resources/Images/preprocessed_DS.png)
 
