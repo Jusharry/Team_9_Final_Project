@@ -42,7 +42,7 @@ L.control.layers(baseMaps, overlays).addTo(map);
 // Access Unicorn data 
 let goldData = "https://raw.githubusercontent.com/Jusharry/Team_9_Final_Project/Harry/Resources/co-ord_Database_new.geojson";
 let silverData = "https://raw.githubusercontent.com/Jusharry/Team_9_Final_Project/Harry/Resources/co-ord_Database_new.geojson";
-let bronzeDta = "https://raw.githubusercontent.com/Jusharry/Team_9_Final_Project/Harry/Resources/co-ord_Database_new.geojson"
+let bronzeData = "https://raw.githubusercontent.com/Jusharry/Team_9_Final_Project/Harry/Resources/co-ord_Database_new.geojson"
 
 // Create Unicorn icons
 var unicornIcon = L.Icon.extend({
@@ -53,58 +53,19 @@ var unicornIcon = L.Icon.extend({
   }
 });
 
-var goldIcon = new UnicornIcon({iconUrl: 'horse-gold.png'}),
-    silverIcon = new UnicornIcon({iconUrl: 'horse-silver.png'}),
-    bronzeIcon = new UnicornIcon({iconUrl: 'horse-bronze.png'});
+var goldIcon = new unicornIcon({iconUrl: 'https://github.com/Jusharry/Team_9_Final_Project/blob/a674869c78c39e4f3e31e0770d7271ae8e4cb179/Web_3/Icons/horse-gold.png'}),
+    silverIcon = new unicornIcon({iconUrl: 'https://github.com/Jusharry/Team_9_Final_Project/blob/a674869c78c39e4f3e31e0770d7271ae8e4cb179/Web_3/Icons/horse-silver.png'}),
+    bronzeIcon = new unicornIcon({iconUrl: 'https://github.com/Jusharry/Team_9_Final_Project/blob/a674869c78c39e4f3e31e0770d7271ae8e4cb179/Web_3/Icons/horse-bronze.png'});
 
 // Retrieve the Unicorn GeoJSON data.
-d3.json(goldData).then(function(data) {
-
-  // This function returns the style data for each of the countries we plot on
-  // the map. We pass the magnitude of the earthquake into two separate functions
-  // to calculate the color and radius.
-  // function styleInfo(feature) {
-  //   return {
-  //     opacity: 1,
-  //     fillOpacity: 1,
-  //     fillColor: getColor(feature.properties.Cluster),
-  //     color: "#000000",
-  //     radius: getRadius(feature.properties.Cluster),
-  //     stroke: true,
-  //     weight: 0.5
-  //   };
-  // }
-
-  // // This function determines the color of the marker based on the magnitude of the earthquake.
-  // function getColor(cluster_group) {
-
-  //   if (cluster_group = 3) {
-  //     return "#ffcc80";
-  //   }
-  //   if (cluster_group = 2) {
-  //     return "#c0c0c0";
-  //   }
-  //   if (cluster_group = 1) {
-  //     return "#996633";
-  //   }
-  //   return "#ffcc80";
-  // }
-
-  // // This function determines the radius of the earthquake marker based on its magnitude.
-  // // Earthquakes with a magnitude of 0 were being plotted with the wrong radius.
-  // function getRadius(cluster_group) {
-  //   if (cluster_group === 0) {
-  //     return 1;
-  //   }
-  //   return cluster_group * 8;
-  // }
 //------------------------------------Gold Layer--------------------------------------------------------------------------------------------------------------------------
-  // Creating a GeoJSON layer with the gold data.
+d3.json(goldData).then(function(data) {  
+// Creating a GeoJSON layer with the gold data.
   L.geoJson(data, {
-    	// We turn each feature into a circleMarker on the map.
+    	// We turn each feature into a Marker on the map.
     	pointToLayer: function(feature, latlng) {
       		console.log(data);
-      		return L.Marker([latlng],{icon: goldIcon});
+      		return L.marker(latlng,{icon: goldIcon});
         },
      onEachFeature: function(feature, layer) {
       layer.bindPopup("Cluster: " + feature.properties.Cluster + "<br>Location: " + feature.properties.Country + "<br>Industry: " +  feature.properties.Industry);
@@ -120,10 +81,10 @@ d3.json(goldData).then(function(data) {
 d3.json(silverData).then(function(data) {
 // Creating a GeoJSON layer with the gold data.
 L.geoJson(data, {
-  // We turn each feature into a circleMarker on the map.
+  // We turn each feature into a Marker on the map.
   pointToLayer: function(feature, latlng) {
       console.log(data);
-      return L.Marker([latlng+1],{icon: silverIcon});
+      return L.marker(latlng,{icon: silverIcon});
     },
  onEachFeature: function(feature, layer) {
   layer.bindPopup("Cluster: " + feature.properties.Cluster + "<br>Location: " + feature.properties.Country + "<br>Industry: " +  feature.properties.Industry);
@@ -139,10 +100,10 @@ silver.addTo(map);
 d3.json(bronzeData).then(function(data) {
   // Creating a GeoJSON layer with the gold data.
   L.geoJson(data, {
-    // We turn each feature into a circleMarker on the map.
+    // We turn each feature into a Marker on the map.
     pointToLayer: function(feature, latlng) {
         console.log(data);
-        return L.Marker([latlng -1],{icon: bronzeIcon});
+        return L.marker(latlng ,{icon: bronzeIcon});
       },
    onEachFeature: function(feature, layer) {
     layer.bindPopup("Cluster: " + feature.properties.Cluster + "<br>Location: " + feature.properties.Country + "<br>Industry: " +  feature.properties.Industry);
