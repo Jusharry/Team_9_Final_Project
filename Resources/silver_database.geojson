@@ -1,0 +1,3680 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Stripe",
+    "Cluster":2,
+    "Valuation ($B)":95,
+    "Year Joined":2014,
+    "Country":"United States",
+    "City":"San Francisco",
+    "Industry":"Fintech",
+    "Select Inverstors":"Khosla Ventures, LowercaseCapital, capitalG",
+    "Founded Year":2010,
+    "Investors Count":39,
+    "Total Raised($)":"2901000000.0",
+    "Transition Time(Years)":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.5208584,59.6749712 ]
+    },
+    "properties": {
+    "Company":"Klarna",
+    "Cluster":2,
+    "Valuation ($B)":45.6,
+    "Year Joined":2011,
+    "Country":"Sweden",
+    "City":"Stockholm",
+    "Industry":"Fintech",
+    "Select Inverstors":"Institutional Venture Partners, Sequoia Capital, General Atlantic",
+    "Founded Year":2005,
+    "Investors Count":56,
+    "Total Raised($)":"3472000000.0",
+    "Transition Time(Years)":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Epic Games",
+    "Cluster":2,
+    "Valuation ($B)":42,
+    "Year Joined":2018,
+    "Country":"United States",
+    "City":"Cary",
+    "Industry":"Other",
+    "Select Inverstors":"Tencent Holdings, KKR, Smash Ventures",
+    "Founded Year":1991,
+    "Investors Count":25,
+    "Total Raised($)":"4377000000.0",
+    "Transition Time(Years)":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Instacart",
+    "Cluster":2,
+    "Valuation ($B)":39,
+    "Year Joined":2014,
+    "Country":"United States",
+    "City":"San Francisco",
+    "Industry":"Supply chain, logistics, & delivery",
+    "Select Inverstors":"Khosla Ventures, Kleiner Perkins Caufield & Byers, Collaborative Fund",
+    "Founded Year":2012,
+    "Investors Count":29,
+    "Total Raised($)":"2686000000.0",
+    "Transition Time(Years)":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Databricks",
+    "Cluster":2,
+    "Valuation ($B)":38,
+    "Year Joined":2019,
+    "Country":"United States",
+    "City":"San Francisco",
+    "Industry":"Data management & analytics",
+    "Select Inverstors":"Andreessen Horowitz, New Enterprise Associates, Battery Ventures",
+    "Founded Year":2013,
+    "Investors Count":29,
+    "Total Raised($)":"3497000000.0",
+    "Transition Time(Years)":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Fanatics",
+    "Cluster":2,
+    "Valuation ($B)":27,
+    "Year Joined":2012,
+    "Country":"United States",
+    "City":"Jacksonville",
+    "Industry":"E-commerce & direct-to-consumer",
+    "Select Inverstors":"SoftBank Group, Andreessen Horowitz, Temasek Holdings",
+    "Founded Year":1995,
+    "Investors Count":21,
+    "Total Raised($)":"4190000000.000001",
+    "Transition Time(Years)":17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Chime",
+    "Cluster":2,
+    "Valuation ($B)":25,
+    "Year Joined":2019,
+    "Country":"United States",
+    "City":"San Francisco",
+    "Industry":"Fintech",
+    "Select Inverstors":"Forerunner Ventures, Crosslink Capital, Homebrew",
+    "Founded Year":2013,
+    "Investors Count":24,
+    "Total Raised($)":"2599000000.0",
+    "Transition Time(Years)":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.8902853,-2.4833826 ]
+    },
+    "properties": {
+    "Company":"J&T Express",
+    "Cluster":2,
+    "Valuation ($B)":20,
+    "Year Joined":2021,
+    "Country":"Indonesia",
+    "City":"Jakarta",
+    "Industry":"Supply chain, logistics, & delivery",
+    "Select Inverstors":"Hillhouse Capital Management, Boyu Capital, Sequoia Capital China",
+    "Founded Year":2015,
+    "Investors Count":9,
+    "Total Raised($)":"4653000000.0",
+    "Transition Time(Years)":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Miro",
+    "Cluster":2,
+    "Valuation ($B)":17.5,
+    "Year Joined":2022,
+    "Country":"United States",
+    "City":"San Francisco",
+    "Industry":"Internet software & services",
+    "Select Inverstors":"Accel, AltaIR Capital, Technology Crossover Ventures",
+    "Founded Year":2011,
+    "Investors Count":18,
+    "Total Raised($)":"4750000000.0",
+    "Transition Time(Years)":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.999927,35.000074 ]
+    },
+    "properties": {
+    "Company":"Yuanfudao",
+    "Cluster":2,
+    "Valuation ($B)":15.5,
+    "Year Joined":2017,
+    "Country":"China",
+    "City":"Beijing",
+    "Industry":"Edtech",
+    "Select Inverstors":"Tencent Holdings, Warbug Pincus, IDG Capital",
+    "Founded Year":2012,
+    "Investors Count":18,
+    "Total Raised($)":"4044000000.0",
+    "Transition Time(Years)":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"goPuff",
+    "Cluster":2,
+    "Valuation ($B)":15,
+    "Year Joined":2020,
+    "Country":"United States",
+    "City":"Philadelphia",
+    "Industry":"E-commerce & direct-to-consumer",
+    "Select Inverstors":"Accel, Softbank Group, Anthos Capital",
+    "Founded Year":2013,
+    "Investors Count":16,
+    "Total Raised($)":"3397000000.0",
+    "Transition Time(Years)":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Grammarly",
+    "Cluster":2,
+    "Valuation ($B)":13,
+    "Year Joined":2019,
+    "Country":"United States",
+    "City":"San Francisco",
+    "Industry":"Internet software & services",
+    "Select Inverstors":"General Catalyst, Institutional Venture Partners, Breyer Capital",
+    "Founded Year":2009,
+    "Investors Count":8,
+    "Total Raised($)":"4000000000.0",
+    "Transition Time(Years)":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Devoted Health",
+    "Cluster":2,
+    "Valuation ($B)":12.6,
+    "Year Joined":2018,
+    "Country":"United States",
+    "City":"Waltham",
+    "Industry":"Health",
+    "Select Inverstors":"Andreessen Horowitz, F-Prime Capital, Venrock",
+    "Founded Year":2017,
+    "Investors Count":16,
+    "Total Raised($)":"1969000000.0",
+    "Transition Time(Years)":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.6677428,22.3511148 ]
+    },
+    "properties": {
+    "Company":"Swiggy",
+    "Cluster":2,
+    "Valuation ($B)":10.7,
+    "Year Joined":2018,
+    "Country":"India",
+    "City":"Bengaluru",
+    "Industry":"Supply chain, logistics, & delivery",
+    "Select Inverstors":"Accel India, SAIF Partners, Norwest Venture Partners",
+    "Founded Year":2014,
+    "Investors Count":36,
+    "Total Raised($)":"3571000000.0",
+    "Transition Time(Years)":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1628131,22.2793278 ]
+    },
+    "properties": {
+    "Company":"Lalamove",
+    "Cluster":2,
+    "Valuation ($B)":10,
+    "Year Joined":2019,
+    "Country":"Hong Kong",
+    "City":"Cheung Sha Wan",
+    "Industry":"Supply chain, logistics, & delivery",
+    "Select Inverstors":"MindWorks Ventures, Shunwei Capital Partners, Xiang He Capital",
+    "Founded Year":2013,
+    "Investors Count":15,
+    "Total Raised($)":"2475000000.0",
+    "Transition Time(Years)":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Notion Labs",
+    "Cluster":2,
+    "Valuation ($B)":10,
+    "Year Joined":2020,
+    "Country":"United States",
+    "City":"San Francisco",
+    "Industry":"Internet software & services",
+    "Select Inverstors":"Index Ventures, Draft Ventures, Felicis Ventures",
+    "Founded Year":2016,
+    "Investors Count":17,
+    "Total Raised($)":"3420000000.0",
+    "Transition Time(Years)":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Thrasio",
+    "Cluster":2,
+    "Valuation ($B)":10,
+    "Year Joined":2020,
+    "Country":"United States",
+    "City":"Walpole",
+    "Industry":"Other",
+    "Select Inverstors":"Upper90, RiverPark Ventures, Advent International",
+    "Founded Year":2018,
+    "Investors Count":22,
+    "Total Raised($)":"3396000000.0",
+    "Transition Time(Years)":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Digital Currency Group",
+    "Cluster":2,
+    "Valuation ($B)":10,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"New York",
+    "Industry":"Finttech",
+    "Select Inverstors":"Ribbit Capital, capitalG, Softbank Group",
+    "Founded Year":2018,
+    "Investors Count":22,
+    "Total Raised($)":"3396000000.0",
+    "Transition Time(Years)":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.999927,35.000074 ]
+    },
+    "properties": {
+    "Company":"Chehaoduo",
+    "Cluster":2,
+    "Valuation ($B)":9,
+    "Year Joined":2016,
+    "Country":"China",
+    "City":"Beijing",
+    "Industry":"E-commerce & direct-to-consumer",
+    "Select Inverstors":"Sequoia Capital China, GX Capital",
+    "Founded Year":2015,
+    "Investors Count":35,
+    "Total Raised($)":"4304000000.0",
+    "Transition Time(Years)":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.6677428,22.3511148 ]
+    },
+    "properties": {
+    "Company":"OYO Rooms",
+    "Cluster":2,
+    "Valuation ($B)":9.6,
+    "Year Joined":2018,
+    "Country":"India",
+    "City":"Gurugram",
+    "Industry":"Travel",
+    "Select Inverstors":"SoftBank Group, Sequoia Capital India,Lightspeed India Partners",
+    "Founded Year":2012,
+    "Investors Count":20,
+    "Total Raised($)":"3114000000.0",
+    "Transition Time(Years)":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Nuro",
+    "Cluster":2,
+    "Valuation ($B)":8.6,
+    "Year Joined":2019,
+    "Country":"United States",
+    "City":"Mountain View",
+    "Industry":"Auto & transportation",
+    "Select Inverstors":"SoftBank Group, Greylock Partners, Gaorong Capital",
+    "Founded Year":2016,
+    "Investors Count":11,
+    "Total Raised($)":"2132000000.0",
+    "Transition Time(Years)":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.3319078,58.7523778 ]
+    },
+    "properties": {
+    "Company":"Bolt",
+    "Cluster":2,
+    "Valuation ($B)":8.4,
+    "Year Joined":2018,
+    "Country":"Estonia",
+    "City":"Tallinn",
+    "Industry":"Auto & transportation",
+    "Select Inverstors":"Didi Chuxing, Diamler, TMT Investments",
+    "Founded Year":2013,
+    "Investors Count":28,
+    "Total Raised($)":"1971000000.0",
+    "Transition Time(Years)":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Lacework",
+    "Cluster":2,
+    "Valuation ($B)":8.3,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"San Jose",
+    "Industry":"Cybersecurity",
+    "Select Inverstors":"Sutter Hill Ventures, Liberty Global Ventures, Coatue Management",
+    "Founded Year":2015,
+    "Investors Count":19,
+    "Total Raised($)":"1907000000.0",
+    "Transition Time(Years)":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Flexport",
+    "Cluster":2,
+    "Valuation ($B)":8,
+    "Year Joined":2018,
+    "Country":"United States",
+    "City":"San Francisco",
+    "Industry":"Supply chain, logistics, & delivery",
+    "Select Inverstors":"Bloomberg Beta, Founders Fund, First Round Capital",
+    "Founded Year":2013,
+    "Investors Count":28,
+    "Total Raised($)":"2237000000.0",
+    "Transition Time(Years)":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Gemini",
+    "Cluster":2,
+    "Valuation ($B)":7.1,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"New York",
+    "Industry":"Fintech",
+    "Select Inverstors":"Morgan Creek Digital, Marcy Venture Partners, 10T Fund",
+    "Founded Year":2015,
+    "Investors Count":15,
+    "Total Raised($)":"4000000000.0",
+    "Transition Time(Years)":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.999927,35.000074 ]
+    },
+    "properties": {
+    "Company":"Ziroom",
+    "Cluster":2,
+    "Valuation ($B)":6.6,
+    "Year Joined":2018,
+    "Country":"China",
+    "City":"Beijing",
+    "Industry":"E-commerce & direct-to-consumer",
+    "Select Inverstors":"Sequoia Capital China, Warburg Pincus, General Catalyst",
+    "Founded Year":2011,
+    "Investors Count":12,
+    "Total Raised($)":"2121000000.0",
+    "Transition Time(Years)":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Benchling",
+    "Cluster":2,
+    "Valuation ($B)":6.1,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"San Francisco",
+    "Industry":"Internet software & services",
+    "Select Inverstors":"Thrive Capital, Benchmark, MenloVentures",
+    "Founded Year":2012,
+    "Investors Count":29,
+    "Total Raised($)":"4120000000.0",
+    "Transition Time(Years)":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"6Sense",
+    "Cluster":2,
+    "Valuation ($B)":5.2,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"San Francisco",
+    "Industry":"Artificial intelligence",
+    "Select Inverstors":"Venrock, Battery Ventures, Insight Partners",
+    "Founded Year":2013,
+    "Investors Count":19,
+    "Total Raised($)":"4240000000.0",
+    "Transition Time(Years)":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.999927,35.000074 ]
+    },
+    "properties": {
+    "Company":"Easyhome",
+    "Cluster":2,
+    "Valuation ($B)":5.78,
+    "Year Joined":2018,
+    "Country":"China",
+    "City":"Beijing",
+    "Industry":"Consumer & retail",
+    "Select Inverstors":"Alibaba Group, Boyu Capital, Borui Capital",
+    "Founded Year":1999,
+    "Investors Count":12,
+    "Total Raised($)":"2085000000.0",
+    "Transition Time(Years)":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Workato",
+    "Cluster":2,
+    "Valuation ($B)":5.7,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"Mountain View",
+    "Industry":"Internet software & services",
+    "Select Inverstors":"Battery Ventures, Storm Ventures, Redpoint Ventures",
+    "Founded Year":2013,
+    "Investors Count":11,
+    "Total Raised($)":"4150000000.0",
+    "Transition Time(Years)":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Postman",
+    "Cluster":2,
+    "Valuation ($B)":5.6,
+    "Year Joined":2020,
+    "Country":"United States",
+    "City":"San Francisco",
+    "Industry":"Internet software & services",
+    "Select Inverstors":"Nexus Venture Partners, CRV, Insight Partners",
+    "Founded Year":2014,
+    "Investors Count":8,
+    "Total Raised($)":"4330000000.0",
+    "Transition Time(Years)":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.9088133,4.099917 ]
+    },
+    "properties": {
+    "Company":"Rappi",
+    "Cluster":2,
+    "Valuation ($B)":5.25,
+    "Year Joined":2018,
+    "Country":"Colombia",
+    "City":"Bogota",
+    "Industry":"Supply chain, logistics, & delivery",
+    "Select Inverstors":"DST Global, Andreessen Horowitz, Sequoia Capital, Redpoint e.ventures",
+    "Founded Year":2015,
+    "Investors Count":35,
+    "Total Raised($)":"2248000000.0",
+    "Transition Time(Years)":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.999927,35.000074 ]
+    },
+    "properties": {
+    "Company":"Hello TransTech",
+    "Cluster":2,
+    "Valuation ($B)":5,
+    "Year Joined":2018,
+    "Country":"China",
+    "City":"Shanghai",
+    "Industry":"Auto & transportation",
+    "Select Inverstors":"Ant Financial Services Group, GGV Capital",
+    "Founded Year":2016,
+    "Investors Count":13,
+    "Total Raised($)":"2701000000.0",
+    "Transition Time(Years)":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.999927,35.000074 ]
+    },
+    "properties": {
+    "Company":"Horizon Robotics",
+    "Cluster":2,
+    "Valuation ($B)":5,
+    "Year Joined":2019,
+    "Country":"China",
+    "City":"Beijing",
+    "Industry":"Artificial intelligence",
+    "Select Inverstors":"Hillhouse Capital Management, Linear Venture, Morningside Venture Capital",
+    "Founded Year":2015,
+    "Investors Count":56,
+    "Total Raised($)":"2200000000.0",
+    "Transition Time(Years)":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Impossible Foods",
+    "Cluster":2,
+    "Valuation ($B)":4,
+    "Year Joined":2019,
+    "Country":"United States",
+    "City":"Redwood City",
+    "Industry":"Consumer & retail",
+    "Select Inverstors":"Khosla Ventures, Horizons Ventures, Temasek Holdings",
+    "Founded Year":2011,
+    "Investors Count":38,
+    "Total Raised($)":"2006000000.0",
+    "Transition Time(Years)":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.9794599,52.865196 ]
+    },
+    "properties": {
+    "Company":"BrowserStack",
+    "Cluster":2,
+    "Valuation ($B)":4,
+    "Year Joined":2021,
+    "Country":"Ireland",
+    "City":"Dublin",
+    "Industry":"Internet software & services",
+    "Select Inverstors":"Accel, Insight Partners, Bond Capital",
+    "Founded Year":2011,
+    "Investors Count":3,
+    "Total Raised($)":"2500000000.0",
+    "Transition Time(Years)":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"FalconX",
+    "Cluster":2,
+    "Valuation ($B)":3.75,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"San Mateo",
+    "Industry":"Fintech",
+    "Select Inverstors":"Tiger Global Management, American Express Ventures, B Capital Group",
+    "Founded Year":2018,
+    "Investors Count":15,
+    "Total Raised($)":"2770000000.0",
+    "Transition Time(Years)":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"VAST Data",
+    "Cluster":2,
+    "Valuation ($B)":3.7,
+    "Year Joined":2020,
+    "Country":"United States",
+    "City":"New York",
+    "Industry":"Data management & analytics",
+    "Select Inverstors":"Norwest Venture Partners, Goldman Sachs, Dell Technologies Capital",
+    "Founded Year":2016,
+    "Investors Count":11,
+    "Total Raised($)":"2630000000.0",
+    "Transition Time(Years)":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Papaya Global",
+    "Cluster":2,
+    "Valuation ($B)":3.7,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"New York",
+    "Industry":"Internet software & services",
+    "Select Inverstors":"Bessemer Venture Partners, Insight Partners, New Era Ventures",
+    "Founded Year":2016,
+    "Investors Count":16,
+    "Total Raised($)":"4380000000.0",
+    "Transition Time(Years)":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Applied Intuition",
+    "Cluster":2,
+    "Valuation ($B)":3.6,
+    "Year Joined":2020,
+    "Country":"United States",
+    "City":"Sunnyvale",
+    "Industry":"Data management & analytics",
+    "Select Inverstors":"Andreessen Horowitz, Lux Capital, General Catalyst",
+    "Founded Year":2017,
+    "Investors Count":21,
+    "Total Raised($)":"3400000000.0",
+    "Transition Time(Years)":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Tekion",
+    "Cluster":2,
+    "Valuation ($B)":3.5,
+    "Year Joined":2020,
+    "Country":"United States",
+    "City":"San Ramon",
+    "Industry":"Internet software & services",
+    "Select Inverstors":"Airbus Ventures, Index Ventures, Advent International",
+    "Founded Year":2016,
+    "Investors Count":14,
+    "Total Raised($)":"4000000000.0",
+    "Transition Time(Years)":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Komodo Health",
+    "Cluster":2,
+    "Valuation ($B)":3.3,
+    "Year Joined":2020,
+    "Country":"United States",
+    "City":"San Francisco",
+    "Industry":"Health",
+    "Select Inverstors":"Andreessen Horowitz, IA Ventures, Felicis Ventures",
+    "Founded Year":2014,
+    "Investors Count":10,
+    "Total Raised($)":"3150000000.0",
+    "Transition Time(Years)":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.991707,61.0666922 ]
+    },
+    "properties": {
+    "Company":"Blockstream",
+    "Cluster":2,
+    "Valuation ($B)":3.2,
+    "Year Joined":2021,
+    "Country":"Canada",
+    "City":"Vancouver",
+    "Industry":"Fintech",
+    "Select Inverstors":"AME Cloud Ventures, Future Perfect Ventures, Blockchain Capital",
+    "Founded Year":2014,
+    "Investors Count":23,
+    "Total Raised($)":"3110000000.0",
+    "Transition Time(Years)":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Skims",
+    "Cluster":2,
+    "Valuation ($B)":3.2,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"Los Angeles",
+    "Industry":"E-commerce & direct-to-consumer",
+    "Select Inverstors":"Thrive Capital, Alliance Consumer Growth, Imaginary Ventures",
+    "Founded Year":2019,
+    "Investors Count":5,
+    "Total Raised($)":"3940000000.0",
+    "Transition Time(Years)":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"HighRadius",
+    "Cluster":2,
+    "Valuation ($B)":3.1,
+    "Year Joined":2020,
+    "Country":"United States",
+    "City":"Houston",
+    "Industry":"Fintech",
+    "Select Inverstors":"Susquehanna Growth Equity, Citi Ventures, ICONIQ Capital",
+    "Founded Year":2006,
+    "Investors Count":11,
+    "Total Raised($)":"4750000000.0",
+    "Transition Time(Years)":14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.999927,35.000074 ]
+    },
+    "properties": {
+    "Company":"Zuoyebang",
+    "Cluster":2,
+    "Valuation ($B)":3,
+    "Year Joined":2018,
+    "Country":"China",
+    "City":"Beijing",
+    "Industry":"Edtech",
+    "Select Inverstors":"Sequoia Capital China, Xiang He Capital, GGV Capital",
+    "Founded Year":2014,
+    "Investors Count":17,
+    "Total Raised($)":"3435000000.0",
+    "Transition Time(Years)":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"ActiveCampaign",
+    "Cluster":2,
+    "Valuation ($B)":3,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"Chicago",
+    "Industry":"Internet software & services",
+    "Select Inverstors":"Silversmith Capital Partners, Susquehanna Growth Equity, Tiger Global Management",
+    "Founded Year":2003,
+    "Investors Count":4,
+    "Total Raised($)":"3600000000.0",
+    "Transition Time(Years)":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.4234469,51.0834196 ]
+    },
+    "properties": {
+    "Company":"Contentful",
+    "Cluster":2,
+    "Valuation ($B)":3,
+    "Year Joined":2021,
+    "Country":"Germany",
+    "City":"Berlin",
+    "Industry":"Internet software & services",
+    "Select Inverstors":"Balderton Capital, General Catalyst, Tiger Global Management",
+    "Founded Year":2013,
+    "Investors Count":13,
+    "Total Raised($)":"3310000000.0",
+    "Transition Time(Years)":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Anchorage Digital",
+    "Cluster":2,
+    "Valuation ($B)":3,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"San Francisco",
+    "Industry":"Fintech",
+    "Select Inverstors":"Andreessen Horowitz, Blockchain Capital, Lux Capital",
+    "Founded Year":2017,
+    "Investors Count":28,
+    "Total Raised($)":"4870000000.0",
+    "Transition Time(Years)":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1628131,22.2793278 ]
+    },
+    "properties": {
+    "Company":"Amber Group",
+    "Cluster":2,
+    "Valuation ($B)":3,
+    "Year Joined":2021,
+    "Country":"Hong Kong",
+    "City":"Fintech",
+    "Industry":"Tiger Global Management, Tiger Brokers, DCM Ventures",
+    "Select Inverstors":"None",
+    "Founded Year":2015,
+    "Investors Count":18,
+    "Total Raised($)":"3280000000.0",
+    "Transition Time(Years)":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.999927,35.000074 ]
+    },
+    "properties": {
+    "Company":"Hozon Auto",
+    "Cluster":2,
+    "Valuation ($B)":3.95,
+    "Year Joined":2021,
+    "Country":"China",
+    "City":"Shanghai",
+    "Industry":"Auto & transportation",
+    "Select Inverstors":"HD Capital, Qihoo 360 Technology, China Fortune Land Development",
+    "Founded Year":2014,
+    "Investors Count":13,
+    "Total Raised($)":"3146000000.0",
+    "Transition Time(Years)":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"o9 Solutions",
+    "Cluster":2,
+    "Valuation ($B)":2.7,
+    "Year Joined":2020,
+    "Country":"United States",
+    "City":"Dallas",
+    "Industry":"Artificial intelligence",
+    "Select Inverstors":"KKR",
+    "Founded Year":2009,
+    "Investors Count":3,
+    "Total Raised($)":"4200000000.0",
+    "Transition Time(Years)":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Sourcegraph",
+    "Cluster":2,
+    "Valuation ($B)":2.62,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"San Francisco",
+    "Industry":"Internet software & services",
+    "Select Inverstors":"Redpoint Ventures, Goldcrest Capital, Insight Partners",
+    "Founded Year":2013,
+    "Investors Count":8,
+    "Total Raised($)":"2230000000.0",
+    "Transition Time(Years)":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Vercel",
+    "Cluster":2,
+    "Valuation ($B)":2.5,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"San Francisco",
+    "Industry":"Internet software & services",
+    "Select Inverstors":"CRV, Accel, Google Ventures",
+    "Founded Year":2015,
+    "Investors Count":16,
+    "Total Raised($)":"3130000000.0",
+    "Transition Time(Years)":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Somatus",
+    "Cluster":2,
+    "Valuation ($B)":2.5,
+    "Year Joined":2022,
+    "Country":"United States",
+    "City":"McLean",
+    "Industry":"Health",
+    "Select Inverstors":"The Blue Venture Fund, Flare Capital Partners, Longitude Capital",
+    "Founded Year":2016,
+    "Investors Count":14,
+    "Total Raised($)":"4650000000.0",
+    "Transition Time(Years)":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Exabeam",
+    "Cluster":2,
+    "Valuation ($B)":2.4,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"Foster City",
+    "Industry":"Cybersecurity",
+    "Select Inverstors":"Norwest Venture Partners, Aspect Ventures, Lightspeed Venture Partners",
+    "Founded Year":2013,
+    "Investors Count":9,
+    "Total Raised($)":"3900000000.0",
+    "Transition Time(Years)":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"BitSight Technologies",
+    "Cluster":2,
+    "Valuation ($B)":2.4,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"Boston",
+    "Industry":"Cybersecurity",
+    "Select Inverstors":"Menlo Ventures, GGV Capital, Flybridge Capital Partners",
+    "Founded Year":2013,
+    "Investors Count":9,
+    "Total Raised($)":"3900000000.0",
+    "Transition Time(Years)":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Uptake",
+    "Cluster":2,
+    "Valuation ($B)":2.3,
+    "Year Joined":2015,
+    "Country":"United States",
+    "City":"Chicago",
+    "Industry":"Artificial intelligence",
+    "Select Inverstors":"Revolution, New Enterprise Associates, Caterpillar",
+    "Founded Year":2014,
+    "Investors Count":8,
+    "Total Raised($)":"3170000000.0",
+    "Transition Time(Years)":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Skydance Media",
+    "Cluster":2,
+    "Valuation ($B)":2.3,
+    "Year Joined":2020,
+    "Country":"United States",
+    "City":"Santa Monica",
+    "Industry":"Other",
+    "Select Inverstors":"RedBird Capital Partners, CJ ENM, Tencent Holdings",
+    "Founded Year":2010,
+    "Investors Count":4,
+    "Total Raised($)":"2075000000.0",
+    "Transition Time(Years)":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.6667145,50.6402809 ]
+    },
+    "properties": {
+    "Company":"Odoo",
+    "Cluster":2,
+    "Valuation ($B)":2.3,
+    "Year Joined":2021,
+    "Country":"Belgium",
+    "City":"Louvain-la-Neuve",
+    "Industry":"Internet software & services",
+    "Select Inverstors":"Summit Partners, Noshaq, Sofinnova Partners",
+    "Founded Year":2005,
+    "Investors Count":6,
+    "Total Raised($)":"3190000000.0",
+    "Transition Time(Years)":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Pattern",
+    "Cluster":2,
+    "Valuation ($B)":2.25,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"Lehi",
+    "Industry":"Internet software & services",
+    "Select Inverstors":"Knox Lane, Ainge Advisory, Carlson Private Capital Partners,/td>",
+    "Founded Year":2013,
+    "Investors Count":5,
+    "Total Raised($)":"2770000000.0",
+    "Transition Time(Years)":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"BloomReach",
+    "Cluster":2,
+    "Valuation ($B)":2.2,
+    "Year Joined":2022,
+    "Country":"United States",
+    "City":"Mountain View",
+    "Industry":"Artificial intelligence",
+    "Select Inverstors":"Bain Capital Ventures, Sixth Street Growth, Lightspeed Venture Partners",
+    "Founded Year":2009,
+    "Investors Count":8,
+    "Total Raised($)":"4220000000.0",
+    "Transition Time(Years)":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.2765753,54.7023545 ]
+    },
+    "properties": {
+    "Company":"Accelerant",
+    "Cluster":2,
+    "Valuation ($B)":2.19,
+    "Year Joined":2022,
+    "Country":"United Kingdom",
+    "City":"Colchester",
+    "Industry":"Other",
+    "Select Inverstors":"Deer Park Road, Altamont Capital Partners, Eldridge",
+    "Founded Year":2018,
+    "Investors Count":5,
+    "Total Raised($)":"1900000000.0",
+    "Transition Time(Years)":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -53.2,-10.3333333 ]
+    },
+    "properties": {
+    "Company":"CloudWalk",
+    "Cluster":2,
+    "Valuation ($B)":2.15,
+    "Year Joined":2021,
+    "Country":"Brazil",
+    "City":"Sao Paulo",
+    "Industry":"Fintech",
+    "Select Inverstors":"Plug and Play Ventures, Valor Capital Group, DST Global",
+    "Founded Year":2013,
+    "Investors Count":14,
+    "Total Raised($)":"3450000000.0",
+    "Transition Time(Years)":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Eightfold.ai",
+    "Cluster":2,
+    "Valuation ($B)":2.1,
+    "Year Joined":2020,
+    "Country":"United States",
+    "City":"Santa Clara",
+    "Industry":"Internet software & services",
+    "Select Inverstors":"Foundation Capital, Institutional Venture Partners, General Catalyst",
+    "Founded Year":2016,
+    "Investors Count":6,
+    "Total Raised($)":"3970000000.0",
+    "Transition Time(Years)":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Moveworks",
+    "Cluster":2,
+    "Valuation ($B)":2.1,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"Mountain View",
+    "Industry":"Artificial intelligence",
+    "Select Inverstors":"Lightspeed Venture Partners, Sapphire Ventures, Kleiner Perkins Caufield & Byers",
+    "Founded Year":2016,
+    "Investors Count":11,
+    "Total Raised($)":"3050000000.0",
+    "Transition Time(Years)":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1628131,22.2793278 ]
+    },
+    "properties": {
+    "Company":"Trendy Group International",
+    "Cluster":2,
+    "Valuation ($B)":2,
+    "Year Joined":2012,
+    "Country":"Hong Kong",
+    "City":"Kowloon",
+    "Industry":"Consumer & retail",
+    "Select Inverstors":"L Capital Partners",
+    "Founded Year":1999,
+    "Investors Count":1,
+    "Total Raised($)":"2000000000.0",
+    "Transition Time(Years)":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Quora",
+    "Cluster":2,
+    "Valuation ($B)":2,
+    "Year Joined":2017,
+    "Country":"United States",
+    "City":"Mountain View",
+    "Industry":"Internet software & services",
+    "Select Inverstors":"Y Combinator, Matrix Partners, Benchmark",
+    "Founded Year":2009,
+    "Investors Count":10,
+    "Total Raised($)":"2860000000.0",
+    "Transition Time(Years)":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.999927,35.000074 ]
+    },
+    "properties": {
+    "Company":"Mafengwo",
+    "Cluster":2,
+    "Valuation ($B)":2,
+    "Year Joined":2019,
+    "Country":"China",
+    "City":"Beijing",
+    "Industry":"Travel",
+    "Select Inverstors":"Qiming Venture Partners, Capital Today, General Atlantic",
+    "Founded Year":2010,
+    "Investors Count":13,
+    "Total Raised($)":"4880000000.0",
+    "Transition Time(Years)":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Druva",
+    "Cluster":2,
+    "Valuation ($B)":2,
+    "Year Joined":2019,
+    "Country":"United States",
+    "City":"Sunnyvale",
+    "Industry":"Data management & analytics",
+    "Select Inverstors":"Nexus Venture Partners, Tenaya Capital, Sequoia Capital",
+    "Founded Year":2007,
+    "Investors Count":16,
+    "Total Raised($)":"4750000000.0",
+    "Transition Time(Years)":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.999927,35.000074 ]
+    },
+    "properties": {
+    "Company":"Kujiale",
+    "Cluster":2,
+    "Valuation ($B)":2,
+    "Year Joined":2019,
+    "Country":"China",
+    "City":"Hangzhou",
+    "Industry":"Internet software & services",
+    "Select Inverstors":"GGV Capital, IDG Capital, Linear Venture",
+    "Founded Year":2011,
+    "Investors Count":15,
+    "Total Raised($)":"3120000000.0",
+    "Transition Time(Years)":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Redis Labs",
+    "Cluster":2,
+    "Valuation ($B)":2,
+    "Year Joined":2020,
+    "Country":"United States",
+    "City":"Mountain View",
+    "Industry":"Data management & analytics",
+    "Select Inverstors":"Viola Ventures, Dell Technologies Capital, Bain Capital Ventures",
+    "Founded Year":2011,
+    "Investors Count":13,
+    "Total Raised($)":"3550000000.0",
+    "Transition Time(Years)":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.999927,35.000074 ]
+    },
+    "properties": {
+    "Company":"Arrail Dental",
+    "Cluster":2,
+    "Valuation ($B)":1.05,
+    "Year Joined":2021,
+    "Country":"China",
+    "City":"Beijing",
+    "Industry":"Health",
+    "Select Inverstors":"Qiming Venture Partners, Kleiner Perkins Caufield & Byers, OrbiMed Advisors",
+    "Founded Year":1999,
+    "Investors Count":15,
+    "Total Raised($)":"4490000000.0",
+    "Transition Time(Years)":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Pipe",
+    "Cluster":2,
+    "Valuation ($B)":2,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"Miami",
+    "Industry":"Fintech",
+    "Select Inverstors":"next47, MaC Venture Capital, FinVC",
+    "Founded Year":2019,
+    "Investors Count":36,
+    "Total Raised($)":"3660000000.0",
+    "Transition Time(Years)":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.38721,52.15517 ]
+    },
+    "properties": {
+    "Company":"Bunq",
+    "Cluster":2,
+    "Valuation ($B)":2,
+    "Year Joined":2021,
+    "Country":"Netherlands",
+    "City":"Amsterdam",
+    "Industry":"Fintech",
+    "Select Inverstors":"Undisclosed",
+    "Founded Year":2013,
+    "Investors Count":1,
+    "Total Raised($)":"2280000000.0",
+    "Transition Time(Years)":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Aviatrix",
+    "Cluster":2,
+    "Valuation ($B)":2,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"Santa Clara",
+    "Industry":"Internet software & services",
+    "Select Inverstors":"Ignition Partners, Formation 8, CRV",
+    "Founded Year":2014,
+    "Investors Count":12,
+    "Total Raised($)":"3400000000.0",
+    "Transition Time(Years)":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Magic Leap",
+    "Cluster":2,
+    "Valuation ($B)":2,
+    "Year Joined":2014,
+    "Country":"United States",
+    "City":"Plantation",
+    "Industry":"Hardware",
+    "Select Inverstors":"Obvious Ventures, Qualcomm Ventures, Andreessen Horowitz",
+    "Founded Year":2010,
+    "Investors Count":26,
+    "Total Raised($)":"3484000000.0",
+    "Transition Time(Years)":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"ClickHouse",
+    "Cluster":2,
+    "Valuation ($B)":2,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"Portola Valley",
+    "Industry":"Data management & analytics",
+    "Select Inverstors":"Lightspeed Venture Partners, Almaz Capital Partners, Altimeter Capital",
+    "Founded Year":2021,
+    "Investors Count":11,
+    "Total Raised($)":"3000000000.0",
+    "Transition Time(Years)":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.7312101,12.7503486 ]
+    },
+    "properties": {
+    "Company":"Mynt",
+    "Cluster":2,
+    "Valuation ($B)":2,
+    "Year Joined":2021,
+    "Country":"Philippines",
+    "City":"Taguig City",
+    "Industry":"Fintech",
+    "Select Inverstors":"Insight Partners, Warburg Pincus, Ayala Corporation",
+    "Founded Year":2015,
+    "Investors Count":7,
+    "Total Raised($)":"4750000000.0",
+    "Transition Time(Years)":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"LTK",
+    "Cluster":2,
+    "Valuation ($B)":2,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"Dallas",
+    "Industry":"Internet software & services",
+    "Select Inverstors":"SoftBank Group, Maverick Capital",
+    "Founded Year":2011,
+    "Investors Count":5,
+    "Total Raised($)":"3150000000.0",
+    "Transition Time(Years)":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Dremio",
+    "Cluster":2,
+    "Valuation ($B)":2,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"Santa Clara",
+    "Industry":"Data management & analytics",
+    "Select Inverstors":"Lightspeed Venture Partners, Redpoint Ventures, Norwest Venture Partners",
+    "Founded Year":2015,
+    "Investors Count":9,
+    "Total Raised($)":"4050000000.0",
+    "Transition Time(Years)":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.8902853,-2.4833826 ]
+    },
+    "properties": {
+    "Company":"Akulaku",
+    "Cluster":2,
+    "Valuation ($B)":2,
+    "Year Joined":2022,
+    "Country":"Indonesia",
+    "City":"Jakarta",
+    "Industry":"E-commerce & direct-to-consumer",
+    "Select Inverstors":"DCM Ventures, IDG Capital, Siam Commercial Bank",
+    "Founded Year":2014,
+    "Investors Count":15,
+    "Total Raised($)":"4550000000.0",
+    "Transition Time(Years)":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.999927,35.000074 ]
+    },
+    "properties": {
+    "Company":"Fenbi Education",
+    "Cluster":2,
+    "Valuation ($B)":1.95,
+    "Year Joined":2021,
+    "Country":"China",
+    "City":"Beijing",
+    "Industry":"Edtech",
+    "Select Inverstors":"Trustbridge Partners, Hony Capital, IDG Capital",
+    "Founded Year":2015,
+    "Investors Count":8,
+    "Total Raised($)":"3900000000.0",
+    "Transition Time(Years)":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.6677428,22.3511148 ]
+    },
+    "properties": {
+    "Company":"CoinSwitch Kuber",
+    "Cluster":2,
+    "Valuation ($B)":1.9,
+    "Year Joined":2021,
+    "Country":"India",
+    "City":"Bangalore",
+    "Industry":"Fintech",
+    "Select Inverstors":"Tiger Global Management, Sequoia Capital India, Ribbit Capital",
+    "Founded Year":2017,
+    "Investors Count":7,
+    "Total Raised($)":"3000000000.0",
+    "Transition Time(Years)":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Diamond Foundry",
+    "Cluster":2,
+    "Valuation ($B)":1.8,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"San Francisco",
+    "Industry":"Other",
+    "Select Inverstors":"Fashion Tech Lab, Fidelity Investments, Vast Ventures",
+    "Founded Year":2012,
+    "Investors Count":16,
+    "Total Raised($)":"3000000000.0",
+    "Transition Time(Years)":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.8667654,31.5313113 ]
+    },
+    "properties": {
+    "Company":"Lightricks",
+    "Cluster":2,
+    "Valuation ($B)":1.8,
+    "Year Joined":2019,
+    "Country":"Israel",
+    "City":"Jerusalem",
+    "Industry":"Artificial intelligence",
+    "Select Inverstors":"Viola Ventures, Insight Partners, ClalTech, Goldman Sachs",
+    "Founded Year":2013,
+    "Investors Count":16,
+    "Total Raised($)":"3350000000.0",
+    "Transition Time(Years)":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.8667654,31.5313113 ]
+    },
+    "properties": {
+    "Company":"Hibob",
+    "Cluster":2,
+    "Valuation ($B)":1.65,
+    "Year Joined":2021,
+    "Country":"Israel",
+    "City":"Tel Aviv",
+    "Industry":"Internet software & services",
+    "Select Inverstors":"Bessemer Venture Partners, Eight Roads Ventures, Battery Ventures",
+    "Founded Year":2015,
+    "Investors Count":15,
+    "Total Raised($)":"2650000000.0",
+    "Transition Time(Years)":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Trader Interactive",
+    "Cluster":2,
+    "Valuation ($B)":1.63,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"Norfolk",
+    "Industry":"Other",
+    "Select Inverstors":"Carsales",
+    "Founded Year":2015,
+    "Investors Count":15,
+    "Total Raised($)":"2650000000.0",
+    "Transition Time(Years)":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Transcarent",
+    "Cluster":2,
+    "Valuation ($B)":1.62,
+    "Year Joined":2022,
+    "Country":"United States",
+    "City":"San Francisco",
+    "Industry":"Health",
+    "Select Inverstors":"Alta Partners, General Catalyst, Jove Equity Partners",
+    "Founded Year":2020,
+    "Investors Count":15,
+    "Total Raised($)":"2980000000.0",
+    "Transition Time(Years)":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Infinidat",
+    "Cluster":2,
+    "Valuation ($B)":1.6,
+    "Year Joined":2015,
+    "Country":"United States",
+    "City":"Waltham",
+    "Industry":"Hardware",
+    "Select Inverstors":"TPG Growth, Goldman Sachs",
+    "Founded Year":2011,
+    "Investors Count":6,
+    "Total Raised($)":"3250000000.0",
+    "Transition Time(Years)":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Mu Sigma",
+    "Cluster":2,
+    "Valuation ($B)":1.5,
+    "Year Joined":2013,
+    "Country":"United States",
+    "City":"Northbrook",
+    "Industry":"Data management & analytics",
+    "Select Inverstors":"Sequoia Capital, General Atlantic",
+    "Founded Year":2004,
+    "Investors Count":8,
+    "Total Raised($)":"2080000000.0",
+    "Transition Time(Years)":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"K Health",
+    "Cluster":2,
+    "Valuation ($B)":1.5,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"New York",
+    "Industry":"Health",
+    "Select Inverstors":"Max Ventures, Mangrove Capital Partners, 14W",
+    "Founded Year":2016,
+    "Investors Count":19,
+    "Total Raised($)":"2780000000.0",
+    "Transition Time(Years)":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Snapdocs",
+    "Cluster":2,
+    "Valuation ($B)":1.5,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"San Francisco",
+    "Industry":"Fintech",
+    "Select Inverstors":"Sequoia Capital, Y Combinator, F-Prime Capital",
+    "Founded Year":2012,
+    "Investors Count":13,
+    "Total Raised($)":"2500000000.0",
+    "Transition Time(Years)":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Devo",
+    "Cluster":2,
+    "Valuation ($B)":1.5,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"Cambridge",
+    "Industry":"Data management & analytics",
+    "Select Inverstors":"Insight Partners, Kibo Ventures, Bessemer Venture Partners",
+    "Founded Year":2011,
+    "Investors Count":10,
+    "Total Raised($)":"3810000000.0",
+    "Transition Time(Years)":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Lusha",
+    "Cluster":2,
+    "Valuation ($B)":1.5,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"New York",
+    "Industry":"Internet software & services",
+    "Select Inverstors":"PSG, ION Crossover Partners",
+    "Founded Year":2016,
+    "Investors Count":2,
+    "Total Raised($)":"2450000000.0",
+    "Transition Time(Years)":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.8667654,31.5313113 ]
+    },
+    "properties": {
+    "Company":"StoreDot",
+    "Cluster":2,
+    "Valuation ($B)":1.5,
+    "Year Joined":2022,
+    "Country":"Israel",
+    "City":"Herzliya",
+    "Industry":"Other",
+    "Select Inverstors":"Samsung Ventures, SingulariTeam, BP Ventures",
+    "Founded Year":2012,
+    "Investors Count":14,
+    "Total Raised($)":"2060000000.0",
+    "Transition Time(Years)":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.999927,35.000074 ]
+    },
+    "properties": {
+    "Company":"Bordrin Motors",
+    "Cluster":2,
+    "Valuation ($B)":1.48,
+    "Year Joined":2019,
+    "Country":"China",
+    "City":"Shanghai",
+    "Industry":"Auto & transportation",
+    "Select Inverstors":"China Grand Prosperity Investment, CSC Group",
+    "Founded Year":2016,
+    "Investors Count":7,
+    "Total Raised($)":"3610000000.0",
+    "Transition Time(Years)":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.2765753,54.7023545 ]
+    },
+    "properties": {
+    "Company":"Gymshark",
+    "Cluster":2,
+    "Valuation ($B)":1.45,
+    "Year Joined":2020,
+    "Country":"United Kingdom",
+    "City":"Solihull",
+    "Industry":"E-commerce & direct-to-consumer",
+    "Select Inverstors":"General Atlantic",
+    "Founded Year":2012,
+    "Investors Count":1,
+    "Total Raised($)":"3000000000.0",
+    "Transition Time(Years)":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Zeta",
+    "Cluster":2,
+    "Valuation ($B)":1.45,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"San Francisco",
+    "Industry":"Fintech",
+    "Select Inverstors":"Sodexo Ventures, SoftBank Group",
+    "Founded Year":2015,
+    "Investors Count":5,
+    "Total Raised($)":"3030000000.0",
+    "Transition Time(Years)":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Aleo",
+    "Cluster":2,
+    "Valuation ($B)":1.45,
+    "Year Joined":2022,
+    "Country":"United States",
+    "City":"San Francisco",
+    "Industry":"Cybersecurity",
+    "Select Inverstors":"Slow Ventures, Andreessen Horowitz, SoftBank Group",
+    "Founded Year":2019,
+    "Investors Count":18,
+    "Total Raised($)":"2280000000.0",
+    "Transition Time(Years)":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.8667654,31.5313113 ]
+    },
+    "properties": {
+    "Company":"Firebolt",
+    "Cluster":2,
+    "Valuation ($B)":1.4,
+    "Year Joined":2022,
+    "Country":"Israel",
+    "City":"Tel Aviv",
+    "Industry":"Data management & analytics",
+    "Select Inverstors":"TLV Partners, Zeev Ventures, Bessemer Venture Partners",
+    "Founded Year":2019,
+    "Investors Count":9,
+    "Total Raised($)":"2640000000.0",
+    "Transition Time(Years)":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.999927,35.000074 ]
+    },
+    "properties": {
+    "Company":"Koudai",
+    "Cluster":2,
+    "Valuation ($B)":1.4,
+    "Year Joined":2014,
+    "Country":"China",
+    "City":"Beijing",
+    "Industry":"E-commerce & direct-to-consumer",
+    "Select Inverstors":"New Enterprise Associates, Tiger Global management, Tencent",
+    "Founded Year":2010,
+    "Investors Count":11,
+    "Total Raised($)":"3620000000.0",
+    "Transition Time(Years)":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Symphony",
+    "Cluster":2,
+    "Valuation ($B)":1.4,
+    "Year Joined":2017,
+    "Country":"United States",
+    "City":"New York",
+    "Industry":"Fintech",
+    "Select Inverstors":"BNP Paribas, Goldman Sachs, Google",
+    "Founded Year":2014,
+    "Investors Count":26,
+    "Total Raised($)":"4610000000.0",
+    "Transition Time(Years)":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Yotpo",
+    "Cluster":2,
+    "Valuation ($B)":1.4,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"New York",
+    "Industry":"Internet software & services",
+    "Select Inverstors":"Bessemer Venture Partners, Vintage Investment Partners, Blumberg Capital",
+    "Founded Year":2011,
+    "Investors Count":20,
+    "Total Raised($)":"4360000000.0",
+    "Transition Time(Years)":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.2765753,54.7023545 ]
+    },
+    "properties": {
+    "Company":"Tripledot Studios",
+    "Cluster":2,
+    "Valuation ($B)":1.4,
+    "Year Joined":2022,
+    "Country":"United Kingdom",
+    "City":"London",
+    "Industry":"Mobile & telecommunications",
+    "Select Inverstors":"Lightspeed Venture Partners, Access Industries, Eldridge",
+    "Founded Year":2017,
+    "Investors Count":5,
+    "Total Raised($)":"2020000000.0",
+    "Transition Time(Years)":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"At-Bay",
+    "Cluster":2,
+    "Valuation ($B)":1.35,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"Mountain View",
+    "Industry":"Fintech",
+    "Select Inverstors":"Lightspeed Venture Partners, Khosla Ventures, Munich Re Ventures",
+    "Founded Year":2016,
+    "Investors Count":11,
+    "Total Raised($)":"2920000000.0",
+    "Transition Time(Years)":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.999927,35.000074 ]
+    },
+    "properties": {
+    "Company":"TalkingData",
+    "Cluster":2,
+    "Valuation ($B)":1.3,
+    "Year Joined":2021,
+    "Country":"China",
+    "City":"Beijing",
+    "Industry":"Mobile & telecommunications",
+    "Select Inverstors":"N5 Capital, CR Capital Mgmt, JD Digits",
+    "Founded Year":2013,
+    "Investors Count":7,
+    "Total Raised($)":"3100000000.0",
+    "Transition Time(Years)":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Betterment",
+    "Cluster":2,
+    "Valuation ($B)":1.3,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"New York",
+    "Industry":"Fintech",
+    "Select Inverstors":"Bessemer Venture Partners, Menlo Ventures, Anthermis",
+    "Founded Year":2010,
+    "Investors Count":20,
+    "Total Raised($)":"4350000000.0",
+    "Transition Time(Years)":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"YugaByte",
+    "Cluster":2,
+    "Valuation ($B)":1.3,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"Sunnyvale",
+    "Industry":"Data management & analytics",
+    "Select Inverstors":"Lightspeed Venture Partners, Dell Technologies Capital, Wipro Ventures",
+    "Founded Year":2016,
+    "Investors Count":10,
+    "Total Raised($)":"2900000000.0",
+    "Transition Time(Years)":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Domestika",
+    "Cluster":2,
+    "Valuation ($B)":1.3,
+    "Year Joined":2022,
+    "Country":"United States",
+    "City":"Berkeley",
+    "Industry":"Internet software & services",
+    "Select Inverstors":"Zeev Ventures, GSV Ventures",
+    "Founded Year":2012,
+    "Investors Count":2,
+    "Total Raised($)":"2000000000.0",
+    "Transition Time(Years)":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.2765753,54.7023545 ]
+    },
+    "properties": {
+    "Company":"OVO Energy",
+    "Cluster":2,
+    "Valuation ($B)":1.28,
+    "Year Joined":2019,
+    "Country":"United Kingdom",
+    "City":"Bristol",
+    "Industry":"Other",
+    "Select Inverstors":"Mitsubishi Corporation, Mayfair Equity Partners",
+    "Founded Year":2009,
+    "Investors Count":2,
+    "Total Raised($)":"2560000000.0",
+    "Transition Time(Years)":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Mythical Games",
+    "Cluster":2,
+    "Valuation ($B)":1.25,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"Sherman Oaks",
+    "Industry":"Internet software & services",
+    "Select Inverstors":"Javelin Venture Partners, Struck Capital, Alumni Ventures Group",
+    "Founded Year":2018,
+    "Investors Count":31,
+    "Total Raised($)":"2600000000.0",
+    "Transition Time(Years)":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Incode Technologies",
+    "Cluster":2,
+    "Valuation ($B)":1.25,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"San Francisco",
+    "Industry":"Cybersecurity",
+    "Select Inverstors":"Dila Capital, Framework Ventures, 3L",
+    "Founded Year":2015,
+    "Investors Count":12,
+    "Total Raised($)":"2550000000.0",
+    "Transition Time(Years)":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Route",
+    "Cluster":2,
+    "Valuation ($B)":1.25,
+    "Year Joined":2022,
+    "Country":"United States",
+    "City":"Lehi",
+    "Industry":"Supply chain, logistics, & delivery",
+    "Select Inverstors":"Madrona Venture Group, Banner Ventures, FJ Labs",
+    "Founded Year":2018,
+    "Investors Count":11,
+    "Total Raised($)":"2470000000.0",
+    "Transition Time(Years)":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Axonius",
+    "Cluster":2,
+    "Valuation ($B)":1.2,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"New York",
+    "Industry":"Cybersecurity",
+    "Select Inverstors":"Vertex Ventures Israel, Bessemer Venture Partners, Emerge",
+    "Founded Year":2017,
+    "Investors Count":14,
+    "Total Raised($)":"1950000000.0",
+    "Transition Time(Years)":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Savage X Fenty",
+    "Cluster":2,
+    "Valuation ($B)":1.2,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"El Segundo",
+    "Industry":"E-commerce & direct-to-consumer",
+    "Select Inverstors":"Speedinvest, Valar Ventures, Uniqa Ventures",
+    "Founded Year":2018,
+    "Investors Count":9,
+    "Total Raised($)":"3100000000.0",
+    "Transition Time(Years)":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Inari",
+    "Cluster":2,
+    "Valuation ($B)":1.2,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"Cambridge",
+    "Industry":"Other",
+    "Select Inverstors":"Flagship Pioneering, Alexandria Venture Investments, Investment Corporation of Dubai",
+    "Founded Year":2016,
+    "Investors Count":10,
+    "Total Raised($)":"3970000000.0",
+    "Transition Time(Years)":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Alation",
+    "Cluster":2,
+    "Valuation ($B)":1.2,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"Redwood City",
+    "Industry":"Internet software & services",
+    "Select Inverstors":"Costanoa Ventures, Data Collective, Salesforce Ventures",
+    "Founded Year":2012,
+    "Investors Count":16,
+    "Total Raised($)":"1920000000.0",
+    "Transition Time(Years)":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.999927,35.000074 ]
+    },
+    "properties": {
+    "Company":"SmartMore",
+    "Cluster":2,
+    "Valuation ($B)":1.2,
+    "Year Joined":2021,
+    "Country":"China",
+    "City":"Shenzhen",
+    "Industry":"Artificial Intelligence",
+    "Select Inverstors":"IDG Capital, ZhenFund, Sequoia Capital China",
+    "Founded Year":2019,
+    "Investors Count":10,
+    "Total Raised($)":"3000000000.0",
+    "Transition Time(Years)":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.4749544,49.8167003 ]
+    },
+    "properties": {
+    "Company":"Rohlik",
+    "Cluster":2,
+    "Valuation ($B)":1.2,
+    "Year Joined":2021,
+    "Country":"Czech Republic",
+    "City":"Prague",
+    "Industry":"Supply chain, logistics, & delivery",
+    "Select Inverstors":"Partech Partners, Index Ventures, Quadrille Capital",
+    "Founded Year":2019,
+    "Investors Count":10,
+    "Total Raised($)":"3000000000.0",
+    "Transition Time(Years)":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Prime Medicine",
+    "Cluster":2,
+    "Valuation ($B)":1.2,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"Cambridge",
+    "Industry":"Health",
+    "Select Inverstors":"Newpath Partners, Google Ventures, F-Prime Capital",
+    "Founded Year":2019,
+    "Investors Count":11,
+    "Total Raised($)":"3150000000.0",
+    "Transition Time(Years)":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Jokr",
+    "Cluster":2,
+    "Valuation ($B)":1.2,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"New York",
+    "Industry":"E-commerce & direct-to-consumer",
+    "Select Inverstors":"GGV Capital, Tiger Global Management, Greycroft",
+    "Founded Year":2021,
+    "Investors Count":15,
+    "Total Raised($)":"4300000000.0",
+    "Transition Time(Years)":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.0077097,23.6585116 ]
+    },
+    "properties": {
+    "Company":"Merama",
+    "Cluster":2,
+    "Valuation ($B)":1.2,
+    "Year Joined":2021,
+    "Country":"Mexico",
+    "City":"Mexico City",
+    "Industry":"E-commerce & direct-to-consumer",
+    "Select Inverstors":"SoftBank Latin America Fund, Advent International, Balderton Capital",
+    "Founded Year":2020,
+    "Investors Count":12,
+    "Total Raised($)":"4450000000.0",
+    "Transition Time(Years)":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Helium Systems",
+    "Cluster":2,
+    "Valuation ($B)":1.2,
+    "Year Joined":2022,
+    "Country":"United States",
+    "City":"San Francisco",
+    "Industry":"Internet software & services",
+    "Select Inverstors":"FirstMark Capital, Tiger Global Management, FTX Venture",
+    "Founded Year":2013,
+    "Investors Count":16,
+    "Total Raised($)":"2510000000.0",
+    "Transition Time(Years)":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"IRL",
+    "Cluster":2,
+    "Valuation ($B)":1.17,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"San Francisco",
+    "Industry":"Internet software & services",
+    "Select Inverstors":"Goodwater Capital, Floodgate, Founders Fund",
+    "Founded Year":2017,
+    "Investors Count":12,
+    "Total Raised($)":"1970000000.0",
+    "Transition Time(Years)":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.999927,35.000074 ]
+    },
+    "properties": {
+    "Company":"SVOLT",
+    "Cluster":2,
+    "Valuation ($B)":1.16,
+    "Year Joined":2020,
+    "Country":"China",
+    "City":"Changzhou",
+    "Industry":"Auto & transportation",
+    "Select Inverstors":"IDG Capital, Bank Of China Group Investment,, SDIC CMC Investment Management",
+    "Founded Year":2018,
+    "Investors Count":30,
+    "Total Raised($)":"3207000000.0",
+    "Transition Time(Years)":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Guideline",
+    "Cluster":2,
+    "Valuation ($B)":1.15,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"San Mateo",
+    "Industry":"Fintech",
+    "Select Inverstors":"Pelion Venture Partners, Foundation Capital, Thoma Bravo",
+    "Founded Year":2015,
+    "Investors Count":14,
+    "Total Raised($)":"3390000000.0",
+    "Transition Time(Years)":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Sisense",
+    "Cluster":2,
+    "Valuation ($B)":1.1,
+    "Year Joined":2020,
+    "Country":"United States",
+    "City":"New York",
+    "Industry":"Data management & analytics",
+    "Select Inverstors":"Opus Capital, Genesis Partners, Battery Ventures",
+    "Founded Year":2004,
+    "Investors Count":10,
+    "Total Raised($)":"2780000000.0",
+    "Transition Time(Years)":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Pharmapacks",
+    "Cluster":2,
+    "Valuation ($B)":1.1,
+    "Year Joined":2020,
+    "Country":"United States",
+    "City":"Islandia",
+    "Industry":"E-commerce & direct-to-consumer",
+    "Select Inverstors":"The Carlyle Group",
+    "Founded Year":2010,
+    "Investors Count":10,
+    "Total Raised($)":"4760000000.0",
+    "Transition Time(Years)":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.8667654,31.5313113 ]
+    },
+    "properties": {
+    "Company":"Hailo",
+    "Cluster":2,
+    "Valuation ($B)":1,
+    "Year Joined":2021,
+    "Country":"Israel",
+    "City":"Tel Aviv",
+    "Industry":"Artificial intelligence",
+    "Select Inverstors":"Glory Ventures, Maniv Mobility",
+    "Founded Year":2017,
+    "Investors Count":18,
+    "Total Raised($)":"2170000000.0",
+    "Transition Time(Years)":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"People.ai",
+    "Cluster":2,
+    "Valuation ($B)":1.1,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"San Francisco",
+    "Industry":"Internet software & services",
+    "Select Inverstors":"GGV Capital, Lightspeed Venture Partners, ICONIQ Capital",
+    "Founded Year":2017,
+    "Investors Count":18,
+    "Total Raised($)":"2170000000.0",
+    "Transition Time(Years)":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.6677428,22.3511148 ]
+    },
+    "properties": {
+    "Company":"Acko General Insurance",
+    "Cluster":2,
+    "Valuation ($B)":1.1,
+    "Year Joined":2021,
+    "Country":"India",
+    "City":"Bengaluru",
+    "Industry":"Fintech",
+    "Select Inverstors":"Intact Ventures, Munich Re Ventures, General Atlantic",
+    "Founded Year":2016,
+    "Investors Count":22,
+    "Total Raised($)":"4280000000.0",
+    "Transition Time(Years)":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Beyond Identity",
+    "Cluster":2,
+    "Valuation ($B)":1.1,
+    "Year Joined":2022,
+    "Country":"United States",
+    "City":"New York",
+    "Industry":"Cybersecurity",
+    "Select Inverstors":"New Enterprise Associates, Koch Disruptive Technologies, Evolution Equity Partners",
+    "Founded Year":2019,
+    "Investors Count":7,
+    "Total Raised($)":"2050000000.0",
+    "Transition Time(Years)":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Lookout",
+    "Cluster":2,
+    "Valuation ($B)":1,
+    "Year Joined":2013,
+    "Country":"United States",
+    "City":"San Francisco",
+    "Industry":"Cybersecurity",
+    "Select Inverstors":"Accel Partners, Greylock Partners, Lowercase Capital",
+    "Founded Year":2007,
+    "Investors Count":26,
+    "Total Raised($)":"2810000000.0",
+    "Transition Time(Years)":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"TechStyle Fashion Group",
+    "Cluster":2,
+    "Valuation ($B)":1,
+    "Year Joined":2014,
+    "Country":"United States",
+    "City":"El Segundo",
+    "Industry":"E-commerce & direct-to-consumer",
+    "Select Inverstors":"Matrix Partners, Passport Capital, Rho Ventures",
+    "Founded Year":2010,
+    "Investors Count":11,
+    "Total Raised($)":"3000000000.0",
+    "Transition Time(Years)":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.999927,35.000074 ]
+    },
+    "properties": {
+    "Company":"FXiaoKe",
+    "Cluster":2,
+    "Valuation ($B)":1,
+    "Year Joined":2015,
+    "Country":"China",
+    "City":"Beijing",
+    "Industry":"Mobile & telecommunications",
+    "Select Inverstors":"IDG Capital, Northern Light Venture Capital, DCM Ventures",
+    "Founded Year":2011,
+    "Investors Count":14,
+    "Total Raised($)":"2930000000.0",
+    "Transition Time(Years)":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.999927,35.000074 ]
+    },
+    "properties": {
+    "Company":"58 Daojia",
+    "Cluster":2,
+    "Valuation ($B)":1,
+    "Year Joined":2015,
+    "Country":"China",
+    "City":"Beijing",
+    "Industry":"Internet software & services",
+    "Select Inverstors":"KKR, Alibaba Group, Ping An Insurance",
+    "Founded Year":2014,
+    "Investors Count":3,
+    "Total Raised($)":"3000000000.0",
+    "Transition Time(Years)":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.999927,35.000074 ]
+    },
+    "properties": {
+    "Company":"Womai",
+    "Cluster":2,
+    "Valuation ($B)":1,
+    "Year Joined":2015,
+    "Country":"China",
+    "City":"Beijing",
+    "Industry":"E-commerce & direct-to-consumer",
+    "Select Inverstors":"SAIF Partners China, Baidu, IDG Capital",
+    "Founded Year":2009,
+    "Investors Count":5,
+    "Total Raised($)":"3200000000.0",
+    "Transition Time(Years)":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.999927,35.000074 ]
+    },
+    "properties": {
+    "Company":"iTutorGroup",
+    "Cluster":2,
+    "Valuation ($B)":1,
+    "Year Joined":2015,
+    "Country":"China",
+    "City":"Shanghai",
+    "Industry":"Edtech",
+    "Select Inverstors":"QiMing Venture Partners, Temasek Holdings, Silverlink Capital",
+    "Founded Year":1998,
+    "Investors Count":10,
+    "Total Raised($)":"3150000000.0",
+    "Transition Time(Years)":17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.999927,35.000074 ]
+    },
+    "properties": {
+    "Company":"iCarbonX",
+    "Cluster":2,
+    "Valuation ($B)":1,
+    "Year Joined":2016,
+    "Country":"China",
+    "City":"Shenzhen",
+    "Industry":"Artificial intelligence",
+    "Select Inverstors":"Tencent, Vcanbio",
+    "Founded Year":2015,
+    "Investors Count":3,
+    "Total Raised($)":"1990000000.0",
+    "Transition Time(Years)":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"SMS Assist",
+    "Cluster":2,
+    "Valuation ($B)":1,
+    "Year Joined":2016,
+    "Country":"United States",
+    "City":"Chicago",
+    "Industry":"Internet software & services",
+    "Select Inverstors":"Goldman Sachs, Insights Venture Partners, Pritzker Group Venture Capital",
+    "Founded Year":2003,
+    "Investors Count":3,
+    "Total Raised($)":"2550000000.0",
+    "Transition Time(Years)":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.999927,35.000074 ]
+    },
+    "properties": {
+    "Company":"Maimai",
+    "Cluster":2,
+    "Valuation ($B)":1,
+    "Year Joined":2017,
+    "Country":"China",
+    "City":"Beijing",
+    "Industry":"Mobile & telecommunications",
+    "Select Inverstors":"Morningside Venture Capital, IDG Capital, DCM Ventures",
+    "Founded Year":2013,
+    "Investors Count":5,
+    "Total Raised($)":"3000000000.0",
+    "Transition Time(Years)":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.999927,35.000074 ]
+    },
+    "properties": {
+    "Company":"Orbbec Technology",
+    "Cluster":2,
+    "Valuation ($B)":1,
+    "Year Joined":2018,
+    "Country":"China",
+    "City":"Shenzhen",
+    "Industry":"Hardware",
+    "Select Inverstors":"R-Z Capital, Green Pine Capital Partners, SAIF Partners China",
+    "Founded Year":2013,
+    "Investors Count":8,
+    "Total Raised($)":"2000000000.0",
+    "Transition Time(Years)":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.9209164,63.2467777 ]
+    },
+    "properties": {
+    "Company":"HMD Global",
+    "Cluster":2,
+    "Valuation ($B)":1,
+    "Year Joined":2018,
+    "Country":"Finland",
+    "City":"Espoo",
+    "Industry":"Mobile & telecommunications",
+    "Select Inverstors":"Ginko Ventures",
+    "Founded Year":2016,
+    "Investors Count":6,
+    "Total Raised($)":"3300000000.0",
+    "Transition Time(Years)":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -53.2,-10.3333333 ]
+    },
+    "properties": {
+    "Company":"Movile",
+    "Cluster":2,
+    "Valuation ($B)":1,
+    "Year Joined":2018,
+    "Country":"Brazil",
+    "City":"Sao Paulo",
+    "Industry":"Mobile & telecommunications",
+    "Select Inverstors":"Innova Capital - FIP, 3G Capital Management, Prosus Ventures",
+    "Founded Year":1998,
+    "Investors Count":4,
+    "Total Raised($)":"3940000000.0",
+    "Transition Time(Years)":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.999927,35.000074 ]
+    },
+    "properties": {
+    "Company":"FlashEx",
+    "Cluster":2,
+    "Valuation ($B)":1,
+    "Year Joined":2018,
+    "Country":"China",
+    "City":"Beijing",
+    "Industry":"Supply chain, logistics, & delivery",
+    "Select Inverstors":"Prometheus Capital, Matrix Partners China, JD Capital Management",
+    "Founded Year":2014,
+    "Investors Count":22,
+    "Total Raised($)":"3390000000.0",
+    "Transition Time(Years)":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.4234469,51.0834196 ]
+    },
+    "properties": {
+    "Company":"Omio",
+    "Cluster":2,
+    "Valuation ($B)":1,
+    "Year Joined":2018,
+    "Country":"Germany",
+    "City":"Berlin",
+    "Industry":"Travel",
+    "Select Inverstors":"Lakestar, Battery Ventures, New Enterprise Associates",
+    "Founded Year":2013,
+    "Investors Count":22,
+    "Total Raised($)":"3960000000.0",
+    "Transition Time(Years)":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.6961188,36.638392 ]
+    },
+    "properties": {
+    "Company":"Yanolja",
+    "Cluster":2,
+    "Valuation ($B)":1,
+    "Year Joined":2019,
+    "Country":"South Korea",
+    "City":"Seoul",
+    "Industry":"Travel",
+    "Select Inverstors":"SBI Investment Korea, Partners Investment, GIC",
+    "Founded Year":2005,
+    "Investors Count":11,
+    "Total Raised($)":"2036000000.0",
+    "Transition Time(Years)":14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -53.2,-10.3333333 ]
+    },
+    "properties": {
+    "Company":"EBANX",
+    "Cluster":2,
+    "Valuation ($B)":1,
+    "Year Joined":2019,
+    "Country":"Brazil",
+    "City":"Curitiba",
+    "Industry":"Fintech",
+    "Select Inverstors":"FTV Capital, Endeavor",
+    "Founded Year":2012,
+    "Investors Count":3,
+    "Total Raised($)":"4600000000.0",
+    "Transition Time(Years)":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 53.9994829,24.0002488 ]
+    },
+    "properties": {
+    "Company":"Emerging Markets Property Group",
+    "Cluster":2,
+    "Valuation ($B)":1,
+    "Year Joined":2020,
+    "Country":"United Arab Emirates",
+    "City":"Dubai",
+    "Industry":"Other",
+    "Select Inverstors":"OLX Group, KCK Group, EXOR Seeds",
+    "Founded Year":2015,
+    "Investors Count":3,
+    "Total Raised($)":"2790000000.0",
+    "Transition Time(Years)":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Orca Bio",
+    "Cluster":2,
+    "Valuation ($B)":1,
+    "Year Joined":2020,
+    "Country":"United States",
+    "City":"Menlo Park",
+    "Industry":"Health",
+    "Select Inverstors":"Lightspeed Venture Partners, Data Collective, 8VC",
+    "Founded Year":2016,
+    "Investors Count":7,
+    "Total Raised($)":"1920000000.0",
+    "Transition Time(Years)":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.2765753,54.7023545 ]
+    },
+    "properties": {
+    "Company":"Gousto",
+    "Cluster":2,
+    "Valuation ($B)":1.7,
+    "Year Joined":2020,
+    "Country":"United Kingdom",
+    "City":"London",
+    "Industry":"Supply chain, logistics, & delivery",
+    "Select Inverstors":"MMC Ventures, BGF Ventures, Unilever Ventures",
+    "Founded Year":2012,
+    "Investors Count":16,
+    "Total Raised($)":"3610000000.0",
+    "Transition Time(Years)":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Quantum Metric",
+    "Cluster":2,
+    "Valuation ($B)":1,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"Colorado Springs",
+    "Industry":"Data management & analytics",
+    "Select Inverstors":"Insight Partners, Bain Capital Ventures",
+    "Founded Year":2015,
+    "Investors Count":6,
+    "Total Raised($)":"2510000000.0",
+    "Transition Time(Years)":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.2765753,54.7023545 ]
+    },
+    "properties": {
+    "Company":"PPRO",
+    "Cluster":2,
+    "Valuation ($B)":1,
+    "Year Joined":2021,
+    "Country":"United Kingdom",
+    "City":"London",
+    "Industry":"Fintech",
+    "Select Inverstors":"Wellington Management, Eurazeo, Citi Ventures",
+    "Founded Year":2006,
+    "Investors Count":9,
+    "Total Raised($)":"3700000000.0",
+    "Transition Time(Years)":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.8667654,31.5313113 ]
+    },
+    "properties": {
+    "Company":"DriveNets",
+    "Cluster":2,
+    "Valuation ($B)":1,
+    "Year Joined":2021,
+    "Country":"Israel",
+    "City":"Ra'anana",
+    "Industry":"Internet software & services",
+    "Select Inverstors":"Bessemer Venture Partners, Pitango Venture Capital, D1 Capital Partners",
+    "Founded Year":2015,
+    "Investors Count":10,
+    "Total Raised($)":"3250000000.0",
+    "Transition Time(Years)":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.83273,14.8971921 ]
+    },
+    "properties": {
+    "Company":"Flash Express",
+    "Cluster":2,
+    "Valuation ($B)":1,
+    "Year Joined":2021,
+    "Country":"Thailand",
+    "City":"Bangkok",
+    "Industry":"Supply chain, logistics, & delivery",
+    "Select Inverstors":"SCB 10X, Krungsri Finnovate, eWTP Capital",
+    "Founded Year":2017,
+    "Investors Count":10,
+    "Total Raised($)":"3600000000.0",
+    "Transition Time(Years)":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Axiom Space",
+    "Cluster":2,
+    "Valuation ($B)":1,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"Houston",
+    "Industry":"Other",
+    "Select Inverstors":"C5 Capital, Hemisphere Ventures, The Venture Collective",
+    "Founded Year":2016,
+    "Investors Count":12,
+    "Total Raised($)":"2300000000.0",
+    "Transition Time(Years)":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Skydio",
+    "Cluster":2,
+    "Valuation ($B)":1,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"Redwood City",
+    "Industry":"Supply chain, logistics, & delivery",
+    "Select Inverstors":"Andreessen Horowitz, Andreessen Horowitz, Institutional Venture Partners, Accel",
+    "Founded Year":2014,
+    "Investors Count":12,
+    "Total Raised($)":"3440000000.0",
+    "Transition Time(Years)":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.8667654,31.5313113 ]
+    },
+    "properties": {
+    "Company":"Aqua Security",
+    "Cluster":2,
+    "Valuation ($B)":1,
+    "Year Joined":2021,
+    "Country":"Israel",
+    "City":"Ramat Gan",
+    "Industry":"Cybersecurity",
+    "Select Inverstors":"TLV Partners, Lightspeed Venture Partners, M12",
+    "Founded Year":2015,
+    "Investors Count":9,
+    "Total Raised($)":"2650000000.0",
+    "Transition Time(Years)":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Clearcover",
+    "Cluster":2,
+    "Valuation ($B)":1,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"Chicago",
+    "Industry":"Fintech",
+    "Select Inverstors":"American Family Ventures, Cox Enterprises, OMERS Ventures",
+    "Founded Year":2016,
+    "Investors Count":10,
+    "Total Raised($)":"3070000000.0",
+    "Transition Time(Years)":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.999927,35.000074 ]
+    },
+    "properties": {
+    "Company":"Fiture",
+    "Cluster":2,
+    "Valuation ($B)":1,
+    "Year Joined":2021,
+    "Country":"China",
+    "City":"Chengdu",
+    "Industry":"Health",
+    "Select Inverstors":"Bertelsmann Asia Investments, Sequoia Capital China, NIO Capital",
+    "Founded Year":2019,
+    "Investors Count":15,
+    "Total Raised($)":"3910000000.0",
+    "Transition Time(Years)":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.999927,35.000074 ]
+    },
+    "properties": {
+    "Company":"XForcePlus",
+    "Cluster":2,
+    "Valuation ($B)":1,
+    "Year Joined":2021,
+    "Country":"China",
+    "City":"Shanghai",
+    "Industry":"Internet software & services",
+    "Select Inverstors":"Eastern Bell Capital, Danhua Capital, MSA Capital",
+    "Founded Year":2015,
+    "Investors Count":12,
+    "Total Raised($)":"2000000000.0",
+    "Transition Time(Years)":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.9794599,52.865196 ]
+    },
+    "properties": {
+    "Company":"LetsGetChecked",
+    "Cluster":2,
+    "Valuation ($B)":1,
+    "Year Joined":2021,
+    "Country":"Ireland",
+    "City":"Dublin",
+    "Industry":"Health",
+    "Select Inverstors":"Optum Ventures, Qiming Venture Partners, Transformation Capital",
+    "Founded Year":2015,
+    "Investors Count":10,
+    "Total Raised($)":"2630000000.0",
+    "Transition Time(Years)":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.4234469,51.0834196 ]
+    },
+    "properties": {
+    "Company":"Agile Robots",
+    "Cluster":2,
+    "Valuation ($B)":1,
+    "Year Joined":2021,
+    "Country":"Germany",
+    "City":"Munich",
+    "Industry":"Hardware",
+    "Select Inverstors":"Hillhouse Capital Management, Sequoia Capital China, Linear Venture",
+    "Founded Year":2018,
+    "Investors Count":14,
+    "Total Raised($)":"3500000000.0",
+    "Transition Time(Years)":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.6677428,22.3511148 ]
+    },
+    "properties": {
+    "Company":"Licious",
+    "Cluster":2,
+    "Valuation ($B)":1,
+    "Year Joined":2021,
+    "Country":"India",
+    "City":"Bengaluru",
+    "Industry":"E-commerce & direct-to-consumer",
+    "Select Inverstors":"3one4 Capital Partners, Bertelsmann India Investments, Vertex Ventures SE Asia",
+    "Founded Year":2015,
+    "Investors Count":21,
+    "Total Raised($)":"3380000000.0",
+    "Transition Time(Years)":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Augury",
+    "Cluster":2,
+    "Valuation ($B)":1,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"New York",
+    "Industry":"Artificial intelligence",
+    "Select Inverstors":"Lerer Hippeau, Munich Re Ventures, Eclipse Ventures",
+    "Founded Year":2011,
+    "Investors Count":13,
+    "Total Raised($)":"2940000000.0",
+    "Transition Time(Years)":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"OpenWeb",
+    "Cluster":2,
+    "Valuation ($B)":1,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"New York",
+    "Industry":"Internet software & services",
+    "Select Inverstors":"Insight Partners, AltaIR Capital, Norma Investments",
+    "Founded Year":2012,
+    "Investors Count":23,
+    "Total Raised($)":"2130000000.0",
+    "Transition Time(Years)":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Contrast Security",
+    "Cluster":2,
+    "Valuation ($B)":1,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"Los Altos",
+    "Industry":"Cybersecurity",
+    "Select Inverstors":"Acero Capital, General Catalyst, M12",
+    "Founded Year":2014,
+    "Investors Count":11,
+    "Total Raised($)":"2690000000.0",
+    "Transition Time(Years)":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Lessen",
+    "Cluster":2,
+    "Valuation ($B)":1,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"Scottsdale",
+    "Industry":"Internet software & services",
+    "Select Inverstors":"Khosla Ventures, General Catalyst, Navitas Capital",
+    "Founded Year":2019,
+    "Investors Count":4,
+    "Total Raised($)":"2050000000.0",
+    "Transition Time(Years)":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"ReliaQuest",
+    "Cluster":2,
+    "Valuation ($B)":1,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"Tampa",
+    "Industry":"Cybersecurity",
+    "Select Inverstors":"KKR, FTV Capital, Ten Eleven Ventures",
+    "Founded Year":2007,
+    "Investors Count":4,
+    "Total Raised($)":"3300000000.0",
+    "Transition Time(Years)":14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"Noname Security",
+    "Cluster":2,
+    "Valuation ($B)":1,
+    "Year Joined":2021,
+    "Country":"United States",
+    "City":"Palo Alto",
+    "Industry":"Cybersecurity",
+    "Select Inverstors":"Insight Partners, Lightspeed Venture Partners, CyberStarts",
+    "Founded Year":2020,
+    "Investors Count":7,
+    "Total Raised($)":"2200000000.0",
+    "Transition Time(Years)":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.8902853,-2.4833826 ]
+    },
+    "properties": {
+    "Company":"Kopi Kenangan",
+    "Cluster":2,
+    "Valuation ($B)":1,
+    "Year Joined":2021,
+    "Country":"Indonesia",
+    "City":"Jakarta",
+    "Industry":"Consumer & retail",
+    "Select Inverstors":"Horizons Ventures, Sequoia Capital India, Alpha JWC Ventures",
+    "Founded Year":2017,
+    "Investors Count":13,
+    "Total Raised($)":"2330000000.0",
+    "Transition Time(Years)":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "Company":"CAIS",
+    "Cluster":2,
+    "Valuation ($B)":1,
+    "Year Joined":2022,
+    "Country":"United States",
+    "City":"New York",
+    "Industry":"Fintech",
+    "Select Inverstors":"Franklin Templeton, Motive Partners. Apollo Global Management",
+    "Founded Year":2009,
+    "Investors Count":7,
+    "Total Raised($)":"2830000000.0",
+    "Transition Time(Years)":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.8667654,31.5313113 ]
+    },
+    "properties": {
+    "Company":"Pentera",
+    "Cluster":2,
+    "Valuation ($B)":1,
+    "Year Joined":2022,
+    "Country":"Israel",
+    "City":"Petah Tikva",
+    "Industry":"Cybersecurity",
+    "Select Inverstors":"AWZ Ventures, Blackstone, Insight Partners",
+    "Founded Year":2015,
+    "Investors Count":6,
+    "Total Raised($)":"1850000000.0",
+    "Transition Time(Years)":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2319736,46.7985624 ]
+    },
+    "properties": {
+    "Company":"Scandit",
+    "Cluster":2,
+    "Valuation ($B)":1,
+    "Year Joined":2022,
+    "Country":"Switzerland",
+    "City":"Zurich",
+    "Industry":"Supply chain, logistics, & delivery",
+    "Select Inverstors":"Atomico, NGP Capital, Google Ventures",
+    "Founded Year":2009,
+    "Investors Count":12,
+    "Total Raised($)":"2730000000.0",
+    "Transition Time(Years)":13
+    }
+  }
+]
+}
