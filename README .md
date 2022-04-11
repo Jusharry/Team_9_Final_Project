@@ -71,7 +71,7 @@ Using the Tableau, we used three color schemes, Gold, silver, and bronze to disp
 
 A graphical representation that shows relationships among Industries, Company_earnings, Company_info, Investor_info, and Status
 
-![plot](Resources/Images/ERD.png)
+![Screenshot](Resources/ERD.png)
 
 ## Results:
 [Tableau](https://public.tableau.com/app/profile/zeinab.homayounmher/viz/UnicornCompany_16492890602400/test?publish=yes)
@@ -101,13 +101,13 @@ calling:
  y-axis as Total Raised ($)
  z-axis as Transition Time (Year)
 
-![plot](Resources/Images/3d_k_means.png)
+![screenshot](Resources/Screenshots/3d_k_means.png)
 
 Tested cluster amount and call out x and y-axis 
  x= Valuation ($B) 
  y= Total Raised ($)
 
-![plot](Resources/Images/K_means_cluster_plot.png)
+![screenshot](Resources/Screenshots/K_means_cluster_plot.png)
 
 
 ## Group Presentation
