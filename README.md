@@ -59,7 +59,8 @@ The following lists the technologies used for this project:
 
 Using the Tableau, we used three color schemes, Gold, silver, and bronze to display Valuations (B$) based on the cluster, the Average transition time in each cluster, the main industries in each cluster, and a map showing the percentage of clusters by country
 
- ![plot]()
+ ![plot](<img width="960" alt="Tableau" src="https://user-images.githubusercontent.com/92246505/162660305-36418657-db81-438a-a88b-f928fdbe5bde.png">
+)
 
 ## Entity Relationship Diagram (ERD)
 
