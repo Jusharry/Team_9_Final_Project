@@ -10,6 +10,6 @@ The reason the Team chose this topic is the relativity of the dataset in the cur
 ![screenshot](Resources/Screenshots/3d_k_means.png)
 
 
-[Google Slides](https://utoronto-my.sharepoint.com/:p:/r/personal/dhru_gohil_mail_utoronto_ca/_layouts/15/[…]action=default&cid=2f5179d3-f147-4f56-97b1-418b371fe4a1) 
+[Google Slides](https://github.com/Jusharry/Team_9_Final_Project/blob/main/Presentation%20(1).pdf) 
 
 
