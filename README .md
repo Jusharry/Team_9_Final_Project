@@ -1,24 +1,8 @@
 # Team_9_Final_Project
 
-Questions to answer :
+Unicorn" is a term used in the venture capital industry to describe a privately owned startup company with a value of over $1 billion. The term was first popularized by venture capitalist Aileen Lee, founder of Cowboy Ventures, a seed-stage venture capital fund based in Palo Alto, California.In this project the Team wishing to establish the relationship between the country of origin,industry and the transition time it takes for a company to raise enough capital to be considered a Unicorn company using the supervised and unsupervised machine learning algorithms, and using tableau to display and tell the story. The Team reviewed multiple datasets and agreed on this one after checking the steps used to preprocess the data. As the project progresses the team plan is to incorporate other datasets with similar characteristics and compare the trajectory of nonUnicorns companies.
 
-* Selected topic - Unicorn Companies Dataset
-
-* Reason the topic was selected - Unicorn companies are companies that have a valuation of at least 1B .The relativity of the dataset in the current economic climate and the unique projected value of these companies makes this project interesting. The dataset has mainly categorical data which will be used to show the current state of the companies under review.
-
-
-* Description of the source of data - Kaggle
-
-* Questions the team hopes to answer with the data - To establish the relationship between the country of origin,industry and the time it takes for a company to raise enough capital to be considered a Unicorn company
-
-* Description of the data exploration phase of the project- We reviewed multiple possible data sets and landed on this one after checking the steps used to preprocess the data. As the project progresses the plan is to incorporate other datasets with similar characteristics and compare the trajecory of non Unicorns.
-
-* Description of the analysis phase of the project - Using Pandas and Jupyter Notebook the original dataset Unicorn Companies.csv was used and evaluated for relevance of the data towards the objective of the project. Eventually, columns that provided little useful information were dropped and the remaining columsns were used to extract the required data.
-
-* Technologies, languages, tools, and algorithms used throughout the project - Througout the project Pandas, Jupyter Notebook , Postgres SQL and Tableau will be used.
-
-* Result of analysis - 
-Initially the objective of the project was to ue the dataset to determine the likelihood that a unicorn company would be acquired or have another transitionary development. It was soon discovered that a categorocal outcome of this nature would not be possible as only 2% of companies achieve any status. The analysis then shifted to use unsupervised ML where the relationships between the data could be represented. We used Kmeans for clustering and then visualized the results using scatter plots. 
+The reason the Team chose this topic is the relativity of the dataset in the current economic climate and the unique projected value of these companies makes this project interesting. The dataset also has good mix of continuous and categorical data.
 
 ![screenshot](Resources/Screenshots/K_means_cluster_plot.png)
 
@@ -26,7 +10,6 @@ Initially the objective of the project was to ue the dataset to determine the li
 ![screenshot](Resources/Screenshots/3d_k_means.png)
 
 
-* Recommendation for future analysis - 
+[Google Slides](https://utoronto-my.sharepoint.com/:p:/r/personal/dhru_gohil_mail_utoronto_ca/_layouts/15/[…]action=default&cid=2f5179d3-f147-4f56-97b1-418b371fe4a1) 
 
-* Anything the team would have done  - 
 
