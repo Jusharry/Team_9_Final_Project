@@ -5,9 +5,13 @@
 ## Project Team Members:
 
    Harold Fraser
+   
    Dhru Gohil
+   
    kajev Mylvaganam
+   
    Zeinab Homayounmehr
+   
    Joshua Osagie
 
 ## Reason Why we chose this topic:
