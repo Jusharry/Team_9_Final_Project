@@ -82,6 +82,8 @@ From the Unicorn company data, an Unsupervised dataset was created and made avai
 
 [India startup company code](https://github.com/Jusharry/Team_9_Final_Project/blob/Harry/India_startups.ipynb)
 
+[python database](https://github.com/Jusharry/Team_9_Final_Project/blob/Dhru/database_python.ipynb)
+
 
 ## The problem encountered when trying to reach the set goal
 
