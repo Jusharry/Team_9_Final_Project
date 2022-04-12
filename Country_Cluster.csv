@@ -1,0 +1,995 @@
+Cluster,Country
+2,China
+2,United States
+1,United States
+1,Sweden
+1,United States
+0,Australia
+0,United Kingdom
+1,United States
+1,United States
+0,United Kingdom
+0,Bahamas
+1,United States
+1,United States
+2,India
+0,China
+1,Indonesia
+1,United States
+1,China
+0,China
+0,China
+1,United States
+0,China
+0,United States
+0,United States
+0,United States
+1,United States
+1,United States
+0,United States
+0,United States
+0,United States
+0,China
+0,United States
+0,United States
+0,United States
+0,China
+2,United Kingdom
+0,Germany
+2,United States
+2,United States
+1,India
+1,Hong Kong
+0,United States
+0,United States
+0,United States
+0,United States
+1,United States
+1,United States
+1,United States
+0,United States
+0,United States
+0,China
+0,Germany
+0,United States
+2,Sweden
+0,United States
+1,China
+2,United States
+1,India
+2,United Kingdom
+0,Mexico
+0,United States
+1,United States
+1,Estonia
+1,United States
+2,United States
+0,United States
+2,China
+0,India
+0,United States
+2,United States
+1,United States
+0,United States
+0,Canada
+0,Turkey
+0,United States
+0,India
+0,South Korea
+0,United States
+0,United States
+2,United States
+0,United States
+1,United States
+0,China
+0,United States
+0,United States
+2,United States
+0,Canada
+1,China
+0,India
+0,Netherlands
+0,United States
+0,United States
+0,Germany
+0,United States
+0,United States
+2,United States
+1,United States
+0,China
+0,United States
+2,Israel
+0,United States
+0,India
+1,United States
+0,United States
+1,China
+0,China
+0,United States
+0,United States
+1,United States
+0,France
+0,Finland
+1,United States
+0,United States
+0,United States
+0,Germany
+1,Colombia
+0,Belgium
+0,United Kingdom
+0,United States
+0,Brazil
+2,China
+1,China
+0,United States
+2,Australia
+0,Netherlands
+1,China
+2,China
+0,United Kingdom
+0,United States
+2,United Kingdom
+0,United Kingdom
+0,Israel
+0,India
+0,United States
+0,France
+0,India
+0,United States
+0,Canada
+0,India
+0,United States
+0,Brazil
+0,Denmark
+0,United States
+0,United States
+0,United States
+2,United States
+0,United States
+0,China
+0,Lithuania
+0,China
+0,United States
+0,United Kingdom
+0,China
+0,United States
+2,China
+0,United States
+0,United States
+0,France
+0,United States
+0,China
+0,United States
+0,United States
+0,United States
+0,United States
+0,United States
+0,Austria
+0,United States
+0,United States
+0,South Korea
+0,China
+0,United Kingdom
+1,United States
+0,United States
+2,United States
+0,United States
+0,Canada
+1,Ireland
+0,United States
+2,United States
+2,United States
+2,United States
+2,United States
+2,United States
+0,United States
+2,United States
+0,United States
+0,China
+0,United States
+2,United States
+0,Netherlands
+0,United States
+0,United States
+1,United States
+2,United States
+2,United States
+1,United States
+0,United States
+0,United States
+2,United States
+1,United States
+0,India
+0,United States
+0,United States
+1,United States
+0,United States
+0,Germany
+0,United States
+0,Singapore
+0,United States
+0,India
+0,United States
+2,France
+2,United States
+1,United States
+0,United States
+0,Austria
+0,United States
+0,United States
+0,United States
+0,United States
+0,India
+2,United States
+0,India
+0,China
+0,United States
+0,United States
+0,China
+0,China
+0,United States
+0,United States
+1,United States
+0,South Korea
+0,India
+0,United States
+0,China
+0,United States
+0,United States
+0,India
+1,Canada
+0,United States
+0,United States
+0,United States
+1,United States
+0,United States
+2,United States
+0,India
+1,United States
+0,Brazil
+0,India
+2,China
+0,Indonesia
+0,China
+2,United Kingdom
+0,United States
+1,China
+0,India
+0,Germany
+0,Brazil
+0,Canada
+2,United States
+0,United States
+0,United States
+1,United States
+0,United Kingdom
+0,United States
+0,United States
+0,United States
+1,Germany
+0,United States
+0,United States
+0,United States
+0,Germany
+0,Vietnam
+0,United States
+0,United States
+0,India
+0,United States
+0,United States
+1,United States
+0,United States
+0,United States
+0,United States
+1,Hong Kong
+0,United States
+0,United States
+0,Indonesia
+0,United States
+2,Brazil
+0,India
+0,United States
+0,Germany
+0,China
+2,France
+0,United States
+2,United Kingdom
+0,United States
+0,United States
+0,United States
+0,Turkey
+2,Israel
+1,China
+0,United States
+0,United States
+1,United States
+0,France
+1,United States
+0,United States
+0,United States
+0,Singapore
+0,China
+0,United States
+0,United Arab Emirates
+0,China
+0,Switzerland
+0,United States
+0,India
+0,India
+0,United States
+2,Israel
+0,United States
+1,United States
+0,United States
+0,India
+0,United States
+1,United States
+2,Argentina
+0,India
+0,United States
+0,China
+0,China
+2,United States
+0,India
+1,United States
+1,United States
+0,United States
+0,United States
+0,United States
+0,United Kingdom
+0,Spain
+0,South Korea
+0,China
+0,France
+1,United States
+0,United States
+1,United States
+0,United States
+0,United States
+1,Belgium
+0,Vietnam
+0,France
+0,United States
+0,United States
+1,United States
+0,Germany
+0,South Korea
+0,United States
+0,Mexico
+0,United States
+0,United States
+0,United States
+2,China
+1,United States
+0,China
+1,United Kingdom
+0,China
+0,China
+0,United States
+0,United States
+1,Brazil
+2,India
+1,United States
+0,United States
+0,India
+0,United States
+1,United States
+0,United States
+0,United States
+0,United Kingdom
+1,Hong Kong
+0,United States
+0,France
+0,China
+1,United States
+0,United Kingdom
+0,Japan
+0,United States
+2,China
+0,United States
+0,United States
+1,China
+1,United States
+1,China
+0,United States
+0,China
+1,United States
+0,China
+0,United States
+0,United States
+0,United States
+0,Israel
+0,China
+1,China
+0,Canada
+0,United States
+0,Sweden
+2,United States
+0,United States
+0,United Kingdom
+0,China
+1,United States
+0,United States
+1,Netherlands
+0,Mexico
+0,Brazil
+0,United States
+0,Israel
+0,Luxembourg
+0,China
+0,United States
+2,United States
+2,Nigeria
+1,United States
+0,Japan
+0,United States
+0,United States
+0,China
+2,Singapore
+0,United States
+1,United States
+0,Germany
+0,Finland
+1,United States
+1,Philippines
+0,United States
+0,United Kingdom
+2,United States
+0,Israel
+0,United States
+0,United States
+1,United States
+0,France
+1,United States
+1,Indonesia
+0,United States
+1,China
+0,United Kingdom
+0,United States
+0,United States
+0,United States
+0,United States
+1,India
+0,China
+0,United States
+0,United States
+0,United States
+0,United States
+1,United States
+0,United States
+1,Israel
+0,United States
+0,China
+0,Canada
+0,India
+2,United States
+0,China
+0,United States
+0,United States
+0,United States
+0,United States
+0,United States
+0,France
+0,United States
+0,United States
+0,United States
+0,United States
+0,Malaysia
+0,United States
+0,United States
+0,France
+0,Germany
+1,Israel
+1,United States
+0,China
+1,United States
+0,India
+0,Germany
+1,United States
+0,Bermuda
+0,China
+0,United States
+2,United States
+0,United States
+0,Canada
+0,Australia
+0,United States
+0,Norway
+0,United States
+0,Japan
+0,United States
+0,United States
+0,United States
+0,United States
+0,Ireland
+2,South Africa
+0,China
+0,China
+0,China
+0,United States
+0,China
+1,United States
+0,China
+2,China
+0,United Kingdom
+0,China
+2,China
+0,China
+0,China
+0,United States
+2,United States
+0,United States
+0,United States
+1,United States
+0,United States
+1,United States
+0,United States
+0,France
+0,Israel
+0,China
+0,United States
+0,United States
+0,Chile
+0,Australia
+0,United States
+0,United States
+0,United States
+0,United Kingdom
+0,United States
+0,United States
+0,Thailand
+0,United States
+0,United States
+0,United States
+1,United States
+0,United States
+1,United States
+0,India
+0,United States
+0,Brazil
+0,United States
+0,United States
+1,Israel
+0,United States
+0,France
+0,Estonia
+0,United States
+0,India
+0,United States
+0,United States
+0,United States
+0,China
+1,China
+0,China
+0,China
+0,China
+1,United Kingdom
+1,United States
+0,United States
+1,United States
+0,Sweden
+0,United States
+0,United States
+0,United States
+0,Canada
+0,United States
+0,Belgium
+0,United States
+1,Israel
+1,China
+1,United States
+0,China
+0,Spain
+0,China
+0,France
+0,United States
+0,United States
+0,Sweden
+1,United States
+0,India
+0,India
+0,United States
+0,United States
+0,United States
+0,United States
+0,United States
+0,Germany
+0,United States
+0,United States
+0,United States
+1,United Kingdom
+0,Brazil
+0,China
+0,Hong Kong
+0,China
+1,United States
+0,United States
+0,United States
+0,United States
+0,United Kingdom
+0,South Korea
+0,United States
+0,United States
+0,South Korea
+0,China
+0,United States
+0,China
+0,United States
+0,United States
+0,Singapore
+0,Israel
+0,United States
+0,China
+1,China
+0,United States
+0,Mexico
+1,United States
+0,United States
+1,United States
+0,United States
+0,Spain
+0,United States
+1,United States
+0,United States
+0,United States
+0,China
+0,United States
+0,United States
+1,United Kingdom
+0,China
+0,United States
+2,China
+0,United Kingdom
+0,United States
+1,United States
+1,United States
+0,United States
+0,Ireland
+1,United States
+0,United States
+0,United Kingdom
+0,China
+2,United States
+0,Canada
+0,China
+0,Japan
+0,Turkey
+2,China
+0,United States
+0,Ireland
+0,United States
+0,United States
+0,United States
+1,United States
+1,United States
+0,China
+0,China
+0,United States
+0,United States
+0,Canada
+1,United States
+1,United States
+0,Germany
+1,China
+1,Czech Republic
+1,United States
+0,United States
+0,United States
+0,India
+0,United States
+0,Norway
+0,United States
+0,United States
+0,United States
+0,India
+0,India
+0,United States
+0,India
+1,United States
+1,Mexico
+0,United States
+0,United States
+0,United States
+0,India
+0,India
+1,United States
+0,United States
+0,South Korea
+0,China
+0,China
+0,China
+0,United States
+1,United States
+0,China
+1,China
+0,Colombia
+0,United States
+1,United States
+0,United States
+0,United States
+0,France
+0,United States
+0,China
+0,United States
+0,United States
+0,China
+0,France
+0,United States
+0,Germany
+0,United States
+1,United States
+1,United States
+0,Germany
+0,Switzerland
+0,United Kingdom
+0,United States
+0,United States
+0,United States
+1,Israel
+1,United States
+0,India
+1,Singapore
+0,India
+0,United States
+0,Germany
+1,India
+0,United States
+0,United Kingdom
+0,United States
+0,United States
+0,India
+0,India
+0,Canada
+1,United States
+0,China
+0,China
+0,United States
+0,United Kingdom
+0,India
+0,India
+0,China
+0,United States
+0,United States
+0,United States
+0,United States
+0,South Korea
+0,Israel
+0,China
+1,United States
+0,India
+1,United States
+0,India
+0,China
+0,United States
+0,China
+0,China
+0,United Kingdom
+1,China
+0,United States
+0,China
+1,China
+1,China
+0,China
+1,China
+0,Switzerland
+1,China
+1,United States
+0,United States
+0,China
+2,China
+0,United States
+0,China
+2,China
+0,South Africa
+0,China
+0,Philippines
+2,Hong Kong
+1,China
+2,China
+1,China
+1,Finland
+0,China
+0,China
+0,China
+0,United States
+1,Brazil
+0,United States
+0,China
+1,China
+0,China
+0,United States
+0,China
+0,China
+1,Germany
+0,China
+0,Netherlands
+0,Brazil
+0,China
+0,United States
+0,United States
+0,France
+0,China
+0,Japan
+0,China
+0,United States
+0,China
+0,China
+1,South Korea
+0,France
+0,United Kingdom
+0,United States
+0,United States
+1,Brazil
+0,China
+0,United States
+0,Netherlands
+1,United Arab Emirates
+0,United States
+1,United States
+0,China
+2,Croatia
+2,United States
+0,Japan
+1,United Kingdom
+0,United States
+0,United States
+1,United States
+0,United States
+0,Brazil
+1,United Kingdom
+0,United States
+1,Israel
+1,Thailand
+1,United States
+0,United States
+0,United States
+0,United States
+0,China
+1,United States
+0,United States
+1,Israel
+0,Singapore
+0,United States
+0,United States
+0,United States
+0,China
+0,United States
+0,United States
+0,United States
+1,United States
+0,United States
+1,China
+0,United States
+0,United States
+2,United States
+0,United States
+0,United States
+1,China
+0,United States
+0,United States
+0,France
+0,Canada
+0,China
+0,United States
+0,United States
+0,United States
+0,United States
+0,United States
+0,United States
+1,Ireland
+0,China
+0,Singapore
+0,United Kingdom
+0,Israel
+2,United States
+0,Israel
+0,United States
+0,United States
+0,United States
+0,Canada
+0,United States
+0,India
+0,United Arab Emirates
+0,Singapore
+0,United States
+0,Denmark
+0,United States
+0,United States
+0,United States
+0,China
+0,Australia
+0,United States
+0,India
+0,Singapore
+0,Brazil
+0,United States
+0,United States
+0,Canada
+0,United States
+0,Norway
+0,United States
+0,South Korea
+0,United States
+0,China
+0,Hong Kong
+0,Germany
+1,Germany
+0,United States
+0,Indonesia
+0,United Kingdom
+0,United States
+0,United States
+0,China
+0,China
+0,Singapore
+0,India
+0,United States
+0,Indonesia
+1,India
+0,United States
+0,United States
+0,United States
+0,France
+0,India
+0,United Kingdom
+0,France
+0,Brazil
+0,United States
+1,United States
+0,China
+0,China
+0,United States
+0,United States
+0,Germany
+1,United States
+1,United States
+0,United States
+0,China
+0,India
+0,United States
+0,United States
+0,United States
+0,United States
+0,India
+0,India
+0,United Kingdom
+1,United States
+0,Mexico
+0,United States
+0,United States
+0,United States
+1,United States
+0,Australia
+0,United States
+0,France
+0,Germany
+0,United States
+0,United States
+1,United States
+0,United States
+0,Sweden
+0,China
+1,Indonesia
+0,Germany
+1,Singapore
+2,India
+0,Canada
+1,United States
+0,United States
+1,Israel
+0,India
+0,United States
+0,United States
+0,United States
+0,Chile
+0,Norway
+1,Switzerland
+0,United Kingdom
+0,Canada
+0,United States
+0,India
+0,United States
+2,Italy
+0,United States
+0,United States
+0,United States
