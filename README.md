@@ -81,7 +81,7 @@ A graphical representation that shows relationships among Industries, Company_ea
 
 From the Unicorn company data, an Unsupervised dataset was created and made available in the Resources folder
 
-[Unsupervised ML code we called Unicorns Evaluation ]((https://github.com/Jusharry/Team_9_Final_Project/blob/8f485032bc3d177d9167347c25079fab2ba61f1f/Unicorns_Evaluation.ipynb)
+[Unsupervised ML code we called Unicorns Evaluation ](https://github.com/Jusharry/Team_9_Final_Project/blob/8f485032bc3d177d9167347c25079fab2ba61f1f/Unicorns_Evaluation.ipynb)
 
 [India startup company code](https://github.com/Jusharry/Team_9_Final_Project/blob/Harry/India_startups.ipynb)
 
