@@ -72,6 +72,9 @@ A graphical representation that shows relationships among Industries, Company_ea
 ![plot](Resources/Images/ERD.png)
 
 ## Results:
+
+[Database sql query](https://github.com/Jusharry/Team_9_Final_Project/blob/Dhru/databasequery.sql)
+
 [Tableau](https://public.tableau.com/app/profile/zeinab.homayounmher/viz/UnicornCompany_16492890602400/test?publish=yes)
 
 [Unicorns company code](https://github.com/Jusharry/Team_9_Final_Project/blob/Simple_Leaflet_Map/Unicorn_Companies_Project.ipynb)
