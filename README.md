@@ -109,6 +109,10 @@ Tested cluster amount and call out x and y-axis
 
 ![plot](Resources/Images/K_means_cluster_plot.png)
 
+Elbow curve
+
+![plot](Resources/Images/K_means_elbow_curve.png)
+
 
 ## Group Presentation
 
