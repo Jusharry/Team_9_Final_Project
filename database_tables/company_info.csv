@@ -1,0 +1,995 @@
+company,founded_year,year_joined,transition_time,country
+Bytedance,2012,2017,5,China
+SpaceX,2002,2012,10,United States
+Stripe,2010,2014,4,United States
+Klarna,2005,2011,6,Sweden
+Epic Games,1991,2018,27,United States
+Canva,2012,2018,6,Australia
+Checkout.com,2012,2019,7,United Kingdom
+Instacart,2012,2014,2,United States
+Databricks,2013,2019,6,United States
+Revolut,2015,2018,3,United Kingdom
+FTX,2018,2021,3,Bahamas
+Fanatics,1995,2012,17,United States
+Chime,2013,2019,6,United States
+BYJU's,2008,2017,9,India
+Xiaohongshu,2013,2016,3,China
+J&T Express,2015,2021,6,Indonesia
+Miro,2011,2022,11,United States
+Yuanfudao,2012,2017,5,China
+DJI Innovations,2006,2015,9,China
+SHEIN,2008,2018,10,China
+goPuff,2013,2020,7,United States
+Yuanqi Senlin,2016,2020,4,China
+Ripple,2012,2019,7,United States
+Plaid,2012,2018,6,United States
+OpenSea,2017,2021,4,United States
+Grammarly,2009,2019,10,United States
+Devoted Health,2017,2018,1,United States
+Faire,2017,2019,2,United States
+Brex,2017,2018,1,United States
+JUUL Labs,2015,2017,2,United States
+Bitmain Technologies,2015,2018,3,China
+Biosplice Therapeutics,2008,2018,10,United States
+GoodLeap,2003,2021,18,United States
+Airtable,2013,2018,5,United States
+ZongMu Technology,2013,2021,8,China
+Global Switch,1998,2016,18,United Kingdom
+Celonis,2011,2018,7,Germany
+Bolt,2014,2021,7,United States
+Alchemy,2017,2021,4,United States
+Swiggy,2014,2018,4,India
+Lalamove,2013,2019,6,Hong Kong
+Figma,2012,2020,8,United States
+Gusto,2011,2015,4,United States
+reddit,2005,2017,12,United States
+Talkdesk,2011,2018,7,United States
+Notion Labs,2016,2020,4,United States
+Thrasio,2018,2020,2,United States
+Digital Currency Group,2018,2021,3,United States
+OutSystems,2001,2018,17,United States
+ServiceTitan,2012,2018,6,United States
+HEYTEA,2012,2019,7,China
+N26,2013,2019,6,Germany
+Klaviyo,2012,2020,8,United States
+Northvolt,2016,2019,3,Sweden
+Tanium,2007,2015,8,United States
+Chehaoduo,2015,2016,1,China
+Niantic,2015,2017,2,United States
+OYO Rooms,2012,2018,6,India
+Rapyd,2016,2019,3,United Kingdom
+Kavak,2016,2020,4,Mexico
+Snyk,2015,2020,5,United States
+Nuro,2016,2019,3,United States
+Bolt,2013,2018,5,Estonia
+Lacework,2015,2021,6,United States
+Tipalti,2010,2020,10,United States
+Tempus,2015,2018,3,United States
+Xingsheng Selected,2009,2020,11,China
+Dream11,2007,2019,12,India
+Fireblocks,2018,2021,3,United States
+Ramp,2019,2021,2,United States
+Flexport,2013,2018,5,United States
+Caris Life Sciences,1996,2021,25,United States
+Dapper Labs,2018,2021,3,Canada
+Getir,2015,2021,6,Turkey
+Netskope,2012,2018,6,United States
+Razorpay,2013,2020,7,India
+Toss,2013,2018,5,South Korea
+Carta,2012,2019,7,United States
+Scale AI,2018,2019,1,United States
+Gong,2015,2020,5,United States
+TripActions,2015,2018,3,United States
+Gemini,2015,2021,6,United States
+We Doctor,2010,2015,5,China
+Discord,2012,2018,6,United States
+Ro,2017,2020,3,United States
+Automation Anywhere,2003,2018,15,United States
+1Password,2005,2021,16,Canada
+Ziroom,2011,2018,7,China
+National Stock Exchange of India,1992,2020,28,India
+Mollie,2004,2020,16,Netherlands
+Rippling,2017,2020,3,United States
+DataRobot,2012,2019,7,United States
+Personio,2015,2021,6,Germany
+Upgrade,2016,2018,2,United States
+Hinge Health,2015,2021,6,United States
+Black Unicorn Factory,2020,2021,1,United States
+Benchling,2012,2021,9,United States
+Royole Corporation,2012,2015,3,China
+Better.com,2018,2020,2,United States
+Wiz,2020,2021,1,Israel
+iCapital Network,2013,2021,8,United States
+Pine Labs,1998,2020,22,India
+6Sense,2013,2021,8,United States
+Attentive,2016,2020,4,United States
+Easyhome,1999,2018,19,China
+Lianjia,2001,2016,15,China
+Vice Media,1994,2011,17,United States
+Cityblock Health,2017,2020,3,United States
+Workato,2013,2021,8,United States
+Back Market,2014,2021,7,France
+RELEX Solutions,2005,2022,17,Finland
+Postman,2014,2020,6,United States
+FiveTran,2012,2020,8,United States
+Pony.ai,2016,2018,2,United States
+Trade Republic,2015,2021,6,Germany
+Rappi,2015,2018,3,Colombia
+Collibra,2008,2019,11,Belgium
+Blockchain.com,2011,2021,10,United Kingdom
+OneTrust,2016,2019,3,United States
+QuintoAndar,2012,2019,7,Brazil
+United Imaging Healthcare,2011,2017,6,China
+Hello TransTech,2016,2018,2,China
+Deel,2018,2021,3,United States
+Airwallex,2015,2019,4,Australia
+Mambu,2011,2021,10,Netherlands
+Horizon Robotics,2015,2019,4,China
+WM Motor,2015,2019,4,China
+Howden Group Holdings,1994,2020,26,United Kingdom
+SambaNova Systems,2017,2021,4,United States
+ZEPZ,2010,2021,11,United Kingdom
+OakNorth Bank,2015,2017,2,United Kingdom
+Moon Active,2015,2020,5,Israel
+OfBusiness,2015,2021,6,India
+Cockroach Labs,2015,2021,6,United States
+Qonto,2016,2022,6,France
+Ola Electric Mobility,2019,2019,0,India
+Icertis,2009,2019,10,United States
+Hopper,2007,2021,14,Canada
+Meesho,2015,2021,6,India
+Cerebral,2020,2021,1,United States
+Creditas,2012,2020,8,Brazil
+Pleo,2015,2021,6,Denmark
+Anduril,2017,2019,2,United States
+Lyra Health,2015,2020,5,United States
+Dataiku,2013,2019,6,United States
+Checkr,2014,2019,5,United States
+Color,2013,2021,8,United States
+Meizu Technology,2003,2014,11,China
+Vinted,2008,2019,11,Lithuania
+VIPKid,2013,2016,3,China
+Socure,2012,2021,9,United States
+Monzo,2000,2018,18,United Kingdom
+UBTECH Robotics,2012,2016,4,China
+Outreach,2011,2019,8,United States
+WeRide,2017,2020,3,China
+BetterUp,2013,2021,8,United States
+Arctic Wolf Networks,2012,2020,8,United States
+Sorare,2019,2021,2,France
+Relativity Space,2016,2020,4,United States
+Miaoshou Doctor,2015,2019,4,China
+Chainalysis,2014,2020,6,United States
+ThoughtSpot,2012,2018,6,United States
+Globalization Partners,2012,2022,10,United States
+dbt Labs,2016,2021,5,United States
+Dataminr,2009,2018,9,United States
+BitPanda,2014,2021,7,Austria
+Weee!,2015,2021,6,United States
+Houzz,2008,2014,6,United States
+Yello Mobile,2012,2014,2,South Korea
+MEGVII,2011,2017,6,China
+Greensill,2011,2018,7,United Kingdom
+Impossible Foods,2011,2019,8,United States
+Radiology Partners,2012,2019,7,United States
+Next Insurance,2016,2019,3,United States
+Patreon,2013,2020,7,United States
+PointClickCare,2000,2021,21,Canada
+BrowserStack,2011,2021,10,Ireland
+Olive,2012,2020,8,United States
+Rubrik,2014,2017,3,United States
+Melio,2018,2021,3,United States
+Vuori,2015,2021,6,United States
+ClickUp,2017,2020,3,United States
+Cerebras Systems,2016,2018,2,United States
+Farmers Business Network,2014,2020,6,United States
+Branch,2014,2018,4,United States
+Aurora Solar,2013,2021,8,United States
+Medlinker,2014,2018,4,China
+Cars24,2015,2020,5,India
+Intarcia Therapeutics,1995,2014,19,United States
+StockX,2016,2019,3,United States
+MessageBird,2011,2020,9,Netherlands
+Guild Education,2015,2019,4,United States
+Articulate,2015,2021,6,United States
+FalconX,2018,2021,3,United States
+Dutchie,2017,2021,4,United States
+Cohesity,2013,2018,5,United States
+VAST Data,2016,2020,4,United States
+GOAT,2015,2020,5,United States
+Noom,2006,2021,15,United States
+Redwood Materials,2017,2021,4,United States
+Papaya Global,2016,2021,5,United States
+ShareChat,2015,2021,6,India
+Relativity,2001,2021,20,United States
+Whoop,2012,2020,8,United States
+Applied Intuition,2017,2020,3,United States
+Course Hero,2006,2020,14,United States
+Otto Bock HealthCare,1919,2017,98,Germany
+Indigo Ag,2014,2017,3,United States
+HyalRoute,2015,2020,5,Singapore
+Rec Room,2016,2021,5,United States
+Digit Insurance,2016,2021,5,India
+Commure,2017,2021,4,United States
+Mirakl,2011,2020,9,France
+Coalition,2017,2021,4,United States
+Tekion,2016,2020,4,United States
+Celsius Network,2017,2021,4,United States
+GoStudent,2017,2021,4,Austria
+Highspot,2013,2021,8,United States
+Handshake,2014,2021,7,United States
+ChargeBee Technologies,2011,2021,10,United States
+Flock Safety,2017,2021,4,United States
+Unacademy,2015,2020,5,India
+MoonPay,2019,2021,2,United States
+Upstox,2010,2021,11,India
+Youxia Motors,2014,2018,4,China
+OwnBackup,2015,2021,6,United States
+Starburst,1999,2021,22,United States
+Cloudwalk,2015,2018,3,China
+ECARX,2016,2020,4,China
+Sila Nanotechnologies,2011,2019,8,United States
+Scopely,2011,2019,8,United States
+Komodo Health,2014,2020,6,United States
+Kurly,2014,2021,7,South Korea
+BlockDaemon,2016,2021,5,United States
+Dadi Cinema,2006,2016,10,China
+Thumbtack,2008,2015,7,United States
+Cedar,2016,2021,5,United States
+Eruditus Executive Education,2010,2021,11,India
+Blockstream,2014,2021,7,Canada
+ConsenSys,2014,2021,7,United States
+Innovaccer,2014,2021,7,United States
+Ironclad,2014,2022,8,United States
+Skims,2019,2021,2,United States
+PsiQuantum,2016,2021,5,United States
+SpotOn,2017,2021,4,United States
+Udaan,2016,2018,2,India
+HighRadius,2006,2020,14,United States
+Nuvemshop,2011,2021,10,Brazil
+DailyHunt,2007,2020,13,India
+Yixia,2011,2015,4,China
+Traveloka,2012,2017,5,Indonesia
+SouChe Holdings,2012,2017,5,China
+BGL Group,1992,2017,25,United Kingdom
+Circle,2013,2018,5,United States
+Zuoyebang,2014,2018,4,China
+Delhivery,2011,2019,8,India
+FlixMobility,2013,2019,6,Germany
+Wildlife Studios,2011,2019,8,Brazil
+ApplyBoard,2015,2020,5,Canada
+Forter,2013,2020,7,United States
+Calendly,2013,2021,8,United States
+BlockFi,2017,2021,4,United States
+ActiveCampaign,2003,2021,18,United States
+CMR Surgical,2014,2019,5,United Kingdom
+Lucid Software,2010,2021,11,United States
+Age of Learning,2007,2016,9,United States
+Carbon Health,2015,2021,6,United States
+Contentful,2013,2021,8,Germany
+LaunchDarkly,2014,2021,7,United States
+Seismic,2010,2018,8,United States
+Grafana Labs,2014,2021,7,United States
+Gorillas,2020,2021,1,Germany
+Sky Mavis,2019,2021,2,Vietnam
+Outschool,2015,2021,6,United States
+TradingView,2011,2021,10,United States
+Groww,2017,2021,4,India
+Podium,2014,2020,6,United States
+Via,2012,2020,8,United States
+Anchorage Digital,2017,2021,4,United States
+Inxeption,2017,2022,5,United States
+Lattice,2015,2021,6,United States
+Flutterwave,2016,2021,5,United States
+Amber Group,2015,2021,6,Hong Kong
+Kraken,2011,2019,8,United States
+OpenAI,2015,2019,4,United States
+Ovo,2017,2019,2,Indonesia
+Workrise,2014,2019,5,United States
+Loft,2018,2020,2,Brazil
+BharatPe,2018,2021,3,India
+DriveWealth,2012,2021,9,United States
+Flink,2021,2021,0,Germany
+Meicai,2014,2016,2,China
+ContentSquare,2012,2021,9,France
+Zipline,2014,2019,5,United States
+Graphcore,2016,2018,2,United Kingdom
+Illumio,2013,2015,2,United States
+Convoy,2015,2018,3,United States
+MasterClass,2015,2021,6,United States
+Dream Games,2019,2021,2,Turkey
+Transmit Security,2014,2021,7,Israel
+Hozon Auto,2014,2021,7,China
+Tradeshift,2009,2018,9,United States
+Nextiva,2008,2021,13,United States
+o9 Solutions,2009,2020,11,United States
+ManoMano,2013,2021,8,France
+Sourcegraph,2013,2021,8,United States
+Pendo,2013,2019,6,United States
+Plume,2015,2021,6,United States
+Moglix,2015,2021,6,Singapore
+Xinchao Media,2007,2018,11,China
+JumpCloud,2012,2021,9,United States
+Vista Global,2004,2017,13,United Arab Emirates
+BYTON,2016,2018,2,China
+Acronis,2003,2019,16,Switzerland
+Side,2017,2021,4,United States
+Lenskart,2008,2019,11,India
+Infra.Market,2016,2021,5,India
+Varo Bank,2015,2021,6,United States
+Cato Networks,2015,2020,5,Israel
+Aura,2019,2021,2,United States
+Vercel,2015,2021,6,United States
+Sysdig,2013,2021,8,United States
+Zetwerk,2018,2021,3,India
+Uniphore,2008,2022,14,United States
+Somatus,2016,2022,6,United States
+Uala,2017,2021,4,Argentina
+Mobile Premier League,2018,2021,3,India
+Cybereason,2012,2019,7,United States
+Cgtz,2014,2017,3,China
+Star Charge,2014,2021,7,China
+Carbon,2013,2015,2,United States
+PolicyBazaar,2008,2019,11,India
+Exabeam,2013,2021,8,United States
+BitSight Technologies,2013,2021,8,United States
+Trumid,2014,2020,6,United States
+ABL Space Systems,2017,2021,4,United States
+Project44,2014,2021,7,United States
+Bought By Many,2012,2021,9,United Kingdom
+Jobandtalent,2009,2021,12,Spain
+WEMAKEPRICE,2009,2015,6,South Korea
+Biren Technology,2019,2020,1,China
+Voodoo,2013,2020,7,France
+Uptake,2014,2015,1,United States
+KeepTruckin,2013,2019,6,United States
+Skydance Media,2010,2020,10,United States
+Greenlight,2014,2020,6,United States
+Bowery Farming,2015,2021,6,United States
+Odoo,2005,2021,16,Belgium
+MoMo,2013,2021,8,Vietnam
+Ankorstore,2019,2022,3,France
+Zume,2015,2018,3,United States
+Algolia,2012,2021,9,United States
+Pattern,2013,2021,8,United States
+NuCom Group,2016,2018,2,Germany
+MUSINSA,2001,2019,18,South Korea
+Current,2015,2021,6,United States
+Bitso,2014,2021,7,Mexico
+Gympass,2012,2019,7,United States
+Reify Health,2012,2021,9,United States
+Dialpad,2011,2020,9,United States
+G7 Networks,2006,2022,16,China
+BloomReach,2009,2022,13,United States
+Huaqin Telecom Technology,2005,2019,14,China
+Accelerant,2018,2022,4,United Kingdom
+Hesai Tech,2013,2020,7,China
+YITU Technology,2012,2018,6,China
+Addepar,2009,2021,12,United States
+Neo4j,2007,2021,14,United States
+CloudWalk,2013,2021,8,Brazil
+FirstCry,2010,2020,10,India
+Eightfold.ai,2016,2020,4,United States
+Webflow,2012,2021,9,United States
+Urban Company,2014,2021,7,India
+ReCharge,2017,2021,4,United States
+Moveworks,2016,2021,5,United States
+Medable,2013,2021,8,United States
+SoundHound,2005,2018,13,United States
+GoCardless,2011,2022,11,United Kingdom
+Trendy Group International,1999,2012,13,Hong Kong
+Avant,1973,2012,39,United States
+BlaBlaCar,2006,2015,9,France
+HuiMin,2013,2016,3,China
+Quora,2009,2017,8,United States
+Improbable,2012,2017,5,United Kingdom
+Preferred Networks,2014,2018,4,Japan
+Formlabs,2011,2018,7,United States
+4Paradigm,2015,2018,3,China
+Calm,2012,2019,7,United States
+Kaseya,2000,2019,19,United States
+Mafengwo,2010,2019,9,China
+Druva,2007,2019,12,United States
+Kujiale,2011,2019,8,China
+AppsFlyer,2011,2020,9,United States
+Keep,2014,2020,6,China
+Redis Labs,2011,2020,9,United States
+Xingyun Group,2015,2020,5,China
+Unqork,2017,2020,3,United States
+Virta Health,2015,2020,5,United States
+ISN,2001,2020,19,United States
+Earnix,2001,2021,20,Israel
+Guoquan Shihui,2017,2021,4,China
+Arrail Dental,1999,2021,22,China
+Clearco,2015,2021,6,Canada
+Hive,2013,2021,8,United States
+KRY,2014,2021,7,Sweden
+Kajabi,2010,2021,11,United States
+Ethos,2019,2021,2,United States
+PayFit,2016,2022,6,United Kingdom
+Beisen,2002,2021,19,China
+Pipe,2019,2021,2,United States
+Iterable,2013,2021,8,United States
+Bunq,2013,2021,8,Netherlands
+Clip,2012,2021,9,Mexico
+Loggi,2013,2019,6,Brazil
+MURAL,2011,2021,10,United States
+Pagaya,2015,2020,5,Israel
+OCSiAl,2012,2019,7,Luxembourg
+XtalPi,2014,2021,7,China
+Divvy Homes,2017,2021,4,United States
+Apeel Sciences,2012,2020,8,United States
+Opay,2018,2021,3,Nigeria
+Aviatrix,2014,2021,7,United States
+SmartNews,2012,2019,7,Japan
+Misfits Market,2018,2021,3,United States
+Spring Health,2016,2021,5,United States
+Black Sesame Technologies,2016,2021,5,China
+Advance Intelligence Group,2016,2021,5,Singapore
+Modern Treasury,2018,2021,3,United States
+Magic Leap,2010,2014,4,United States
+Tier,2018,2021,3,Germany
+Aiven,2016,2021,5,Finland
+ClickHouse,2021,2021,0,United States
+Mynt,2015,2021,6,Philippines
+Everlaw,2010,2021,11,United States
+Zilch,2018,2021,3,United Kingdom
+VerbIT,2016,2021,5,United States
+StarkWare,2018,2021,3,Israel
+Deliverr,2017,2021,4,United States
+SWORD Health,2015,2021,6,United States
+LTK,2011,2021,10,United States
+Exotec,2015,2022,7,France
+Dremio,2015,2021,6,United States
+Akulaku,2014,2022,8,Indonesia
+Cloudinary,2011,2022,11,United States
+Fenbi Education,2015,2021,6,China
+Starling Bank,2014,2021,7,United Kingdom
+Rokt,2012,2021,9,United States
+InVision,2011,2017,6,United States
+MX Technologies,2010,2021,11,United States
+Aledade,2014,2021,7,United States
+CoinSwitch Kuber,2017,2021,4,India
+ENOVATE,2015,2019,4,China
+CFGI,2000,2021,21,United States
+Retool,2000,2021,21,United States
+Automattic,2005,2013,8,United States
+ZocDoc,2007,2015,8,United States
+Diamond Foundry,2012,2021,9,United States
+FullStory,2014,2021,7,United States
+Lightricks,2013,2019,6,Israel
+Opentrons,2016,2021,5,United States
+AIWAYS,2017,2018,1,China
+Trulioo,2011,2021,10,Canada
+Spinny,2015,2021,6,India
+Orca Security,2019,2021,2,United States
+Apus Group,2014,2015,1,China
+Harry's,2013,2018,5,United States
+PAX,2007,2018,11,United States
+DispatchHealth,2013,2021,8,United States
+Unite Us,2014,2021,7,United States
+CircleCI,2011,2021,10,United States
+Vestiaire Collective,2009,2021,12,France
+Dragos,2016,2021,5,United States
+Reltio,2011,2021,10,United States
+H2O.ai,2011,2021,10,United States
+ZenBusiness,2015,2021,6,United States
+Carsome,2015,2021,6,Malaysia
+Productboard,2014,2022,8,United States
+Spotter,2019,2022,3,United States
+Alan,2016,2021,5,France
+wefox,2014,2019,5,Germany
+Hibob,2015,2021,6,Israel
+Trader Interactive,2015,2021,6,United States
+Jusfoun Big Data,2010,2018,8,China
+Transcarent,2020,2022,2,United States
+DealShare,2018,2022,4,India
+solarisBank,2016,2021,5,Germany
+Infinidat,2011,2015,4,United States
+Afiniti,2006,2017,11,Bermuda
+Cao Cao Mobility,2015,2018,3,China
+Verkada,2016,2020,4,United States
+Clari,2012,2021,9,United States
+Tonal,2015,2021,6,United States
+Clio,2008,2021,13,Canada
+SafetyCulture,2004,2021,17,Australia
+Extend,2004,2021,17,United States
+Cognite,2016,2021,5,Norway
+ASAPP,2014,2021,7,United States
+SmartHR,2013,2021,8,Japan
+Mercury,2019,2021,2,United States
+HomeLight,2012,2021,9,United States
+Truepill,2016,2021,5,United States
+ezCater,2007,2019,12,United States
+Wayflyer,2019,2022,3,Ireland
+Promasidor Holdings,1979,2016,37,South Africa
+Baiwang,2015,2019,4,China
+Iluvatar CoreX,2015,2021,6,China
+Wenheyou,2013,2021,8,China
+Loom,2016,2021,5,United States
+Ximalaya FM,2012,2017,5,China
+Mu Sigma,2004,2013,9,United States
+TuJia,2011,2015,4,China
+Mofang Living,2009,2016,7,China
+Gett,2010,2016,6,United Kingdom
+DT Dream,2015,2017,2,China
+XiaoZhu,2012,2017,5,China
+JOLLY Information Technology,2008,2018,10,China
+Yijiupi,2014,2018,4,China
+Cambridge Mobile Telematics,2010,2018,8,United States
+Collective Health,2013,2019,6,United States
+Strava,2009,2020,11,United States
+Zenoti,2010,2020,10,United States
+K Health,2016,2021,5,United States
+ID.me,2010,2021,11,United States
+Snapdocs,2012,2021,9,United States
+Chipper Cash,2017,2021,4,United States
+Ledger,2014,2021,7,France
+Next Silicon,2018,2021,3,Israel
+YunQuNa,2015,2021,6,China
+Impact,2008,2021,13,United States
+SmartRecruiters,2010,2021,11,United States
+NotCo,2015,2021,6,Chile
+Culture Amp,2011,2021,10,Australia
+TaxBit,2018,2021,3,United States
+Pacaso,2020,2021,1,United States
+1047 Games,2017,2021,4,United States
+Matillion,2011,2021,10,United Kingdom
+Persona,2018,2021,3,United States
+Whatnot,2019,2021,2,United States
+Ascend Money,2013,2021,8,Thailand
+Andela,2014,2021,7,United States
+Built,2015,2021,6,United States
+candy.com,2021,2021,0,United States
+Devo,2011,2021,10,United States
+CoinList,2017,2021,4,United States
+Lusha,2016,2021,5,United States
+CureFit,2016,2021,5,India
+Solugen,2016,2021,5,United States
+Olist,2015,2021,6,Brazil
+Paradox,2016,2021,5,United States
+Airbyte,2020,2021,1,United States
+StoreDot,2012,2022,10,Israel
+Il Makiage,2018,2022,4,United States
+Spendesk,2015,2022,7,France
+Veriff,2015,2022,7,Estonia
+Athelas,2016,2022,6,United States
+ElasticRun,2016,2022,6,India
+Veho,2016,2021,5,United States
+Temporal,2019,2022,3,United States
+Fabric,2017,2022,5,United States
+Yipin Shengxian,2017,2019,2,China
+Bordrin Motors,2016,2019,3,China
+Coocaa,2006,2018,12,China
+Juma Peisong,2011,2018,7,China
+Ouyeel,2015,2019,4,China
+Gymshark,2012,2020,8,United Kingdom
+Zeta,2015,2021,6,United States
+M1 Finance,2015,2021,6,United States
+Aleo,2019,2022,3,United States
+Einride,2016,2021,5,Sweden
+Justworks,2012,2020,8,United States
+SonderMind,2014,2021,7,United States
+Papa,2016,2021,5,United States
+Figment,2018,2021,3,Canada
+Envoy,2013,2022,9,United States
+Deliverect,2018,2022,4,Belgium
+SparkCognition,2013,2022,9,United States
+Firebolt,2019,2022,3,Israel
+Koudai,2010,2014,4,China
+Symphony,2014,2017,3,United States
+Yidian Zixun,2021,2017,-4,China
+Cabify,2011,2018,7,Spain
+Hive Box,2015,2018,3,China
+Deezer,2007,2018,11,France
+Away,2015,2019,4,United States
+Kong,2007,2020,13,United States
+Epidemic Sound,2009,2021,12,Sweden
+Yotpo,2011,2021,10,United States
+Rebel Foods,2011,2021,10,India
+Five Star Business Finance,1984,2021,37,India
+Stash,2015,2021,6,United States
+Phenom People,2011,2021,10,United States
+GupShup,2011,2021,10,United States
+Degreed,2012,2021,9,United States
+Astranis Space Technologies,2015,2021,6,United States
+Scalable Capital,2014,2021,7,Germany
+VideoAmp,2014,2021,7,United States
+Panther Labs,2018,2021,3,United States
+Salt Security,2016,2022,6,United States
+Tripledot Studios,2017,2022,5,United Kingdom
+Neon,2016,2022,6,Brazil
+DeepBlue Technology,2014,2018,4,China
+Klook,2014,2018,4,Hong Kong
+Yaoshibang,2015,2021,6,China
+At-Bay,2016,2021,5,United States
+Alloy,2015,2021,6,United States
+Epirus,2018,2022,4,United States
+Signifyd,2011,2021,10,United States
+Motorway,2017,2021,4,United Kingdom
+RIDI,2008,2022,14,South Korea
+Flipboard,2010,2015,5,United States
+Grove Collaborative,2016,2019,3,United States
+GPclub,2003,2018,15,South Korea
+Tongdun Technology,2013,2019,6,China
+Athletic Greens,2010,2022,12,United States
+Unisound,2012,2018,6,China
+Alzheon,2013,2020,7,United States
+HeartFlow,2007,2017,10,United States
+Trax,2010,2019,9,Singapore
+InSightec,1999,2020,21,Israel
+Everly Health,2015,2020,5,United States
+Manner,2015,2020,5,China
+TalkingData,2013,2021,8,China
+DistroKid,2013,2021,8,United States
+Konfio,2013,2021,8,Mexico
+Betterment,2010,2021,11,United States
+Flock Freight,2015,2021,6,United States
+YugaByte,2016,2021,5,United States
+Lukka,2014,2022,8,United States
+TravelPerk,2015,2022,7,Spain
+iTrustCapital,2018,2022,4,United States
+Domestika,2012,2022,10,United States
+CoinTracker,2017,2022,5,United States
+Loadsmart,2014,2022,8,United States
+TUNGEE,2016,2021,5,China
+Starry,2014,2018,4,United States
+Intercom,2011,2018,7,United States
+OVO Energy,2009,2019,10,United Kingdom
+Huisuanzhang,2015,2021,6,China
+BigID,2015,2020,5,United States
+Kuaikan Manhua,2014,2017,3,China
+Marshmallow,2017,2021,4,United Kingdom
+Honor Technology,2014,2021,7,United States
+Mythical Games,2018,2021,3,United States
+Incode Technologies,2015,2021,6,United States
+Tackle.io,2016,2021,5,United States
+Flipdish,2015,2022,7,Ireland
+Route,2018,2022,4,United States
+CaptivateIQ,2014,2022,8,United States
+BrewDog,2007,2017,10,United Kingdom
+Enflame,2018,2021,3,China
+EQRx,2020,2021,1,United States
+Nexii,2020,2021,1,Canada
+GalaxySpace,2016,2020,4,China
+Spiber,2007,2021,14,Japan
+Insider,2012,2022,10,Turkey
+Yiguo,2005,2016,11,China
+Glossier,2014,2019,5,United States
+Workhuman,1999,2020,21,Ireland
+Qumulo,2012,2020,8,United States
+Tealium,2008,2021,13,United States
+Public,2008,2021,13,United States
+Axonius,2017,2021,4,United States
+Savage X Fenty,2018,2021,3,United States
+Pipa Coding,2017,2021,4,China
+Aibee,2017,2021,4,China
+Cava Group,2010,2021,11,United States
+Vectra Networks,2011,2021,10,United States
+Ada Support,2016,2021,5,Canada
+Inari,2016,2021,5,United States
+Alation,2012,2021,9,United States
+Forto,2016,2021,5,Germany
+SmartMore,2019,2021,2,China
+Rohlik,2019,2021,2,Czech Republic
+Prime Medicine,2019,2021,2,United States
+FloQast,2013,2021,8,United States
+MindTickle,2012,2021,9,United States
+UpGrad,2015,2021,6,India
+DailyPay,2016,2021,5,United States
+Oda,2013,2021,8,Norway
+Offchain Labs,2018,2021,3,United States
+Copado,2013,2021,8,United States
+Gem,2017,2021,4,United States
+CarDekho,2008,2021,13,India
+MyGlamm,2015,2021,6,India
+AgentSync,2018,2021,3,United States
+Pristyn Care,2018,2021,3,India
+Jokr,2021,2021,0,United States
+Merama,2020,2021,1,Mexico
+SeekOut,2017,2022,5,United States
+BigPanda,2012,2022,10,United States
+Phantom,2021,2022,1,United States
+LivSpace,2015,2022,7,India
+Xpressbees,2012,2022,10,India
+Helium Systems,2013,2022,9,United States
+CloudBees,2010,2021,11,United States
+L&P Cosmetic,2009,2016,7,South Korea
+Mininglamp Technology,2014,2019,5,China
+Luoji Siwei,2012,2017,5,China
+Yimidida,2015,2019,4,China
+Modern Health,2017,2021,4,United States
+IRL,2017,2021,4,United States
+Tuhu,2011,2018,7,China
+SVOLT,2018,2020,2,China
+LifeMiles,2011,2015,4,Colombia
+Venafi,2000,2020,20,United States
+Guideline,2015,2021,6,United States
+Rebellion Defense,2019,2021,2,United States
+Happy Money,2009,2022,13,United States
+Doctolib,2013,2019,6,France
+STORD,2015,2021,6,United States
+TELD,2014,2019,5,China
+TangoMe,2009,2014,5,United States
+AppDirect,2009,2015,6,United States
+Juanpi,2012,2016,4,China
+OVH,1999,2016,17,France
+Eat Just,2011,2017,6,United States
+GetYourGuide,2009,2019,10,Germany
+Ivalua,2000,2019,19,United States
+Sisense,2004,2020,16,United States
+Pharmapacks,2010,2020,10,United States
+Sennder,2015,2021,6,Germany
+Nexthink,2004,2021,17,Switzerland
+Zego,2016,2021,5,United Kingdom
+Rightway,2017,2021,4,United States
+Sunbit,2016,2021,5,United States
+G2,2012,2021,9,United States
+Hailo,2017,2021,4,Israel
+People.ai,2017,2021,4,United States
+CoinDCX,2017,2021,4,India
+Carousell,2012,2021,9,Singapore
+apna,2019,2021,2,India
+Karat,2014,2021,7,United States
+Enpal,2017,2021,4,Germany
+Acko General Insurance,2016,2021,5,India
+Daily Harvest,2014,2021,7,United States
+The Bank of London,2018,2021,3,United Kingdom
+Fundbox,2013,2021,8,United States
+Turing,2018,2021,3,United States
+GlobalBees,2021,2021,0,India
+LEAD School,2012,2022,10,India
+eSentire,2001,2022,21,Canada
+Beyond Identity,2019,2022,3,United States
+Nxin,2015,2018,3,China
+UISEE Technology,2016,2021,5,China
+Rubicon,2008,2017,9,United States
+Radius Payment Solutions,1990,2017,27,United Kingdom
+Rivigo,2014,2019,5,India
+Mamaearth,2016,2021,5,India
+Jiuxian,2009,2015,6,China
+Instabase,2015,2019,4,United States
+Sendbird,2013,2021,8,United States
+Density,2014,2021,7,United States
+Mixpanel,2009,2021,12,United States
+Aprogen,2000,2019,19,South Korea
+OrCam Technologies,2010,2018,8,Israel
+Leap Motor,2015,2018,3,China
+Lookout,2007,2013,6,United States
+Snapdeal,2008,2014,6,India
+TechStyle Fashion Group,2010,2014,4,United States
+InMobi,2007,2014,7,India
+LinkSure Network,2013,2015,2,China
+Red Ventures,2000,2015,15,United States
+BeiBei,2011,2015,4,China
+Lamabang,2011,2015,4,China
+BenevolentAI,2013,2015,2,United Kingdom
+FXiaoKe,2011,2015,4,China
+Vox Media,2011,2015,4,United States
+Mia.com,2011,2015,4,China
+58 Daojia,2014,2015,1,China
+Womai,2009,2015,6,China
+HuJiang,2001,2015,14,China
+iTutorGroup,1998,2015,17,China
+MindMaze,2012,2016,4,Switzerland
+iCarbonX,2015,2016,1,China
+SMS Assist,2003,2016,13,United States
+Kendra Scott,2002,2016,14,United States
+Mobvoi,2012,2017,5,China
+Zhuan Zhuan,2015,2017,2,China
+Modernizing Medicine,2010,2017,7,United States
+Zhaogang,2012,2017,5,China
+DianRong,2012,2017,5,China
+Cell C,2000,2017,17,South Africa
+YH Global,1997,2017,20,China
+Revolution Precrafted,2015,2017,2,Philippines
+WeLab,2013,2017,4,Hong Kong
+Maimai,2013,2017,4,China
+Dxy.cn,2000,2018,18,China
+Orbbec Technology,2013,2018,5,China
+HMD Global,2016,2018,2,Finland
+Huike Group,2010,2018,8,China
+China Cloud,2010,2018,8,China
+LinkDoc Technology,2014,2018,4,China
+MediaMath,2007,2018,11,United States
+Axiom Space,2016,2021,5,United States
+Movile,1998,2018,20,Brazil
+Pat McGrath Labs,2016,2018,2,United States
+Wacai,2009,2018,9,China
+FlashEx,2014,2018,4,China
+Banma Network Technologies,2015,2018,3,China
+Tresata,2011,2018,7,United States
+Momenta,2016,2018,2,China
+Hosjoy,2009,2018,9,China
+Omio,2013,2018,5,Germany
+TERMINUS Technology,2015,2018,3,China
+BitFury,2011,2018,7,Netherlands
+iFood,2011,2018,7,Brazil
+Geek+,2015,2018,3,China
+REEF Technology,2015,2018,3,United States
+Globality,2015,2019,4,United States
+Ynsect,2011,2019,8,France
+Intellifusion,2014,2019,5,China
+Liquid,2014,2019,5,Japan
+Poizon,2015,2019,4,China
+VTS,2012,2019,7,United States
+SITECH DEV,2017,2019,2,China
+KnowBox,2014,2019,5,China
+Yanolja,2005,2019,14,South Korea
+Meero,2016,2019,3,France
+SumUp,2011,2019,8,United Kingdom
+Ibotta,2011,2019,8,United States
+C2FO,2008,2019,11,United States
+EBANX,2012,2019,7,Brazil
+KK Group,2014,2019,5,China
+Alto Pharmacy,2015,2020,5,United States
+Hotmart,2011,2020,9,Netherlands
+Emerging Markets Property Group,2015,2020,5,United Arab Emirates
+Quizlet,2005,2020,15,United States
+Orca Bio,2016,2020,4,United States
+Newlink Group,2016,2020,4,China
+Infobip,2006,2020,14,Croatia
+Zwift,2014,2020,6,United States
+Playco,2020,2020,0,Japan
+Gousto,2012,2020,8,United Kingdom
+Boom Supersonic,2014,2020,6,United States
+Qualia,2015,2020,5,United States
+Quantum Metric,2015,2021,6,United States
+News Break,2015,2021,6,United States
+MadeiraMadeira,2009,2021,12,Brazil
+PPRO,2006,2021,15,United Kingdom
+Splashtop,2006,2021,15,United States
+DriveNets,2015,2021,6,Israel
+Flash Express,2017,2021,4,Thailand
+Locus Robotics,2014,2021,7,United States
+Standard,2017,2021,4,United States
+Sentry,2011,2021,10,United States
+WeBull,2016,2021,5,China
+Skydio,2014,2021,7,United States
+Newsela,2013,2021,8,United States
+Aqua Security,2015,2021,6,Israel
+PatSnap,2007,2021,14,Singapore
+Evidation,2012,2021,9,United States
+Sidecar Health,2018,2021,3,United States
+Feedzai,2009,2021,12,United States
+Yunxuetang,2011,2021,10,China
+Cameo,2016,2021,5,United States
+Fetch Rewards,2014,2021,7,United States
+The Zebra,2012,2021,9,United States
+Clearcover,2016,2021,5,United States
+Groq,2016,2021,5,United States
+Fiture,2019,2021,2,China
+Injective Protocol,2018,2021,3,United States
+Sift,2011,2021,10,United States
+Capsule,2016,2021,5,United States
+MOLOCO,2013,2021,8,United States
+Mux,2015,2021,6,United States
+XForcePlus,2015,2021,6,China
+Firefly Aerospace,2014,2021,7,United States
+HoneyBook,2013,2021,8,United States
+Shift Technology,2014,2021,7,France
+TensTorrent,2016,2021,5,Canada
+Zihaiguo,2018,2021,3,China
+Forte Labs,2018,2021,3,United States
+Axtria,2009,2021,12,United States
+Vise,2016,2021,5,United States
+Printful,2016,2021,5,United States
+Shippo,2013,2021,8,United States
+Thirty Madison,1993,2021,28,United States
+LetsGetChecked,2015,2021,6,Ireland
+EcoFlow,2017,2021,4,China
+Carro,2015,2021,6,Singapore
+Tractable,2014,2021,7,United Kingdom
+Bringg,2013,2021,8,Israel
+Claroty,2015,2021,6,United States
+JoyTunes,2011,2021,10,Israel
+Aircall,2014,2021,7,United States
+SmartAsset,2012,2021,9,United States
+Morning Consult,2014,2021,7,United States
+Visier,2010,2021,11,Canada
+ShipBob,2014,2021,7,United States
+Blinkit,2013,2021,8,India
+Kitopi,2018,2021,3,United Arab Emirates
+bolttech,2018,2021,3,Singapore
+MobileCoin,2018,2021,3,United States
+Lunar,2015,2021,6,Denmark
+Amperity,2016,2021,5,United States
+Remote,2016,2021,5,United States
+Pantheon Systems,2020,2021,1,United States
+Xiaobing,2020,2021,1,China
+GO1,2015,2021,6,Australia
+Interos,2005,2021,16,United States
+BlackBuck,2015,2021,6,India
+NIUM,2014,2021,7,Singapore
+Unico,2007,2021,14,Brazil
+Human Interest,2015,2021,6,United States
+Bluecore,2013,2021,8,United States
+Freshbooks,2004,2021,17,Canada
+Snorkel AI,2019,2021,2,United States
+Gelato,2007,2021,14,Norway
+Maven Clinic,2014,2021,7,United States
+Dunamu,2012,2021,9,South Korea
+Shield AI,2015,2021,6,United States
+1KMXC,2014,2021,7,China
+Cider,2020,2021,1,Hong Kong
+Berlin Brands Group,2005,2021,16,Germany
+Agile Robots,2018,2021,3,Germany
+GrubMarket,2013,2021,8,United States
+Xendit,2014,2021,7,Indonesia
+TrueLayer,2016,2021,5,United Kingdom
+Assembly,2019,2021,2,United States
+PandaDoc,2016,2021,5,United States
+Keenon Robotics,2010,2021,11,China
+HAYDON,2020,2021,1,China
+Ninja Van,2014,2021,7,Singapore
+Vedantu,2014,2021,7,India
+TrialSpark,2014,2021,7,United States
+Ajaib,2018,2021,3,Indonesia
+Licious,2015,2021,6,India
+Masterworks,2017,2021,4,United States
+Chronosphere,2019,2021,2,United States
+Solo.io,2017,2021,4,United States
+Swile,2016,2021,5,France
+MobiKwik,2009,2021,12,India
+Zopa,2005,2021,16,United Kingdom
+Dental Monitoring,2014,2021,7,France
+CargoX,2015,2021,6,Brazil
+Fabric,1999,2021,22,United States
+Augury,2011,2021,10,United States
+Moka,2015,2021,6,China
+Tezign,2015,2021,6,China
+Vagaro,2009,2021,12,United States
+Drata,2020,2021,1,United States
+Razor,2020,2021,1,Germany
+OpenWeb,2012,2021,9,United States
+Contrast Security,2014,2021,7,United States
+Wrapbook,2018,2021,3,United States
+Gaussian Robotics,2013,2021,8,China
+Mensa Brands,2021,2021,0,India
+Heyday,2017,2021,4,United States
+PLACE,2020,2021,1,United States
+Owkin,2016,2021,5,United States
+Expel,2016,2021,5,United States
+NoBroker,2014,2021,7,India
+Slice,2015,2021,6,India
+Thought Machine,2014,2021,7,United Kingdom
+Lessen,2019,2021,2,United States
+Clara,2020,2021,1,Mexico
+YipitData,2008,2021,13,United States
+Anyscale,2019,2021,2,United States
+Iodine Software,2010,2021,11,United States
+ReliaQuest,2007,2021,14,United States
+Pet Circle,2011,2021,10,Australia
+Nature's Fynd,2012,2021,9,United States
+Lydia,2011,2021,10,France
+SellerX,2020,2021,1,Germany
+SnapLogic,2006,2021,15,United States
+Cadence,2020,2021,1,United States
+Noname Security,2020,2021,1,United States
+Rothy's,2016,2021,5,United States
+VOI,2018,2021,3,Sweden
+Haomao.AI,2019,2021,2,China
+Kopi Kenangan,2017,2021,4,Indonesia
+InFarm,2013,2021,8,Germany
+ONE,2011,2021,10,Singapore
+Fractal Analytics,2000,2022,22,India
+Assent Compliance,2005,2022,17,Canada
+CAIS,2009,2022,13,United States
+Placer.ai,2016,2022,6,United States
+Pentera,2015,2022,7,Israel
+Darwinbox,2015,2022,7,India
+Minio,2014,2022,8,United States
+Fever Labs,2012,2022,10,United States
+Esusu,2015,2022,7,United States
+Betterfly,2018,2022,4,Chile
+Dune Analytics,2018,2022,4,Norway
+Scandit,2009,2022,13,Switzerland
+Payhawk,2018,2022,4,United Kingdom
+Axelar,2020,2022,2,Canada
+CHEQ,2014,2022,8,United States
+Hasura,2017,2022,5,India
+Timescale,2015,2022,7,United States
+Scalapay,2019,2022,3,Italy
+Omada Health,2011,2022,11,United States
+BlueVoyant,2017,2022,5,United States
+Veev,2008,2022,14,United States
