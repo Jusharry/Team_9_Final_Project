@@ -112,6 +112,6 @@ Tested cluster amount and call out x and y-axis
 
 ## Group Presentation
 
-[Google Slides](https://github.com/Jusharry/Team_9_Final_Project/blob/main/Presentation%20(1).pdf) 
+[Presentation Slides](https://github.com/Jusharry/Team_9_Final_Project/blob/main/Presentation%20(1).pdf) 
 
 
